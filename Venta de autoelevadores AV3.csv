@@ -1,0 +1,1251 @@
+ID_venta,Fecha_venta,Marca,Tipo,Capacidad_kg,Altura_torre_mm,Provincia,Cliente_tipo,Año_fabricación,Estado,Método_pago,Vendedor,Horas_uso,Precio_USD
+VENT00822,2022-01-07,Linde,eléctrico,5000,3000,Santa Fe,particular,2019.0,usado,contado,Grupo Industrial SA,2939.5748174314535,49656.58
+VENT00209,2022-01-08,Hyster,gas,1800,3000,Santa Fe,particular,2015.0,reacondicionado,contado,Potencia SRL,5014.133313072488,19701.25
+VENT00073,2022-01-09,Yale,eléctrico,3500,4700,Buenos Aires,empresa logística,2017.0,nuevo,contado,Grupo Industrial SA,2754.4851768774442,54889.31
+VENT01169,2022-01-10,Linde,eléctrico,1800,4000,Santa Fe,distribuidor,2019.0,usado,contado,Forklift Solutions,6395.6006218884695,12000.0
+VENT00129,2022-01-11,Hyster,eléctrico,1800,4000,Buenos Aires,,2023.0,usado,leasing,Forklift Solutions,1564.7862423016413,18145.26
+VENT00206,2022-01-14,Crown,eléctrico,1800,3000,Neuquén,empresa logística,2016.0,usado,contado,Autoelevadores Norte,5913.993588870815,12000.0
+VENT00408,2022-01-16,Hyster,gas,5000,4000,Chubut,particular,2015.0,usado,leasing,Potencia SRL,5665.510884148234,36331.05
+VENT00457,2022-01-17,Yale,eléctrico,5000,4000,Neuquén,empresa logística,2016.0,usado,leasing,Potencia SRL,4811.110471185268,46531.25
+VENT00946,2022-01-17,Crown,eléctrico,1800,4000,Córdoba,,2021.0,usado,crédito,Autoelevadores Norte,3455.539975230455,16025.59
+VENT00471,2022-01-18,Linde,diésel,5000,3000,Santa Fe,particular,2018.0,usado,crédito,Grupo Industrial SA,4842.587324118254,42441.47
+VENT00899,2022-01-19,Hyster,gas,2500,6000,Neuquén,distribuidor,2023.0,usado,leasing,Grupo Industrial SA,4135.627495814084,27388.02
+VENT00841,2022-01-20,Toyota,diésel,1800,3000,Santa Fe,particular,2019.0,nuevo,crédito,Autoelevadores Norte,1678.67431639356,29837.68
+VENT00333,2022-01-22,Crown,diésel,1800,4700,Neuquén,,2022.0,usado,leasing,Forklift Solutions,4917.592926726031,12692.07
+VENT00564,2022-01-22,Toyota,diésel,2500,4000,Mendoza,distribuidor,2022.0,nuevo,leasing,Potencia SRL,917.8899788215881,41323.21
+VENT00245,2022-01-23,Yale,gas,1800,4700,Buenos Aires,empresa logística,2020.0,usado,contado,Forklift Solutions,3586.9153127466907,19713.13
+VENT00172,2022-01-25,Crown,eléctrico,5000,3000,Santa Fe,distribuidor,2015.0,usado,leasing,Potencia SRL,8414.031066714833,42210.82
+VENT00372,2022-01-27,Linde,diésel,2500,4000,,empresa logística,2022.0,nuevo,crédito,Potencia SRL,1530.0757021543156,39629.06
+VENT00937,2022-01-27,Linde,eléctrico,5000,4000,Chubut,particular,2023.0,nuevo,contado,Forklift Solutions,941.0830120751224,69856.58
+VENT00795,2022-01-27,Yale,eléctrico,5000,3000,Neuquén,distribuidor,2020.0,reacondicionado,leasing,Grupo Industrial SA,4831.116664319032,55597.05
+VENT01074,2022-01-27,Hyster,diésel,5000,4700,Buenos Aires,distribuidor,,nuevo,leasing,Autoelevadores Norte,419.0082542182375,67204.15
+VENT00883,2022-01-29,Hyster,eléctrico,3500,6000,Córdoba,empresa logística,2019.0,usado,crédito,Grupo Industrial SA,5682.974734156458,37833.3
+VENT00641,2022-01-30,Still,diésel,2500,3000,Mendoza,distribuidor,2022.0,nuevo,contado,Autoelevadores Norte,1406.1365925935108,40430.93
+VENT00011,2022-01-31,Still,diésel,1800,4000,Chubut,distribuidor,2020.0,usado,contado,Forklift Solutions,2963.6703866807516,15838.88
+VENT01050,2022-02-01,Still,eléctrico,5000,4000,Neuquén,particular,2021.0,nuevo,crédito,Potencia SRL,2189.9534616823466,62708.09
+VENT00926,2022-02-02,Still,diésel,3500,4000,Córdoba,distribuidor,2023.0,nuevo,crédito,Autoelevadores Norte,1143.293793586952,51676.84
+VENT01203,2022-02-02,Toyota,eléctrico,2500,3000,Mendoza,distribuidor,2020.0,usado,crédito,Forklift Solutions,4768.370681697927,21731.53
+VENT00378,2022-02-03,Linde,diésel,2500,3000,,distribuidor,2019.0,usado,,Potencia SRL,5459.535112436932,18063.16
+VENT00238,2022-02-05,Crown,diésel,2500,3000,Neuquén,distribuidor,2021.0,reacondicionado,crédito,Forklift Solutions,4190.696749462964,30325.99
+VENT01202,2022-02-05,Toyota,eléctrico,2500,4000,Mendoza,empresa logística,2016.0,usado,leasing,Autoelevadores Norte,6461.640558917376,23282.31
+VENT01048,2022-02-05,Still,eléctrico,2500,3000,Chubut,distribuidor,2020.0,usado,crédito,Potencia SRL,1605.21093384271,24982.04
+VENT00313,2022-02-07,Hyster,eléctrico,5000,4000,Mendoza,particular,2024.0,usado,contado,Forklift Solutions,5020.768053348874,40877.5
+VENT00099,2022-02-07,Hyster,diésel,1800,4700,Chubut,distribuidor,2019.0,usado,leasing,Grupo Industrial SA,4205.752564247974,15403.32
+VENT00875,2022-02-07,Toyota,eléctrico,3500,3000,,particular,2022.0,nuevo,contado,Grupo Industrial SA,902.6932848886152,52623.11
+VENT00357,2022-02-08,Crown,diésel,3500,3000,Buenos Aires,,2018.0,nuevo,leasing,Potencia SRL,2034.721240075382,48480.71
+VENT00902,2022-02-08,Linde,eléctrico,1800,3000,Santa Fe,empresa logística,2016.0,usado,contado,Forklift Solutions,6315.326749036312,12000.0
+VENT00516,2022-02-08,Still,eléctrico,3500,4000,Santa Fe,particular,2024.0,usado,leasing,Autoelevadores Norte,1988.1773989447702,33152.87
+VENT00879,2022-02-09,Linde,gas,2500,4700,Mendoza,particular,2021.0,usado,contado,Autoelevadores Norte,3794.452776693707,25132.91
+VENT01160,2022-02-12,Linde,eléctrico,1800,3000,Córdoba,particular,2019.0,usado,crédito,Forklift Solutions,4017.9337884054767,13453.64
+VENT00558,2022-02-12,Still,eléctrico,2500,6000,Buenos Aires,distribuidor,2024.0,usado,crédito,Potencia SRL,3129.039794000047,30416.86
+VENT00291,2022-02-14,Linde,gas,2500,6000,Neuquén,empresa logística,2023.0,usado,leasing,Potencia SRL,3036.716892925878,29563.55
+VENT00101,2022-02-15,Still,eléctrico,1800,4000,Córdoba,empresa logística,2016.0,nuevo,leasing,Potencia SRL,2853.483037313176,26619.28
+VENT00975,2022-02-15,Still,diésel,3500,6000,Neuquén,distribuidor,2020.0,usado,crédito,Autoelevadores Norte,4907.1169220076,31543.01
+VENT01234,2022-02-15,Hyster,eléctrico,1800,4000,Mendoza,particular,2022.0,nuevo,leasing,Forklift Solutions,1188.2230509027872,36192.06
+VENT01248,2022-02-17,Still,eléctrico,5000,4700,Neuquén,particular,2023.0,nuevo,contado,Grupo Industrial SA,745.9799498260903,69905.7
+VENT00765,2022-02-18,Linde,diésel,1800,4700,Córdoba,particular,2022.0,reacondicionado,crédito,Potencia SRL,3745.5534947657598,24762.75
+VENT01020,2022-02-19,Hyster,diésel,2500,6000,Córdoba,particular,2017.0,usado,contado,Forklift Solutions,4013.068996289925,28076.2
+VENT00043,2022-02-20,Still,gas,3500,4000,,empresa logística,2022.0,usado,leasing,Grupo Industrial SA,2552.7306055638655,31317.15
+VENT00286,2022-02-22,Crown,diésel,2500,4700,Neuquén,distribuidor,2021.0,usado,crédito,Potencia SRL,,24141.31
+VENT00857,2022-02-23,Crown,eléctrico,5000,4000,Córdoba,distribuidor,2018.0,nuevo,,Grupo Industrial SA,1426.0563744465783,65727.58
+VENT00146,2022-02-23,Hyster,eléctrico,3500,4000,Santa Fe,distribuidor,2018.0,reacondicionado,leasing,Potencia SRL,3250.957740344689,41789.19
+VENT00629,2022-02-23,Still,eléctrico,2500,4000,Córdoba,distribuidor,2018.0,usado,contado,Potencia SRL,3668.006961327913,25028.17
+VENT00292,2022-02-24,Crown,gas,3500,4700,Mendoza,distribuidor,2018.0,usado,crédito,Forklift Solutions,7188.049016964156,31909.48
+VENT01031,2022-02-24,Linde,diésel,2500,3000,Buenos Aires,empresa logística,2017.0,usado,leasing,Autoelevadores Norte,8788.34162570236,14569.73
+VENT00611,2022-02-27,Toyota,diésel,5000,4000,Neuquén,particular,2025.0,usado,leasing,Autoelevadores Norte,4765.307633070586,40580.15
+VENT01014,2022-02-27,Crown,gas,3500,6000,Mendoza,empresa logística,2025.0,reacondicionado,crédito,Autoelevadores Norte,2913.378803782944,43438.93
+VENT00169,2022-03-01,Crown,diésel,3500,3000,Santa Fe,particular,2025.0,usado,crédito,Potencia SRL,2023.4938096734847,32455.88
+VENT00600,2022-03-01,Still,eléctrico,3500,4000,Chubut,distribuidor,2025.0,usado,contado,Grupo Industrial SA,2938.448704464574,35898.67
+VENT00336,2022-03-01,Yale,eléctrico,3500,3000,Buenos Aires,,2017.0,usado,contado,Forklift Solutions,3765.086879143847,30875.14
+VENT01073,2022-03-03,Hyster,eléctrico,5000,3000,Buenos Aires,empresa logística,2020.0,usado,leasing,Grupo Industrial SA,2698.4125948684205,48016.94
+VENT00473,2022-03-05,Linde,diésel,5000,3000,Santa Fe,empresa logística,,reacondicionado,leasing,Grupo Industrial SA,3716.232694078228,46189.26
+VENT01195,2022-03-08,Toyota,diésel,2500,3000,Mendoza,distribuidor,2016.0,nuevo,leasing,Grupo Industrial SA,3644.442547913806,40473.68
+VENT00487,2022-03-08,Toyota,diésel,1800,4000,Santa Fe,,2018.0,nuevo,contado,Autoelevadores Norte,2792.6866334134074,28526.33
+VENT00059,2022-03-08,Crown,eléctrico,2500,3000,Mendoza,empresa logística,2024.0,usado,leasing,Grupo Industrial SA,2969.996499959785,22877.61
+VENT00515,2022-03-08,Linde,eléctrico,2500,4700,Buenos Aires,distribuidor,2024.0,usado,leasing,Forklift Solutions,2221.418138262553,31885.17
+VENT00348,2022-03-08,Crown,eléctrico,3500,4000,Santa Fe,empresa logística,2023.0,reacondicionado,leasing,Autoelevadores Norte,3788.544441695257,43568.94
+VENT00030,2022-03-09,Toyota,eléctrico,2500,4000,Chubut,empresa logística,2015.0,usado,contado,Autoelevadores Norte,2714.3098717569155,23014.12
+VENT00335,2022-03-09,Toyota,eléctrico,2500,4000,Buenos Aires,distribuidor,2018.0,usado,crédito,Potencia SRL,5095.173073990009,28328.23
+VENT00958,2022-03-10,Toyota,diésel,3500,6000,Córdoba,particular,2015.0,nuevo,contado,Forklift Solutions,3089.406891726652,48502.67
+VENT00301,2022-03-17,Yale,diésel,3500,6000,Mendoza,distribuidor,2016.0,usado,contado,Forklift Solutions,6944.457538752289,27221.74
+VENT00149,2022-03-17,Hyster,eléctrico,2500,6000,Mendoza,distribuidor,2018.0,usado,,Potencia SRL,3711.315717343979,33982.88
+VENT00702,2022-03-17,Still,diésel,1800,3000,Córdoba,distribuidor,2025.0,usado,crédito,Grupo Industrial SA,1574.0738168786766,17126.55
+VENT00978,2022-03-17,Linde,diésel,2500,4700,Chubut,distribuidor,2017.0,usado,crédito,Autoelevadores Norte,5963.365854269514,20984.63
+VENT00819,2022-03-21,Crown,gas,2500,6000,Neuquén,particular,2017.0,usado,contado,Potencia SRL,7555.932611130374,22445.08
+VENT00529,2022-03-24,Still,eléctrico,1800,4000,Chubut,particular,2016.0,usado,crédito,Potencia SRL,3406.0124865841153,17249.33
+VENT00459,2022-03-24,Still,eléctrico,2500,3000,Neuquén,particular,2019.0,nuevo,leasing,Forklift Solutions,,42220.62
+VENT01101,2022-03-26,Crown,gas,2500,6000,Chubut,particular,2017.0,nuevo,crédito,Autoelevadores Norte,2339.0185962308146,42513.89
+VENT00425,2022-03-26,Yale,eléctrico,2500,4000,Córdoba,distribuidor,2024.0,usado,leasing,Autoelevadores Norte,1336.5145705856753,32607.54
+VENT00007,2022-03-26,Hyster,eléctrico,2500,4000,Neuquén,distribuidor,2018.0,reacondicionado,leasing,Potencia SRL,6351.88767840331,29079.27
+VENT00617,2022-03-31,Linde,eléctrico,3500,4700,Santa Fe,particular,2020.0,usado,contado,Potencia SRL,5427.6964855106,27415.24
+VENT00705,2022-04-03,Still,gas,1800,3000,Mendoza,,2020.0,usado,contado,Potencia SRL,4513.5672588175075,13045.51
+VENT00084,2022-04-03,Linde,eléctrico,2500,4000,Córdoba,distribuidor,2023.0,usado,contado,Grupo Industrial SA,3042.6438906300373,25639.09
+VENT00033,2022-04-05,Still,gas,2500,4700,Neuquén,particular,2020.0,reacondicionado,leasing,Forklift Solutions,2470.376945921737,33917.55
+VENT01039,2022-04-06,Hyster,diésel,3500,4000,Córdoba,particular,,usado,contado,Autoelevadores Norte,4630.291825720952,31359.69
+VENT00860,2022-04-06,Linde,eléctrico,2500,6000,Santa Fe,,2021.0,nuevo,leasing,Potencia SRL,1638.6234149666168,47391.08
+VENT00723,2022-04-08,Yale,eléctrico,2500,6000,Buenos Aires,distribuidor,2015.0,usado,contado,Grupo Industrial SA,8434.599043303648,24233.35
+VENT00851,2022-04-08,Yale,gas,5000,4700,Córdoba,particular,2019.0,usado,crédito,Forklift Solutions,6724.109468104914,42980.73
+VENT01191,2022-04-09,Hyster,diésel,1800,4700,Mendoza,particular,2018.0,reacondicionado,contado,Potencia SRL,5830.748600620709,20200.47
+VENT01188,2022-04-10,Yale,diésel,1800,6000,Santa Fe,particular,2020.0,nuevo,leasing,Autoelevadores Norte,2442.8662156486325,35303.9
+VENT00370,2022-04-12,Hyster,eléctrico,2500,4700,Córdoba,particular,2025.0,usado,crédito,Autoelevadores Norte,3395.537587882707,29356.54
+VENT00375,2022-04-14,Still,diésel,2500,4700,Córdoba,particular,2023.0,usado,crédito,Potencia SRL,,27934.66
+VENT00355,2022-04-14,Still,eléctrico,1800,4000,Córdoba,distribuidor,2025.0,reacondicionado,crédito,Autoelevadores Norte,4909.71581159262,31529.15
+VENT00437,2022-04-17,Linde,eléctrico,2500,4700,Buenos Aires,distribuidor,2020.0,usado,leasing,Forklift Solutions,5033.1095220076895,21000.09
+VENT00477,2022-04-18,Linde,diésel,1800,3000,Santa Fe,,2021.0,reacondicionado,leasing,Forklift Solutions,3407.1036624189546,17690.35
+VENT00078,2022-04-19,Toyota,eléctrico,5000,3000,,,2025.0,usado,leasing,Autoelevadores Norte,3508.1242939779668,47783.83
+VENT00069,2022-04-19,Linde,gas,3500,6000,,empresa logística,2017.0,usado,crédito,Potencia SRL,,34739.72
+VENT00984,2022-04-20,Still,gas,2500,6000,Mendoza,distribuidor,2025.0,reacondicionado,contado,Autoelevadores Norte,4162.516160160441,35679.98
+VENT00587,2022-04-21,Crown,diésel,3500,6000,Mendoza,empresa logística,2023.0,usado,contado,Potencia SRL,4847.741585542578,33282.51
+VENT01136,2022-04-22,Hyster,diésel,3500,3000,Córdoba,distribuidor,2020.0,usado,contado,Grupo Industrial SA,6000.560156691077,21955.9
+VENT00110,2022-04-23,Yale,diésel,1800,6000,Chubut,distribuidor,2023.0,usado,contado,Autoelevadores Norte,,18925.4
+VENT01035,2022-04-23,Linde,diésel,3500,4000,Santa Fe,distribuidor,2017.0,usado,leasing,Autoelevadores Norte,3857.3033071665404,24879.28
+VENT00498,2022-04-24,Crown,diésel,1800,4000,Buenos Aires,particular,2018.0,usado,,Grupo Industrial SA,4199.213877478683,12374.84
+VENT00312,2022-04-25,Still,eléctrico,5000,3000,Neuquén,particular,,reacondicionado,crédito,Forklift Solutions,2600.385672402361,56303.28
+VENT00673,2022-04-28,Toyota,gas,3500,4000,Córdoba,distribuidor,2020.0,reacondicionado,leasing,Forklift Solutions,2042.0574515882363,43466.96
+VENT01133,2022-04-29,Toyota,eléctrico,3500,6000,Neuquén,empresa logística,2017.0,usado,contado,Grupo Industrial SA,5282.186827794918,39903.4
+VENT00440,2022-04-29,Yale,eléctrico,5000,3000,Mendoza,particular,2018.0,usado,contado,Potencia SRL,5414.846928120153,44197.43
+VENT00614,2022-04-30,Linde,diésel,2500,4000,Córdoba,distribuidor,2022.0,nuevo,contado,Potencia SRL,2033.9445055496687,38152.45
+VENT00961,2022-05-01,Linde,gas,2500,4000,Chubut,particular,2017.0,reacondicionado,leasing,Autoelevadores Norte,3025.187123537907,32063.4
+VENT01217,2022-05-01,Still,diésel,3500,4700,Santa Fe,distribuidor,2018.0,reacondicionado,crédito,Potencia SRL,6040.568600022949,33743.08
+VENT00450,2022-05-02,Hyster,eléctrico,2500,3000,Santa Fe,distribuidor,2016.0,reacondicionado,crédito,Autoelevadores Norte,4666.328553572696,26393.01
+VENT00435,2022-05-03,Crown,eléctrico,3500,4700,Neuquén,distribuidor,,reacondicionado,contado,Potencia SRL,1391.459060319413,50064.59
+VENT00202,2022-05-03,Toyota,gas,5000,6000,,distribuidor,2019.0,usado,leasing,Forklift Solutions,7672.764737296202,46357.61
+VENT00441,2022-05-04,Hyster,diésel,1800,4000,Chubut,distribuidor,,reacondicionado,contado,Autoelevadores Norte,3513.4465004428766,21438.94
+VENT00900,2022-05-05,Linde,eléctrico,1800,4700,Mendoza,particular,2018.0,usado,crédito,Forklift Solutions,4456.256522014032,18305.93
+VENT00847,2022-05-05,Hyster,eléctrico,5000,4700,Chubut,empresa logística,2016.0,usado,,Autoelevadores Norte,10017.093528210211,42762.96
+VENT00300,2022-05-05,Linde,eléctrico,2500,4000,Mendoza,particular,2023.0,usado,leasing,Autoelevadores Norte,3082.4513499303084,25351.27
+VENT00651,2022-05-07,Hyster,gas,1800,6000,Chubut,distribuidor,2021.0,usado,crédito,Grupo Industrial SA,1249.44716500832,23092.46
+VENT01127,2022-05-08,Toyota,eléctrico,2500,3000,Córdoba,particular,2018.0,nuevo,contado,Autoelevadores Norte,3158.7709761235915,40574.04
+VENT00604,2022-05-10,Hyster,diésel,2500,4000,,distribuidor,2015.0,nuevo,crédito,Forklift Solutions,2137.1304011853977,38717.54
+VENT00057,2022-05-10,Still,diésel,1800,3000,Córdoba,empresa logística,2021.0,reacondicionado,crédito,Grupo Industrial SA,5735.118794786802,19412.46
+VENT01082,2022-05-11,Crown,diésel,1800,4700,Buenos Aires,particular,,usado,contado,Autoelevadores Norte,5633.559188916503,12000.0
+VENT00165,2022-05-12,Yale,gas,1800,4700,,particular,2016.0,usado,crédito,Forklift Solutions,5685.338952104649,15988.86
+VENT01117,2022-05-14,Still,gas,3500,4000,Mendoza,particular,2016.0,reacondicionado,crédito,Forklift Solutions,3461.3579206273894,40122.43
+VENT00423,2022-05-14,Hyster,gas,3500,4700,Chubut,particular,2019.0,nuevo,crédito,Potencia SRL,2083.8151446029538,54239.74
+VENT00410,2022-05-14,Hyster,diésel,1800,4700,Córdoba,distribuidor,2023.0,usado,crédito,Autoelevadores Norte,,18731.97
+VENT00996,2022-05-14,Toyota,diésel,5000,3000,Buenos Aires,particular,2024.0,usado,crédito,Forklift Solutions,3452.4315303088897,46712.16
+VENT00191,2022-05-16,Still,eléctrico,2500,4000,Santa Fe,distribuidor,2022.0,nuevo,contado,Autoelevadores Norte,741.3821143851367,46627.88
+VENT00223,2022-05-17,Toyota,gas,3500,6000,Chubut,distribuidor,2024.0,usado,leasing,Potencia SRL,5240.9863212992,35315.48
+VENT00284,2022-05-18,Hyster,gas,2500,4700,Córdoba,distribuidor,,reacondicionado,crédito,Autoelevadores Norte,1416.0899569024193,34314.08
+VENT00373,2022-05-18,Yale,eléctrico,1800,4000,Santa Fe,distribuidor,2023.0,usado,contado,Forklift Solutions,5399.2811094630015,14725.56
+VENT00260,2022-05-22,Crown,diésel,1800,4000,Mendoza,particular,2018.0,usado,leasing,Grupo Industrial SA,3790.272353195175,12459.61
+VENT00340,2022-05-23,Still,diésel,5000,4000,Buenos Aires,empresa logística,2020.0,nuevo,contado,Grupo Industrial SA,2175.4540055011585,60451.35
+VENT00038,2022-05-23,Toyota,eléctrico,2500,3000,Neuquén,particular,2023.0,nuevo,crédito,Grupo Industrial SA,788.4906120535164,48231.17
+VENT00889,2022-05-26,Hyster,eléctrico,1800,4000,Córdoba,,,usado,contado,Grupo Industrial SA,6145.409150115413,14860.6
+VENT00371,2022-05-28,Still,gas,2500,4700,Córdoba,,2019.0,usado,contado,Forklift Solutions,4780.888408589681,22523.7
+VENT00434,2022-05-28,Toyota,eléctrico,5000,3000,Córdoba,distribuidor,2024.0,reacondicionado,contado,Forklift Solutions,2616.508767237653,55249.3
+VENT00207,2022-05-29,Crown,eléctrico,1800,4000,Santa Fe,particular,2025.0,usado,crédito,Autoelevadores Norte,1734.8297351890708,14513.37
+VENT00665,2022-05-29,Toyota,diésel,2500,4700,Neuquén,distribuidor,2019.0,nuevo,contado,Potencia SRL,,42421.5
+VENT01185,2022-05-30,Crown,diésel,1800,4000,Neuquén,distribuidor,2024.0,usado,crédito,Grupo Industrial SA,3378.983923799743,15189.41
+VENT00401,2022-05-31,Hyster,eléctrico,1800,4700,Chubut,distribuidor,,reacondicionado,crédito,Autoelevadores Norte,6108.65229785908,20996.83
+VENT00884,2022-06-01,Yale,eléctrico,3500,6000,Chubut,distribuidor,2019.0,nuevo,crédito,Grupo Industrial SA,2383.8055884915616,52981.98
+VENT00983,2022-06-05,Hyster,eléctrico,5000,6000,Buenos Aires,particular,,reacondicionado,crédito,Grupo Industrial SA,3093.567393684868,59920.05
+VENT00635,2022-06-06,Crown,eléctrico,2500,4700,Chubut,,2024.0,usado,,Potencia SRL,4107.855436325485,25547.77
+VENT01178,2022-06-06,Crown,diésel,2500,3000,Chubut,particular,2022.0,reacondicionado,contado,Autoelevadores Norte,5580.203640799653,25737.99
+VENT00100,2022-06-07,Linde,gas,2500,4000,,distribuidor,,reacondicionado,contado,Potencia SRL,2131.6272631182596,31982.51
+VENT00124,2022-06-10,Still,eléctrico,2500,3000,Neuquén,empresa logística,2018.0,usado,leasing,Forklift Solutions,5033.690506949495,21579.87
+VENT00771,2022-06-11,Linde,diésel,1800,4700,Chubut,distribuidor,2019.0,usado,leasing,Potencia SRL,7902.161139886821,12000.0
+VENT01068,2022-06-11,Still,diésel,2500,4000,Chubut,distribuidor,2017.0,usado,crédito,Potencia SRL,7562.134161303546,16437.62
+VENT00455,2022-06-12,Crown,eléctrico,2500,4700,Mendoza,particular,2022.0,usado,crédito,Grupo Industrial SA,1990.6958028228917,31774.84
+VENT00677,2022-06-13,Crown,diésel,2500,4700,Chubut,empresa logística,2016.0,usado,contado,Forklift Solutions,5336.04468024721,20786.92
+VENT00547,2022-06-15,Hyster,gas,2500,4000,Chubut,particular,2016.0,usado,leasing,Grupo Industrial SA,5943.403316628328,21580.21
+VENT00182,2022-06-15,Still,diésel,3500,3000,Córdoba,distribuidor,2025.0,usado,crédito,Forklift Solutions,3161.6218094983483,27734.55
+VENT00810,2022-06-15,Toyota,eléctrico,2500,3000,Córdoba,particular,2024.0,usado,contado,Autoelevadores Norte,4126.131206233079,23990.22
+VENT00695,2022-06-17,Hyster,gas,1800,4700,Córdoba,distribuidor,2024.0,usado,leasing,Grupo Industrial SA,1824.1354168918997,18654.06
+VENT00080,2022-06-19,Toyota,diésel,3500,3000,Santa Fe,empresa logística,2015.0,reacondicionado,contado,Autoelevadores Norte,6912.6115722637605,25241.39
+VENT00334,2022-06-19,Crown,diésel,3500,3000,Chubut,empresa logística,,usado,contado,Forklift Solutions,6214.0193299826815,21863.31
+VENT00751,2022-06-20,Still,diésel,1800,4000,Buenos Aires,particular,2021.0,nuevo,crédito,Forklift Solutions,1494.7312964008886,33773.47
+VENT00430,2022-06-20,Hyster,gas,2500,6000,Santa Fe,distribuidor,2015.0,usado,contado,Grupo Industrial SA,5583.788548413713,23259.36
+VENT00939,2022-06-21,Crown,eléctrico,3500,4000,Córdoba,particular,2025.0,nuevo,contado,Potencia SRL,,53601.61
+VENT00461,2022-06-21,Crown,diésel,1800,4700,Santa Fe,particular,2019.0,usado,leasing,Forklift Solutions,3422.115320338976,17740.78
+VENT00381,2022-06-22,Yale,gas,2500,4000,,empresa logística,2015.0,usado,leasing,Grupo Industrial SA,2285.8816163334177,30601.61
+VENT00460,2022-06-23,Still,eléctrico,3500,4700,Córdoba,empresa logística,2017.0,usado,crédito,Autoelevadores Norte,2691.5018571710457,35591.15
+VENT00091,2022-06-24,Hyster,eléctrico,1800,6000,Buenos Aires,distribuidor,2022.0,usado,contado,Grupo Industrial SA,4417.222066900662,19475.51
+VENT00645,2022-06-24,Still,diésel,2500,3000,Neuquén,empresa logística,2017.0,nuevo,leasing,Autoelevadores Norte,2716.845253925502,36634.15
+VENT00133,2022-06-25,Crown,diésel,3500,6000,Neuquén,,2017.0,usado,leasing,Forklift Solutions,6848.8062850818405,27079.46
+VENT00605,2022-06-26,Still,diésel,2500,4700,Córdoba,particular,2020.0,usado,contado,Grupo Industrial SA,5556.944951066898,23550.0
+VENT01034,2022-06-26,Still,eléctrico,1800,6000,Mendoza,particular,2024.0,usado,,Autoelevadores Norte,2487.9970083981225,26498.1
+VENT00041,2022-06-28,Toyota,eléctrico,1800,4000,,particular,2015.0,reacondicionado,crédito,Grupo Industrial SA,5458.077873356185,15907.1
+VENT00719,2022-07-01,Crown,diésel,2500,3000,Santa Fe,empresa logística,,reacondicionado,leasing,Forklift Solutions,3049.6112589460854,25589.85
+VENT00813,2022-07-02,Crown,eléctrico,5000,3000,,particular,2023.0,usado,crédito,Forklift Solutions,2427.799708622456,51136.73
+VENT00295,2022-07-05,Still,gas,5000,4000,Buenos Aires,particular,,usado,leasing,Potencia SRL,3868.9457620494304,47555.04
+VENT00656,2022-07-06,Linde,eléctrico,1800,4700,,,2018.0,nuevo,contado,Forklift Solutions,,36160.07
+VENT00589,2022-07-06,Yale,diésel,3500,3000,Buenos Aires,distribuidor,2025.0,usado,crédito,Potencia SRL,1405.486020466782,31189.2
+VENT00773,2022-07-06,Crown,eléctrico,3500,4000,Santa Fe,distribuidor,2024.0,reacondicionado,leasing,Grupo Industrial SA,2236.3182065193387,45455.63
+VENT01162,2022-07-08,Toyota,diésel,2500,3000,Córdoba,empresa logística,2025.0,reacondicionado,,Potencia SRL,4110.870270384137,32740.11
+VENT00588,2022-07-08,Hyster,diésel,3500,4000,Neuquén,empresa logística,2024.0,nuevo,crédito,Forklift Solutions,829.3034573055318,52747.36
+VENT00540,2022-07-08,Hyster,gas,2500,4700,Chubut,distribuidor,2017.0,nuevo,contado,Forklift Solutions,,42268.83
+VENT01200,2022-07-09,Toyota,diésel,3500,4700,Córdoba,particular,2020.0,reacondicionado,contado,Autoelevadores Norte,2724.2924622367364,40333.45
+VENT01120,2022-07-09,Still,eléctrico,3500,4000,Santa Fe,distribuidor,2022.0,usado,crédito,Grupo Industrial SA,3377.4351312133167,35798.97
+VENT01247,2022-07-11,Crown,diésel,2500,3000,Córdoba,empresa logística,2015.0,nuevo,crédito,Potencia SRL,3569.0918646784758,32195.41
+VENT00557,2022-07-15,Yale,diésel,2500,4700,Chubut,,2025.0,nuevo,crédito,Autoelevadores Norte,421.7963299031878,46860.78
+VENT00704,2022-07-16,Yale,diésel,2500,4700,Santa Fe,particular,2015.0,nuevo,contado,Grupo Industrial SA,3269.978358848605,40671.03
+VENT00947,2022-07-19,Still,eléctrico,1800,4700,Santa Fe,distribuidor,2019.0,nuevo,contado,Grupo Industrial SA,2588.160901887961,37719.33
+VENT00998,2022-07-19,Yale,diésel,5000,4700,Chubut,particular,2025.0,nuevo,leasing,Grupo Industrial SA,,64136.04
+VENT00563,2022-07-19,Still,eléctrico,2500,3000,Santa Fe,empresa logística,2022.0,usado,crédito,Forklift Solutions,3300.8078946607766,23795.23
+VENT00180,2022-07-20,Linde,gas,3500,4700,Buenos Aires,distribuidor,2015.0,usado,leasing,Grupo Industrial SA,8328.264009698845,26222.83
+VENT00591,2022-07-22,Crown,eléctrico,1800,4700,Córdoba,distribuidor,2021.0,usado,leasing,Potencia SRL,5124.7646819108995,19420.65
+VENT00931,2022-07-23,Yale,gas,2500,3000,Chubut,distribuidor,2024.0,usado,crédito,Forklift Solutions,2558.022127334614,28607.64
+VENT00755,2022-07-23,Still,eléctrico,2500,3000,Córdoba,distribuidor,,reacondicionado,contado,Forklift Solutions,5190.171126411642,29460.21
+VENT00022,2022-07-23,Crown,eléctrico,2500,4700,,distribuidor,2022.0,usado,leasing,Forklift Solutions,3170.918363507532,32463.52
+VENT00920,2022-07-24,Crown,gas,2500,3000,Chubut,,,nuevo,crédito,Autoelevadores Norte,968.3011486375126,41678.51
+VENT00727,2022-07-24,Still,eléctrico,2500,3000,,,2015.0,reacondicionado,contado,Autoelevadores Norte,6358.250081775987,25827.6
+VENT00263,2022-07-24,Toyota,eléctrico,2500,3000,Córdoba,particular,2017.0,nuevo,contado,Potencia SRL,1883.437727193628,40977.36
+VENT00067,2022-07-25,Linde,eléctrico,1800,4700,Mendoza,particular,2021.0,nuevo,leasing,Forklift Solutions,1124.383459511564,39528.71
+VENT00833,2022-07-25,Crown,eléctrico,5000,6000,Chubut,distribuidor,2022.0,usado,leasing,Autoelevadores Norte,3641.4584521177976,49928.65
+VENT00431,2022-07-28,Still,eléctrico,3500,3000,Mendoza,distribuidor,2024.0,usado,leasing,Forklift Solutions,2701.3304950754427,32599.23
+VENT00153,2022-07-31,Yale,eléctrico,3500,3000,Santa Fe,distribuidor,2018.0,usado,leasing,Potencia SRL,4046.6995832926077,31376.08
+VENT00577,2022-08-03,Linde,diésel,3500,4000,Córdoba,empresa logística,2019.0,nuevo,,Autoelevadores Norte,1733.4008440086386,48019.44
+VENT00845,2022-08-06,Linde,gas,1800,4700,Córdoba,particular,,usado,crédito,Grupo Industrial SA,5575.996070948751,14574.17
+VENT00776,2022-08-07,Linde,gas,3500,3000,Chubut,distribuidor,2022.0,usado,contado,Forklift Solutions,3158.648070143022,31984.56
+VENT00520,2022-08-08,Yale,gas,3500,4000,Córdoba,empresa logística,2016.0,nuevo,leasing,Grupo Industrial SA,2575.861221575052,48325.99
+VENT01222,2022-08-09,Crown,gas,2500,6000,Mendoza,empresa logística,2021.0,usado,leasing,Potencia SRL,3277.2978430789026,30668.44
+VENT00761,2022-08-10,Crown,gas,3500,4000,Chubut,particular,,usado,crédito,Forklift Solutions,4882.4657017468,31903.18
+VENT00590,2022-08-10,Still,eléctrico,2500,4000,Buenos Aires,,,reacondicionado,crédito,Forklift Solutions,2203.8379532347262,36815.82
+VENT00802,2022-08-11,Crown,diésel,3500,4700,Neuquén,distribuidor,,nuevo,crédito,Forklift Solutions,1200.138390620567,53784.46
+VENT00666,2022-08-12,Linde,eléctrico,2500,4000,Santa Fe,particular,2019.0,nuevo,crédito,Grupo Industrial SA,2415.395312572102,39829.93
+VENT00791,2022-08-12,Linde,eléctrico,3500,4700,Córdoba,,2017.0,usado,crédito,Potencia SRL,6402.109459772253,30306.74
+VENT01110,2022-08-13,Crown,diésel,2500,6000,Buenos Aires,distribuidor,2022.0,reacondicionado,crédito,Autoelevadores Norte,3840.50505942185,29979.62
+VENT00699,2022-08-14,Linde,diésel,1800,6000,Neuquén,particular,2018.0,nuevo,crédito,Grupo Industrial SA,3647.1916876685204,38604.18
+VENT00867,2022-08-15,Linde,gas,2500,6000,Córdoba,,2025.0,reacondicionado,crédito,Grupo Industrial SA,2804.684037490662,38150.08
+VENT00005,2022-08-16,Toyota,diésel,1800,3000,,distribuidor,2021.0,nuevo,leasing,Potencia SRL,1866.3565513409476,33668.08
+VENT00006,2022-08-16,Still,diésel,3500,4000,Santa Fe,distribuidor,2025.0,usado,crédito,Grupo Industrial SA,3900.377620733894,31342.51
+VENT00876,2022-08-16,Toyota,eléctrico,1800,4700,Córdoba,distribuidor,2018.0,usado,crédito,Grupo Industrial SA,4938.546007779098,17845.51
+VENT00319,2022-08-17,Crown,eléctrico,3500,3000,Chubut,,2015.0,usado,leasing,Potencia SRL,4701.88382251677,35273.16
+VENT01157,2022-08-20,Yale,eléctrico,1800,3000,Santa Fe,distribuidor,2019.0,usado,contado,Forklift Solutions,3450.167271792383,21902.57
+VENT01165,2022-08-23,Linde,eléctrico,3500,4000,Chubut,particular,2021.0,usado,,Forklift Solutions,,35131.9
+VENT00210,2022-08-23,Hyster,eléctrico,1800,4000,Chubut,distribuidor,2015.0,usado,leasing,Autoelevadores Norte,6962.027012655637,12000.0
+VENT00668,2022-08-23,Crown,diésel,3500,6000,Córdoba,empresa logística,2024.0,usado,,Autoelevadores Norte,4513.692738061392,35004.83
+VENT00112,2022-08-24,Yale,eléctrico,2500,6000,Chubut,distribuidor,2018.0,usado,crédito,Potencia SRL,4818.546818644622,28503.08
+VENT00203,2022-08-24,Hyster,eléctrico,1800,6000,Neuquén,distribuidor,2019.0,usado,crédito,Grupo Industrial SA,3304.034084421288,23146.96
+VENT00354,2022-08-26,Still,diésel,1800,3000,Buenos Aires,distribuidor,2017.0,nuevo,crédito,Potencia SRL,2463.5038849497173,29770.31
+VENT00506,2022-08-26,Crown,eléctrico,1800,4700,Mendoza,distribuidor,2022.0,reacondicionado,leasing,Autoelevadores Norte,4777.644589449243,26319.2
+VENT01213,2022-08-27,Toyota,eléctrico,3500,3000,,,2021.0,usado,contado,Autoelevadores Norte,5073.066683429621,31744.57
+VENT00730,2022-08-27,Hyster,gas,3500,4700,Buenos Aires,particular,2023.0,reacondicionado,crédito,Grupo Industrial SA,5426.3202458171745,31803.38
+VENT00731,2022-08-28,Toyota,gas,2500,6000,Mendoza,distribuidor,2022.0,nuevo,contado,Forklift Solutions,1208.7161754454708,47184.47
+VENT00959,2022-08-31,Crown,gas,1800,3000,Santa Fe,distribuidor,2025.0,nuevo,crédito,Forklift Solutions,352.4249260183867,37160.58
+VENT01088,2022-09-01,Yale,diésel,1800,4700,Mendoza,particular,2024.0,usado,contado,Grupo Industrial SA,2091.75653646767,16168.22
+VENT00601,2022-09-04,Linde,eléctrico,5000,4000,,empresa logística,2018.0,usado,crédito,Autoelevadores Norte,3314.801377390606,47610.21
+VENT00255,2022-09-05,Crown,diésel,2500,4700,Neuquén,,,usado,,Grupo Industrial SA,1258.079935704965,29069.93
+VENT00032,2022-09-06,Hyster,eléctrico,1800,3000,Chubut,particular,2017.0,nuevo,crédito,Forklift Solutions,3201.616242496623,34504.53
+VENT00683,2022-09-07,Toyota,eléctrico,1800,3000,Santa Fe,particular,2017.0,usado,crédito,Grupo Industrial SA,3286.763079015067,20280.18
+VENT00935,2022-09-08,Crown,eléctrico,5000,4000,,empresa logística,,usado,contado,Grupo Industrial SA,1181.2461428864976,52748.63
+VENT00598,2022-09-09,Hyster,diésel,3500,4000,Chubut,distribuidor,2016.0,nuevo,crédito,Forklift Solutions,3739.7619451914443,44865.56
+VENT00343,2022-09-10,Still,eléctrico,3500,6000,Córdoba,,2019.0,usado,leasing,Autoelevadores Norte,3042.4806449962234,35749.05
+VENT01106,2022-09-11,Linde,gas,2500,4700,Neuquén,particular,2022.0,nuevo,crédito,Forklift Solutions,1465.1903199304033,44179.07
+VENT00318,2022-09-11,Crown,diésel,1800,4000,Neuquén,particular,2020.0,nuevo,leasing,Autoelevadores Norte,2443.4060672891983,27264.98
+VENT00671,2022-09-11,Hyster,eléctrico,3500,4000,,distribuidor,,nuevo,crédito,Forklift Solutions,675.3188981564879,56279.24
+VENT00176,2022-09-12,Yale,diésel,5000,4700,,empresa logística,2017.0,usado,contado,Potencia SRL,6171.227113132467,43050.16
+VENT00953,2022-09-14,Still,diésel,2500,6000,Santa Fe,distribuidor,2022.0,usado,contado,Potencia SRL,4091.26352062597,26845.46
+VENT01096,2022-09-15,Still,eléctrico,1800,6000,Córdoba,distribuidor,2015.0,usado,leasing,Autoelevadores Norte,,20250.96
+VENT00834,2022-09-15,Crown,eléctrico,3500,3000,,empresa logística,2023.0,usado,crédito,Autoelevadores Norte,4284.97512411915,26680.49
+VENT00240,2022-09-16,Toyota,diésel,1800,4700,Mendoza,particular,2024.0,usado,leasing,Potencia SRL,2813.350592973975,16372.43
+VENT00603,2022-09-16,Crown,gas,2500,4000,Chubut,distribuidor,2024.0,reacondicionado,leasing,Grupo Industrial SA,3798.1159873094666,37159.06
+VENT00843,2022-09-17,Hyster,diésel,2500,3000,Chubut,particular,2024.0,nuevo,contado,Grupo Industrial SA,633.3569814235234,40573.95
+VENT00388,2022-09-17,Crown,eléctrico,2500,4000,Santa Fe,particular,2015.0,usado,crédito,Forklift Solutions,5288.561744762409,22301.43
+VENT00886,2022-09-18,Still,eléctrico,5000,4000,Buenos Aires,particular,2023.0,usado,leasing,Potencia SRL,3946.4437813025997,47501.35
+VENT01017,2022-09-21,Linde,eléctrico,1800,6000,Neuquén,empresa logística,2017.0,usado,contado,Forklift Solutions,3133.6463543994064,23493.09
+VENT00903,2022-09-22,Still,diésel,5000,6000,Mendoza,empresa logística,2017.0,reacondicionado,,Grupo Industrial SA,6387.860717945165,50308.1
+VENT00722,2022-09-22,Toyota,eléctrico,3500,4000,Mendoza,distribuidor,2022.0,nuevo,leasing,Potencia SRL,1422.5384308361386,54025.74
+VENT00593,2022-09-23,Hyster,eléctrico,5000,6000,Córdoba,distribuidor,2019.0,reacondicionado,contado,Forklift Solutions,4877.556600105643,53307.92
+VENT00785,2022-09-23,Crown,eléctrico,1800,4700,Neuquén,particular,2022.0,reacondicionado,crédito,Potencia SRL,4088.659226375153,28742.59
+VENT00015,2022-09-23,Still,eléctrico,3500,4000,Mendoza,particular,2015.0,reacondicionado,contado,Forklift Solutions,5227.884607153184,36382.31
+VENT00868,2022-09-23,Yale,diésel,5000,4700,Mendoza,distribuidor,2021.0,usado,contado,Grupo Industrial SA,3731.135208983954,40093.46
+VENT00016,2022-09-25,Crown,eléctrico,5000,4700,Córdoba,particular,2018.0,usado,leasing,Grupo Industrial SA,4997.224980945971,47373.53
+VENT00621,2022-09-27,Toyota,eléctrico,1800,3000,Neuquén,distribuidor,2016.0,usado,contado,Grupo Industrial SA,4671.4488422516315,14100.78
+VENT00050,2022-09-27,Hyster,eléctrico,3500,6000,Santa Fe,empresa logística,2021.0,usado,leasing,Forklift Solutions,5566.262067037722,34044.54
+VENT01001,2022-09-28,Yale,eléctrico,3500,4000,Santa Fe,distribuidor,2016.0,usado,,Grupo Industrial SA,3060.4348980517752,38524.13
+VENT01240,2022-09-28,Crown,gas,1800,3000,Córdoba,empresa logística,2020.0,nuevo,leasing,Autoelevadores Norte,1849.3333310543114,37869.68
+VENT00669,2022-09-30,Still,gas,5000,4000,Buenos Aires,empresa logística,2021.0,nuevo,contado,Forklift Solutions,1905.7945383668693,61960.35
+VENT00118,2022-09-30,Yale,eléctrico,2500,3000,Chubut,particular,2024.0,usado,leasing,Forklift Solutions,3507.0802526720945,24958.12
+VENT01098,2022-09-30,Yale,eléctrico,2500,3000,Neuquén,distribuidor,2019.0,reacondicionado,,Grupo Industrial SA,3507.421372236222,33897.68
+VENT00168,2022-09-30,Still,eléctrico,1800,6000,Neuquén,distribuidor,2024.0,nuevo,crédito,Autoelevadores Norte,616.2287238313847,40907.89
+VENT00690,2022-10-01,Toyota,eléctrico,5000,4000,Neuquén,particular,2025.0,reacondicionado,leasing,Grupo Industrial SA,1393.0299442680534,58867.1
+VENT00494,2022-10-02,Toyota,eléctrico,1800,3000,Neuquén,particular,2025.0,usado,contado,Autoelevadores Norte,,16669.03
+VENT00856,2022-10-06,Crown,eléctrico,2500,4000,Neuquén,distribuidor,2021.0,usado,contado,Potencia SRL,2339.9231144262585,24982.91
+VENT00599,2022-10-08,Still,diésel,2500,3000,Mendoza,particular,2019.0,usado,crédito,Grupo Industrial SA,1715.0669546218712,25606.99
+VENT00235,2022-10-13,Crown,gas,5000,3000,Buenos Aires,distribuidor,2018.0,usado,leasing,Grupo Industrial SA,5887.365148270841,38463.49
+VENT00369,2022-10-13,Yale,gas,2500,6000,Mendoza,particular,2017.0,nuevo,contado,Potencia SRL,3354.6370199443754,47691.68
+VENT00058,2022-10-14,Toyota,eléctrico,2500,3000,Neuquén,distribuidor,2025.0,usado,contado,Grupo Industrial SA,2020.9216576610079,23623.55
+VENT00072,2022-10-18,Toyota,eléctrico,1800,4700,Neuquén,particular,2025.0,reacondicionado,leasing,Autoelevadores Norte,2187.2250025038943,30652.68
+VENT00027,2022-10-19,Still,diésel,5000,4700,Neuquén,empresa logística,2021.0,usado,contado,Autoelevadores Norte,5048.8483451794855,41633.89
+VENT00729,2022-10-22,Yale,eléctrico,1800,4000,Buenos Aires,empresa logística,2021.0,usado,contado,Autoelevadores Norte,3698.388149426418,17354.61
+VENT00855,2022-10-27,Linde,diésel,2500,4700,Chubut,empresa logística,2022.0,reacondicionado,leasing,Grupo Industrial SA,3008.9506635970783,32613.5
+VENT00896,2022-10-27,Toyota,diésel,3500,3000,Córdoba,empresa logística,2019.0,usado,leasing,Autoelevadores Norte,5555.627453215041,27392.81
+VENT00945,2022-10-29,Hyster,eléctrico,3500,3000,Santa Fe,distribuidor,2023.0,usado,leasing,Grupo Industrial SA,5697.766215007103,30287.79
+VENT00607,2022-10-29,Linde,diésel,1800,3000,Mendoza,,2025.0,nuevo,crédito,Potencia SRL,312.1226595200403,32445.02
+VENT00901,2022-10-31,Toyota,diésel,5000,3000,Chubut,particular,2024.0,usado,crédito,Forklift Solutions,4317.07549036881,37947.06
+VENT00622,2022-11-02,Yale,diésel,1800,4000,Chubut,particular,2020.0,usado,crédito,Grupo Industrial SA,3834.881566674814,14902.1
+VENT00853,2022-11-03,Yale,eléctrico,2500,4000,Buenos Aires,distribuidor,2022.0,usado,crédito,Forklift Solutions,932.031681224709,32556.43
+VENT00643,2022-11-05,Crown,gas,3500,3000,Santa Fe,empresa logística,2016.0,usado,crédito,Grupo Industrial SA,5374.707763380102,22993.6
+VENT00014,2022-11-07,Still,eléctrico,2500,6000,Santa Fe,distribuidor,2017.0,usado,crédito,Forklift Solutions,5146.894028764611,27710.16
+VENT00562,2022-11-07,Linde,eléctrico,2500,4700,Buenos Aires,empresa logística,2023.0,nuevo,leasing,Forklift Solutions,1140.1667263864583,41325.95
+VENT01233,2022-11-08,Still,diésel,3500,4000,Córdoba,particular,2020.0,usado,crédito,Potencia SRL,4026.892087858305,30563.51
+VENT00974,2022-11-10,Crown,eléctrico,2500,4000,Córdoba,particular,2015.0,reacondicionado,crédito,Forklift Solutions,5437.080305199914,28190.15
+VENT00298,2022-11-12,Linde,gas,2500,6000,Mendoza,distribuidor,2017.0,usado,contado,Grupo Industrial SA,5543.236497825543,23689.26
+VENT01079,2022-11-15,Yale,diésel,1800,3000,Mendoza,particular,2020.0,usado,,Autoelevadores Norte,3691.773837102989,12000.0
+VENT01134,2022-11-18,Hyster,eléctrico,2500,3000,Buenos Aires,distribuidor,2016.0,reacondicionado,leasing,Autoelevadores Norte,8908.071609573617,28838.71
+VENT01097,2022-11-18,Toyota,gas,5000,3000,Chubut,particular,2022.0,nuevo,leasing,Forklift Solutions,1334.752958644996,62354.23
+VENT01216,2022-11-19,Still,eléctrico,3500,4000,Santa Fe,distribuidor,,nuevo,leasing,Autoelevadores Norte,3209.927040789089,51605.91
+VENT01011,2022-11-19,Linde,eléctrico,1800,6000,Córdoba,particular,2017.0,usado,crédito,Potencia SRL,2986.2384908564272,17131.84
+VENT00880,2022-11-21,Linde,eléctrico,2500,3000,Santa Fe,empresa logística,2019.0,nuevo,contado,Autoelevadores Norte,2555.1866880826824,43648.14
+VENT00132,2022-11-21,Yale,eléctrico,1800,4700,Buenos Aires,,2018.0,usado,leasing,Forklift Solutions,4959.61570511274,15855.98
+VENT00469,2022-11-23,Toyota,eléctrico,3500,4000,Córdoba,,2024.0,usado,contado,Autoelevadores Norte,2212.000659345973,36654.93
+VENT01113,2022-11-23,Crown,eléctrico,3500,3000,Buenos Aires,distribuidor,2018.0,usado,contado,Potencia SRL,4665.683193819233,29242.91
+VENT00214,2022-11-24,Yale,diésel,2500,4700,Neuquén,distribuidor,2016.0,usado,leasing,Potencia SRL,6069.483136163593,23686.65
+VENT01112,2022-11-24,Toyota,diésel,3500,3000,Mendoza,distribuidor,2022.0,usado,crédito,Grupo Industrial SA,2156.176486455175,27983.66
+VENT00831,2022-11-24,Hyster,diésel,1800,4700,Chubut,empresa logística,2019.0,usado,contado,Forklift Solutions,5299.07945406299,13141.5
+VENT00174,2022-11-27,Crown,diésel,2500,3000,Chubut,particular,2016.0,nuevo,,Grupo Industrial SA,3226.6185361726434,37164.99
+VENT00125,2022-11-29,Crown,eléctrico,5000,4000,Buenos Aires,empresa logística,2016.0,reacondicionado,crédito,Potencia SRL,3949.9207300142198,56994.54
+VENT00543,2022-11-30,Hyster,diésel,2500,3000,Mendoza,distribuidor,2017.0,usado,contado,Grupo Industrial SA,6573.486176990848,14336.88
+VENT00109,2022-12-01,Crown,eléctrico,3500,3000,Córdoba,particular,2021.0,usado,contado,Forklift Solutions,3504.3405582664445,32669.31
+VENT00777,2022-12-01,Crown,gas,3500,6000,Santa Fe,particular,2015.0,nuevo,contado,Forklift Solutions,4996.4968933867785,51974.8
+VENT01232,2022-12-02,Hyster,diésel,5000,4000,Buenos Aires,empresa logística,2025.0,nuevo,contado,Forklift Solutions,,67823.86
+VENT01033,2022-12-02,Hyster,gas,2500,6000,Mendoza,particular,2021.0,nuevo,contado,Grupo Industrial SA,1764.1096096576146,46632.18
+VENT01095,2022-12-03,Crown,eléctrico,5000,4000,Buenos Aires,empresa logística,2018.0,usado,contado,Grupo Industrial SA,4035.442155640696,46895.94
+VENT00881,2022-12-04,Crown,eléctrico,2500,4000,Mendoza,distribuidor,2024.0,usado,crédito,Grupo Industrial SA,3408.553379642408,25499.22
+VENT01090,2022-12-05,Yale,diésel,3500,4700,Córdoba,particular,2022.0,usado,crédito,Forklift Solutions,3373.6517498226035,32578.04
+VENT00745,2022-12-06,Hyster,eléctrico,1800,4000,Mendoza,distribuidor,,nuevo,crédito,Autoelevadores Norte,,33917.62
+VENT01047,2022-12-07,Hyster,gas,2500,4700,Santa Fe,distribuidor,,nuevo,crédito,Autoelevadores Norte,2389.870974876409,48099.85
+VENT01072,2022-12-08,Still,gas,2500,4000,Santa Fe,particular,2020.0,usado,leasing,Potencia SRL,2713.1909102558134,23984.06
+VENT00664,2022-12-13,Linde,diésel,3500,4000,Mendoza,particular,2022.0,reacondicionado,leasing,Forklift Solutions,3740.8384522788283,35881.86
+VENT00216,2022-12-13,Still,eléctrico,1800,4700,Santa Fe,distribuidor,2016.0,reacondicionado,,Autoelevadores Norte,5999.221907673914,21119.91
+VENT00159,2022-12-13,Hyster,gas,1800,3000,Santa Fe,empresa logística,2017.0,nuevo,leasing,Autoelevadores Norte,3128.151593102473,33273.15
+VENT00888,2022-12-14,Crown,diésel,1800,4700,Neuquén,particular,2020.0,nuevo,leasing,Grupo Industrial SA,2308.459115254397,33999.88
+VENT01067,2022-12-15,Hyster,eléctrico,2500,6000,Santa Fe,particular,2018.0,usado,leasing,Autoelevadores Norte,6037.087558595393,25407.68
+VENT00152,2022-12-16,Toyota,gas,5000,4000,Santa Fe,distribuidor,2019.0,usado,leasing,Grupo Industrial SA,6130.125554230844,39814.13
+VENT00586,2022-12-17,Still,diésel,2500,6000,Santa Fe,empresa logística,2019.0,usado,crédito,Potencia SRL,4754.106010727504,24571.04
+VENT00694,2022-12-20,Hyster,gas,1800,4700,Córdoba,empresa logística,2018.0,nuevo,,Grupo Industrial SA,1706.7424314918412,35060.2
+VENT00156,2022-12-20,Linde,diésel,2500,4700,Mendoza,,2020.0,usado,contado,Autoelevadores Norte,4003.438316903306,26462.61
+VENT00190,2022-12-20,Still,gas,5000,6000,Neuquén,empresa logística,2020.0,usado,crédito,Autoelevadores Norte,2381.5039058039747,47725.88
+VENT00638,2022-12-21,Hyster,diésel,3500,3000,Santa Fe,particular,2022.0,usado,,Autoelevadores Norte,5049.199340177979,33270.76
+VENT00890,2022-12-22,Linde,eléctrico,2500,3000,Buenos Aires,particular,2016.0,usado,contado,Forklift Solutions,5034.228218585085,24185.3
+VENT00226,2022-12-23,Yale,eléctrico,1800,4000,Neuquén,,2024.0,usado,crédito,Potencia SRL,,19236.23
+VENT00963,2022-12-25,Hyster,eléctrico,1800,4000,Buenos Aires,empresa logística,2016.0,usado,leasing,Forklift Solutions,3641.5310113936953,21548.64
+VENT00667,2022-12-26,Toyota,diésel,2500,4000,Chubut,distribuidor,2020.0,nuevo,leasing,Autoelevadores Norte,1652.4387795597288,39144.78
+VENT00989,2022-12-26,Hyster,eléctrico,5000,4700,Buenos Aires,distribuidor,2023.0,nuevo,leasing,Potencia SRL,1027.3840327500877,71045.26
+VENT00538,2022-12-28,Still,gas,5000,3000,Neuquén,distribuidor,2020.0,nuevo,contado,Potencia SRL,1819.0949470776334,61997.83
+VENT00330,2022-12-28,Toyota,gas,3500,3000,Córdoba,distribuidor,,usado,contado,Potencia SRL,7789.344865025978,25982.93
+VENT00763,2022-12-29,Still,diésel,1800,4000,Mendoza,distribuidor,2020.0,usado,contado,Autoelevadores Norte,3675.969501061269,12000.0
+VENT00106,2022-12-30,Hyster,eléctrico,1800,4700,Buenos Aires,distribuidor,2017.0,reacondicionado,crédito,Forklift Solutions,5039.397282538934,23812.83
+VENT01009,2022-12-31,Still,diésel,1800,4000,,empresa logística,2016.0,nuevo,contado,Forklift Solutions,,34207.17
+VENT00320,2023-01-01,Toyota,diésel,3500,3000,Buenos Aires,empresa logística,,nuevo,contado,Grupo Industrial SA,1563.8604323586346,44967.67
+VENT00142,2023-01-03,Crown,diésel,2500,4000,Santa Fe,empresa logística,2024.0,usado,leasing,Potencia SRL,1312.8203796439152,27201.7
+VENT00783,2023-01-03,Hyster,eléctrico,3500,3000,Buenos Aires,particular,2016.0,usado,crédito,Grupo Industrial SA,3735.8925062799253,35525.65
+VENT00630,2023-01-04,Yale,eléctrico,2500,4000,Buenos Aires,particular,2023.0,usado,contado,Autoelevadores Norte,2052.2555364749587,24191.68
+VENT00709,2023-01-07,Yale,diésel,2500,4000,Chubut,,,nuevo,contado,Potencia SRL,796.4788390960026,40937.94
+VENT00185,2023-01-12,Crown,diésel,1800,4700,Córdoba,particular,2017.0,usado,contado,Potencia SRL,2872.7653663106603,17695.02
+VENT00930,2023-01-12,Still,gas,1800,6000,,empresa logística,2017.0,reacondicionado,contado,Grupo Industrial SA,4628.304424466263,28492.37
+VENT00682,2023-01-12,Still,diésel,2500,3000,Neuquén,distribuidor,2018.0,reacondicionado,leasing,Grupo Industrial SA,5016.277590073196,23717.06
+VENT00580,2023-01-13,Toyota,eléctrico,1800,3000,Mendoza,particular,2018.0,nuevo,contado,Potencia SRL,1852.4642160245073,32055.79
+VENT00045,2023-01-13,Hyster,eléctrico,2500,6000,Mendoza,particular,2021.0,nuevo,leasing,Potencia SRL,1092.704844412914,46604.46
+VENT00909,2023-01-14,Yale,diésel,2500,6000,Chubut,distribuidor,,reacondicionado,crédito,Potencia SRL,4624.454914869413,31867.36
+VENT01174,2023-01-15,Linde,diésel,5000,3000,Chubut,particular,2018.0,usado,crédito,Grupo Industrial SA,3445.193326196898,42084.12
+VENT01130,2023-01-15,Hyster,gas,1800,3000,Chubut,particular,2019.0,usado,contado,Autoelevadores Norte,3590.1684435733914,15403.26
+VENT00976,2023-01-18,Yale,diésel,2500,3000,Santa Fe,distribuidor,2017.0,nuevo,contado,Potencia SRL,3435.3702154779116,35734.71
+VENT00225,2023-01-23,Hyster,diésel,3500,3000,Chubut,distribuidor,,reacondicionado,contado,Potencia SRL,2370.3321066673434,40376.65
+VENT01119,2023-01-23,Hyster,diésel,3500,4700,Mendoza,empresa logística,2025.0,reacondicionado,,Grupo Industrial SA,3014.16114580451,39855.61
+VENT01145,2023-01-25,Hyster,diésel,2500,4000,Santa Fe,distribuidor,2023.0,nuevo,crédito,Forklift Solutions,803.6024933893425,43061.64
+VENT00912,2023-01-27,Crown,eléctrico,5000,3000,Santa Fe,distribuidor,2023.0,usado,leasing,Grupo Industrial SA,5208.352196573794,44088.15
+VENT00927,2023-01-28,Hyster,eléctrico,2500,3000,Córdoba,distribuidor,2015.0,usado,crédito,Autoelevadores Norte,6533.493910602214,17797.19
+VENT00639,2023-01-29,Toyota,diésel,5000,4000,Santa Fe,distribuidor,2017.0,usado,crédito,Forklift Solutions,4230.577003399687,46353.64
+VENT00310,2023-01-31,Yale,gas,2500,4000,Córdoba,particular,2023.0,nuevo,crédito,Grupo Industrial SA,1323.4882261347395,44595.31
+VENT00872,2023-01-31,Hyster,diésel,3500,3000,Buenos Aires,particular,2023.0,usado,leasing,Autoelevadores Norte,4760.729410908915,24386.83
+VENT00062,2023-02-01,Still,eléctrico,3500,4700,Santa Fe,distribuidor,2022.0,nuevo,leasing,Grupo Industrial SA,1168.5860387262746,53622.93
+VENT00993,2023-02-02,Toyota,eléctrico,3500,3000,Mendoza,particular,2019.0,reacondicionado,contado,Potencia SRL,3843.954883371446,40850.68
+VENT00936,2023-02-02,Crown,eléctrico,2500,3000,Santa Fe,distribuidor,2022.0,usado,,Potencia SRL,5052.659522581843,19342.96
+VENT01220,2023-02-03,Linde,gas,2500,4700,Santa Fe,empresa logística,2021.0,usado,crédito,Grupo Industrial SA,3882.6896938254567,24348.36
+VENT01209,2023-02-04,Yale,diésel,2500,3000,Buenos Aires,empresa logística,2023.0,reacondicionado,contado,Grupo Industrial SA,1305.526644059124,33941.81
+VENT00528,2023-02-04,Crown,eléctrico,3500,4700,Chubut,particular,2020.0,usado,contado,Grupo Industrial SA,4574.132788194733,32692.16
+VENT00941,2023-02-05,Hyster,eléctrico,2500,4000,Mendoza,distribuidor,2022.0,nuevo,contado,Potencia SRL,1175.2880702150424,43269.37
+VENT01228,2023-02-05,Linde,eléctrico,2500,4700,,particular,2021.0,reacondicionado,crédito,Potencia SRL,3507.007464956946,31750.87
+VENT00618,2023-02-09,Yale,diésel,3500,6000,Mendoza,distribuidor,2019.0,reacondicionado,leasing,Potencia SRL,5318.524583832078,39305.48
+VENT00493,2023-02-09,Linde,eléctrico,3500,6000,Santa Fe,particular,2024.0,nuevo,leasing,Autoelevadores Norte,486.2993936956928,54266.3
+VENT00602,2023-02-11,Toyota,diésel,1800,3000,Córdoba,distribuidor,2023.0,nuevo,leasing,Forklift Solutions,1021.4814396543951,30492.18
+VENT00150,2023-02-11,Hyster,diésel,2500,3000,Mendoza,empresa logística,2017.0,usado,crédito,Forklift Solutions,4922.110407062427,17785.92
+VENT00324,2023-02-13,Linde,eléctrico,3500,3000,Córdoba,particular,2022.0,usado,contado,Grupo Industrial SA,3525.0940501871573,28567.67
+VENT00688,2023-02-13,Linde,eléctrico,3500,3000,Buenos Aires,distribuidor,2018.0,usado,leasing,Autoelevadores Norte,5460.468187956315,31476.16
+VENT00237,2023-02-14,Hyster,eléctrico,3500,4000,Chubut,distribuidor,2015.0,nuevo,crédito,Potencia SRL,1406.9454793119376,54307.99
+VENT00488,2023-02-15,Linde,eléctrico,5000,3000,Buenos Aires,distribuidor,2019.0,reacondicionado,leasing,Potencia SRL,4753.209445287699,50439.12
+VENT00065,2023-02-15,Linde,eléctrico,3500,6000,Buenos Aires,empresa logística,2018.0,reacondicionado,crédito,Potencia SRL,3910.2451140721932,46890.58
+VENT00387,2023-02-16,Crown,eléctrico,2500,4000,Córdoba,empresa logística,2020.0,usado,contado,Forklift Solutions,4722.901568898788,18755.82
+VENT00380,2023-02-16,Toyota,diésel,2500,4000,Santa Fe,distribuidor,2022.0,usado,contado,Grupo Industrial SA,1645.2857738160276,24503.4
+VENT00657,2023-02-19,Yale,diésel,1800,3000,Santa Fe,distribuidor,2017.0,nuevo,crédito,Potencia SRL,2508.6533137807983,31733.37
+VENT00145,2023-02-20,Hyster,eléctrico,1800,3000,,distribuidor,2017.0,usado,contado,Grupo Industrial SA,3962.7857655929206,16543.03
+VENT00670,2023-02-21,Toyota,gas,3500,4000,Córdoba,particular,2024.0,reacondicionado,contado,Autoelevadores Norte,1047.2567055831266,42732.03
+VENT00467,2023-02-22,Linde,gas,5000,3000,Mendoza,distribuidor,2021.0,reacondicionado,contado,Forklift Solutions,3127.7617394237586,52266.96
+VENT00289,2023-02-23,Linde,eléctrico,5000,4000,Santa Fe,particular,2025.0,nuevo,leasing,Autoelevadores Norte,382.62041216658065,68232.97
+VENT01170,2023-02-24,Yale,diésel,2500,3000,,empresa logística,2023.0,usado,leasing,Grupo Industrial SA,3066.1987061493023,22714.92
+VENT01070,2023-02-24,Toyota,gas,2500,6000,Córdoba,empresa logística,2023.0,nuevo,crédito,Forklift Solutions,1333.7451937537326,48404.79
+VENT00965,2023-02-26,Yale,gas,2500,3000,Córdoba,empresa logística,2016.0,usado,contado,Potencia SRL,,20122.88
+VENT00697,2023-02-26,Still,gas,5000,4000,Santa Fe,particular,2025.0,usado,,Autoelevadores Norte,3549.2303414906582,43744.14
+VENT00111,2023-02-28,Linde,gas,2500,4000,Chubut,particular,2016.0,nuevo,crédito,Potencia SRL,3647.882187923553,43099.56
+VENT00020,2023-03-02,Crown,eléctrico,2500,3000,Buenos Aires,distribuidor,,nuevo,crédito,Forklift Solutions,427.3839342944071,44942.96
+VENT00023,2023-03-03,Linde,eléctrico,2500,4000,Santa Fe,distribuidor,2015.0,reacondicionado,contado,Forklift Solutions,5439.437224080131,28425.71
+VENT00897,2023-03-04,Yale,diésel,1800,3000,,particular,2016.0,usado,contado,Potencia SRL,6687.35330003112,12000.0
+VENT00270,2023-03-05,Crown,eléctrico,5000,6000,Buenos Aires,distribuidor,2016.0,usado,contado,Grupo Industrial SA,5559.44325099712,46970.18
+VENT00417,2023-03-05,Yale,diésel,1800,4000,Chubut,distribuidor,,reacondicionado,leasing,Potencia SRL,3817.869195032855,21798.82
+VENT00917,2023-03-06,Hyster,diésel,5000,4000,Córdoba,particular,2017.0,nuevo,contado,Grupo Industrial SA,2865.6116148205997,63970.0
+VENT00251,2023-03-06,Toyota,gas,1800,4000,Córdoba,distribuidor,2024.0,nuevo,leasing,Forklift Solutions,455.1528161637363,38176.45
+VENT01071,2023-03-09,Toyota,gas,2500,6000,Mendoza,distribuidor,2024.0,nuevo,,Autoelevadores Norte,680.0594321748243,50195.25
+VENT00968,2023-03-10,Yale,gas,2500,3000,Buenos Aires,particular,,nuevo,,Grupo Industrial SA,1511.1517777430736,39927.72
+VENT01022,2023-03-11,Toyota,diésel,1800,4700,Santa Fe,empresa logística,2021.0,usado,crédito,Potencia SRL,3009.9263159478387,13230.79
+VENT01189,2023-03-16,Toyota,diésel,3500,6000,Córdoba,empresa logística,2024.0,usado,crédito,Potencia SRL,2000.9990817298421,35028.96
+VENT00144,2023-03-16,Crown,eléctrico,5000,3000,Buenos Aires,particular,2021.0,usado,contado,Autoelevadores Norte,4490.886377239387,46196.34
+VENT00742,2023-03-17,Still,diésel,2500,6000,Buenos Aires,,2020.0,nuevo,crédito,Potencia SRL,1083.162248653695,46916.62
+VENT00037,2023-03-21,Yale,eléctrico,2500,6000,,,2020.0,reacondicionado,crédito,Potencia SRL,5554.490250089872,33758.95
+VENT00017,2023-03-21,Crown,eléctrico,2500,4700,Buenos Aires,particular,2017.0,usado,contado,Forklift Solutions,4570.004067455495,25137.58
+VENT00503,2023-03-28,Toyota,eléctrico,5000,4000,Chubut,empresa logística,2023.0,usado,leasing,Grupo Industrial SA,2862.1583224177275,47561.3
+VENT00085,2023-03-31,Hyster,diésel,2500,4000,Neuquén,empresa logística,2024.0,nuevo,crédito,Grupo Industrial SA,667.3958647403626,43157.32
+VENT00762,2023-04-01,Still,diésel,1800,3000,Chubut,distribuidor,2021.0,nuevo,leasing,Potencia SRL,1571.6841536086495,30697.48
+VENT00047,2023-04-01,Toyota,eléctrico,3500,3000,Santa Fe,distribuidor,,usado,contado,Potencia SRL,,29487.43
+VENT00103,2023-04-04,Linde,eléctrico,2500,4000,Buenos Aires,empresa logística,2023.0,reacondicionado,crédito,Grupo Industrial SA,2904.5791793429894,36759.37
+VENT01040,2023-04-06,Hyster,gas,2500,3000,Buenos Aires,distribuidor,2018.0,reacondicionado,crédito,Grupo Industrial SA,6932.599412767528,27895.86
+VENT00254,2023-04-08,Linde,eléctrico,3500,4000,Neuquén,empresa logística,2025.0,nuevo,crédito,Grupo Industrial SA,219.5060567801093,57454.34
+VENT00123,2023-04-10,Yale,eléctrico,5000,4000,Neuquén,empresa logística,2018.0,reacondicionado,leasing,Forklift Solutions,8423.12470972001,52750.0
+VENT01029,2023-04-11,Yale,gas,5000,3000,Neuquén,distribuidor,2021.0,usado,crédito,Potencia SRL,1716.2793406061032,47671.61
+VENT01043,2023-04-11,Still,eléctrico,1800,4000,Chubut,particular,2015.0,nuevo,leasing,Potencia SRL,4129.451919727332,33004.52
+VENT00376,2023-04-11,Still,eléctrico,3500,4000,Neuquén,particular,2025.0,usado,crédito,Grupo Industrial SA,1730.9606729422567,37575.79
+VENT00411,2023-04-12,Yale,eléctrico,1800,6000,Neuquén,particular,2016.0,usado,contado,Grupo Industrial SA,5636.728822901536,16587.71
+VENT00405,2023-04-13,Crown,diésel,2500,3000,Buenos Aires,distribuidor,,usado,crédito,Grupo Industrial SA,3099.942765696066,23570.87
+VENT00167,2023-04-14,Linde,eléctrico,3500,4700,Neuquén,empresa logística,2020.0,nuevo,leasing,Autoelevadores Norte,,53909.36
+VENT00642,2023-04-16,Linde,diésel,1800,3000,Santa Fe,empresa logística,2017.0,nuevo,crédito,Potencia SRL,2769.8332260662446,32787.21
+VENT00707,2023-04-16,Hyster,eléctrico,5000,4000,Chubut,particular,2019.0,usado,leasing,Grupo Industrial SA,2205.097012355135,55150.35
+VENT00308,2023-04-17,Toyota,diésel,2500,4000,,particular,2025.0,reacondicionado,leasing,Potencia SRL,779.1867407255759,31973.75
+VENT00136,2023-04-17,Toyota,diésel,2500,3000,Córdoba,particular,2022.0,usado,,Forklift Solutions,3438.3876309343214,15985.28
+VENT01204,2023-04-18,Crown,eléctrico,2500,6000,Buenos Aires,,2022.0,usado,contado,Grupo Industrial SA,4361.763399548884,26825.87
+VENT00691,2023-04-18,Hyster,eléctrico,2500,4000,Buenos Aires,distribuidor,,nuevo,leasing,Potencia SRL,,46582.93
+VENT00086,2023-04-20,Still,eléctrico,2500,4000,Chubut,particular,2020.0,usado,contado,Potencia SRL,5444.071658515806,26482.55
+VENT00060,2023-04-20,Hyster,gas,2500,4000,Buenos Aires,particular,2021.0,nuevo,crédito,Forklift Solutions,1800.1302076524237,42159.25
+VENT00217,2023-04-21,Linde,diésel,5000,4000,Córdoba,empresa logística,2015.0,usado,crédito,Potencia SRL,,41243.79
+VENT00644,2023-04-24,Yale,diésel,2500,6000,,distribuidor,,nuevo,leasing,Forklift Solutions,950.3077553648624,48803.48
+VENT00584,2023-04-25,Hyster,eléctrico,1800,3000,Neuquén,empresa logística,2015.0,nuevo,crédito,Grupo Industrial SA,3723.40194520089,30988.13
+VENT00418,2023-04-25,Linde,eléctrico,5000,6000,Córdoba,empresa logística,2015.0,usado,crédito,Autoelevadores Norte,4713.449657410197,49350.93
+VENT00083,2023-04-29,Hyster,diésel,2500,4700,Córdoba,particular,2019.0,usado,leasing,Autoelevadores Norte,5736.170125376414,16314.38
+VENT00823,2023-05-02,Yale,eléctrico,3500,3000,Chubut,particular,2020.0,usado,leasing,Potencia SRL,4932.987372305472,34549.13
+VENT00981,2023-05-03,Toyota,eléctrico,2500,4000,Santa Fe,,2025.0,reacondicionado,contado,Potencia SRL,1530.8873510117364,31025.69
+VENT00754,2023-05-04,Crown,eléctrico,1800,4000,Mendoza,distribuidor,2018.0,nuevo,crédito,Grupo Industrial SA,4074.709794150941,32832.29
+VENT00820,2023-05-05,Hyster,diésel,2500,4700,Neuquén,particular,2021.0,usado,crédito,Potencia SRL,3650.3908697765123,25959.4
+VENT01163,2023-05-05,Crown,diésel,2500,3000,Santa Fe,empresa logística,,usado,leasing,Grupo Industrial SA,4400.901598201614,19363.78
+VENT00703,2023-05-07,Crown,gas,3500,4000,Buenos Aires,particular,2019.0,nuevo,contado,Forklift Solutions,1913.9982808917393,49552.58
+VENT00134,2023-05-08,Crown,gas,5000,6000,Córdoba,distribuidor,2020.0,nuevo,contado,Forklift Solutions,2019.8481089883269,69925.41
+VENT00282,2023-05-09,Hyster,diésel,5000,4000,Chubut,empresa logística,2017.0,reacondicionado,contado,Forklift Solutions,3839.421625770283,53064.37
+VENT00195,2023-05-10,Toyota,eléctrico,1800,6000,,empresa logística,2020.0,usado,contado,Grupo Industrial SA,,19093.57
+VENT01037,2023-05-12,Linde,diésel,3500,4700,Neuquén,empresa logística,2017.0,usado,contado,Autoelevadores Norte,5804.322267485952,25286.48
+VENT00395,2023-05-13,Hyster,gas,1800,4700,Buenos Aires,empresa logística,2022.0,nuevo,crédito,Potencia SRL,1463.6722687628235,34280.33
+VENT00181,2023-05-13,Hyster,eléctrico,3500,4700,Santa Fe,empresa logística,2022.0,nuevo,leasing,Forklift Solutions,802.707617557809,56067.54
+VENT00908,2023-05-15,Hyster,diésel,5000,6000,,particular,2015.0,reacondicionado,contado,Forklift Solutions,9466.252559389723,45238.18
+VENT00769,2023-05-15,Crown,eléctrico,2500,4700,Mendoza,distribuidor,2021.0,reacondicionado,leasing,Autoelevadores Norte,3442.8787702544923,38014.92
+VENT01182,2023-05-15,Crown,diésel,1800,4000,Córdoba,particular,2017.0,usado,crédito,Potencia SRL,3692.153399334599,15196.89
+VENT00784,2023-05-20,Yale,gas,2500,3000,Córdoba,,2018.0,usado,leasing,Forklift Solutions,4169.488044133195,22053.23
+VENT01193,2023-05-20,Crown,gas,3500,6000,Mendoza,particular,2016.0,reacondicionado,crédito,Forklift Solutions,3645.110335802852,42018.04
+VENT00594,2023-05-20,Toyota,diésel,3500,4000,Buenos Aires,distribuidor,2015.0,usado,leasing,Forklift Solutions,4830.580416679006,29019.98
+VENT00827,2023-05-21,Hyster,diésel,1800,4000,Santa Fe,distribuidor,2022.0,usado,crédito,Autoelevadores Norte,3293.5008627612888,12000.0
+VENT00828,2023-05-22,Crown,diésel,2500,4000,Buenos Aires,distribuidor,2023.0,usado,leasing,Autoelevadores Norte,3752.643233912419,23408.82
+VENT01142,2023-05-23,Still,diésel,1800,3000,Santa Fe,distribuidor,2018.0,usado,contado,Forklift Solutions,5674.650173619388,12000.0
+VENT00570,2023-05-24,Hyster,eléctrico,2500,3000,Córdoba,,2022.0,usado,leasing,Grupo Industrial SA,2430.7675717790435,28194.38
+VENT00196,2023-05-25,Hyster,eléctrico,2500,4000,Neuquén,particular,2021.0,usado,contado,Grupo Industrial SA,5104.980143147352,23221.46
+VENT00715,2023-05-25,Linde,eléctrico,2500,6000,Chubut,particular,2018.0,usado,,Forklift Solutions,,24603.1
+VENT01100,2023-05-27,Yale,diésel,1800,3000,Mendoza,particular,2015.0,nuevo,crédito,Potencia SRL,3788.1118383603725,25649.27
+VENT00565,2023-05-27,Yale,gas,1800,6000,Mendoza,empresa logística,2023.0,nuevo,crédito,Potencia SRL,719.7533826610091,43464.59
+VENT01056,2023-05-28,Still,eléctrico,1800,4700,,empresa logística,2022.0,usado,crédito,Forklift Solutions,3699.619418452454,18771.48
+VENT00429,2023-05-28,Linde,diésel,1800,3000,Buenos Aires,particular,2017.0,nuevo,leasing,Forklift Solutions,1347.360938173788,29182.29
+VENT00496,2023-05-31,Toyota,eléctrico,3500,4700,Mendoza,particular,2024.0,nuevo,crédito,Forklift Solutions,673.7860262900206,58340.01
+VENT01069,2023-06-02,Crown,eléctrico,2500,3000,Córdoba,distribuidor,2015.0,usado,,Potencia SRL,4976.19152544377,17656.14
+VENT00966,2023-06-04,Toyota,eléctrico,2500,6000,Mendoza,empresa logística,2023.0,usado,,Grupo Industrial SA,2321.63677827196,29964.94
+VENT00331,2023-06-04,Crown,diésel,1800,4000,Córdoba,empresa logística,2022.0,nuevo,leasing,Forklift Solutions,834.5866825923946,33751.83
+VENT00661,2023-06-04,Still,diésel,1800,6000,Chubut,distribuidor,,reacondicionado,leasing,Autoelevadores Norte,2406.360363579513,28625.7
+VENT00064,2023-06-05,Still,eléctrico,5000,6000,Santa Fe,distribuidor,2021.0,usado,contado,Forklift Solutions,2329.031506127584,53661.04
+VENT00546,2023-06-07,Crown,gas,2500,3000,Chubut,empresa logística,2025.0,reacondicionado,contado,Autoelevadores Norte,3327.3142626074073,27802.25
+VENT00079,2023-06-08,Still,eléctrico,5000,3000,Buenos Aires,particular,2021.0,nuevo,contado,Autoelevadores Norte,1450.6575843561686,62591.25
+VENT00735,2023-06-08,Crown,eléctrico,1800,4700,Neuquén,particular,2017.0,usado,leasing,Potencia SRL,4567.209937313661,18596.37
+VENT00269,2023-06-09,Hyster,diésel,2500,4700,Santa Fe,particular,2019.0,usado,crédito,Grupo Industrial SA,4845.603892070334,19568.08
+VENT00294,2023-06-10,Crown,diésel,2500,4700,,,2025.0,usado,contado,Autoelevadores Norte,1843.7056452098777,28943.51
+VENT00995,2023-06-12,Crown,diésel,2500,4000,Córdoba,particular,2015.0,nuevo,,Autoelevadores Norte,2775.629010340419,40275.63
+VENT00838,2023-06-14,Crown,eléctrico,2500,3000,Chubut,empresa logística,2015.0,usado,crédito,Forklift Solutions,4321.744963568803,24623.08
+VENT00139,2023-06-15,Still,diésel,2500,6000,Chubut,distribuidor,2020.0,usado,contado,Grupo Industrial SA,3784.2873964460587,27366.27
+VENT00658,2023-06-15,Linde,diésel,2500,3000,Córdoba,particular,2023.0,usado,contado,Grupo Industrial SA,1114.5713601416242,24332.57
+VENT00608,2023-06-16,Crown,eléctrico,5000,6000,Buenos Aires,,2023.0,nuevo,contado,Autoelevadores Norte,825.1110582789445,71274.16
+VENT00024,2023-06-19,Still,diésel,1800,3000,Córdoba,distribuidor,2018.0,usado,leasing,Autoelevadores Norte,2913.9757402135956,17928.55
+VENT00161,2023-06-21,Linde,eléctrico,1800,4000,Neuquén,,,usado,contado,Potencia SRL,3934.8848231937113,19992.61
+VENT00224,2023-06-21,Crown,eléctrico,3500,4700,Chubut,distribuidor,2016.0,nuevo,contado,Grupo Industrial SA,2458.1055282496773,52670.05
+VENT00626,2023-06-23,Linde,eléctrico,3500,6000,Córdoba,empresa logística,2020.0,usado,contado,Forklift Solutions,,38203.28
+VENT01236,2023-06-23,Linde,eléctrico,1800,6000,Santa Fe,empresa logística,2019.0,usado,crédito,Grupo Industrial SA,2775.925848617162,25373.39
+VENT00623,2023-06-25,Yale,diésel,2500,4000,Córdoba,particular,2023.0,usado,contado,Grupo Industrial SA,2971.0556439883635,24464.01
+VENT00244,2023-06-25,Hyster,diésel,3500,6000,Córdoba,empresa logística,2018.0,usado,leasing,Forklift Solutions,2901.154357575637,33203.4
+VENT00444,2023-06-26,Toyota,eléctrico,2500,4700,Santa Fe,distribuidor,2023.0,reacondicionado,crédito,Autoelevadores Norte,805.8792288945822,40523.38
+VENT00393,2023-06-28,Linde,gas,2500,4000,Santa Fe,empresa logística,2015.0,nuevo,leasing,Forklift Solutions,3207.2624769848157,39559.11
+VENT01129,2023-06-29,Still,diésel,1800,4000,Chubut,particular,2017.0,usado,crédito,Forklift Solutions,3690.688910218878,13935.34
+VENT00871,2023-06-30,Still,diésel,3500,4000,Buenos Aires,empresa logística,,usado,contado,Autoelevadores Norte,5873.817488191952,27939.06
+VENT00349,2023-07-01,Toyota,diésel,5000,3000,Neuquén,distribuidor,2015.0,reacondicionado,contado,Forklift Solutions,6501.888612153384,44003.69
+VENT00443,2023-07-01,Crown,gas,3500,4700,Chubut,distribuidor,2021.0,reacondicionado,contado,Autoelevadores Norte,3083.7066080582063,42725.42
+VENT00001,2023-07-01,Still,eléctrico,2500,4700,Córdoba,empresa logística,,usado,contado,Autoelevadores Norte,7482.376469686164,18516.76
+VENT00466,2023-07-02,Toyota,gas,1800,4700,Mendoza,empresa logística,2018.0,usado,leasing,Autoelevadores Norte,6230.114137194764,17577.81
+VENT00283,2023-07-03,Still,gas,3500,4000,Neuquén,distribuidor,2020.0,reacondicionado,contado,Forklift Solutions,4281.974609910794,39773.23
+VENT00449,2023-07-04,Hyster,gas,1800,4700,Santa Fe,particular,2020.0,usado,contado,Forklift Solutions,2322.0286000735678,22830.89
+VENT00517,2023-07-04,Crown,eléctrico,5000,4000,Santa Fe,distribuidor,2019.0,nuevo,contado,Potencia SRL,1613.1252100550112,65330.22
+VENT00640,2023-07-05,Linde,diésel,3500,4000,Córdoba,empresa logística,2021.0,usado,leasing,Potencia SRL,4015.871581854616,27059.83
+VENT00740,2023-07-05,Hyster,diésel,2500,3000,Chubut,particular,2022.0,usado,contado,Forklift Solutions,3952.018794287451,17212.85
+VENT00910,2023-07-09,Still,diésel,3500,6000,Chubut,particular,2021.0,usado,leasing,Potencia SRL,2949.6224053465066,34284.48
+VENT00522,2023-07-11,Still,eléctrico,2500,3000,Buenos Aires,empresa logística,2022.0,usado,crédito,Forklift Solutions,2944.9507012831505,25694.06
+VENT00956,2023-07-14,Still,diésel,1800,3000,Buenos Aires,particular,2025.0,reacondicionado,crédito,Forklift Solutions,3036.038217181955,19033.0
+VENT00747,2023-07-15,Crown,gas,5000,4700,Chubut,particular,2021.0,usado,leasing,Potencia SRL,4730.660818480026,45922.39
+VENT01077,2023-07-16,Still,diésel,3500,6000,Mendoza,particular,2019.0,usado,crédito,Potencia SRL,4564.770908595343,34342.91
+VENT00252,2023-07-17,Crown,diésel,2500,4700,Neuquén,distribuidor,,usado,contado,Potencia SRL,3009.674386399119,25570.89
+VENT00366,2023-07-18,Toyota,diésel,2500,4700,,distribuidor,2015.0,usado,crédito,Forklift Solutions,4311.715393691162,22930.7
+VENT00178,2023-07-19,Hyster,gas,1800,4700,Mendoza,distribuidor,,usado,contado,Potencia SRL,2564.7828107389455,18842.07
+VENT00361,2023-07-21,Crown,eléctrico,3500,6000,Santa Fe,particular,2017.0,nuevo,crédito,Potencia SRL,3065.0858361593323,52059.34
+VENT00061,2023-07-22,Linde,eléctrico,5000,3000,Buenos Aires,particular,2018.0,usado,contado,Autoelevadores Norte,3582.8706523959954,45759.79
+VENT00964,2023-07-23,Crown,diésel,2500,4700,Chubut,particular,2018.0,usado,contado,Forklift Solutions,3733.7756572867834,26042.8
+VENT00407,2023-07-23,Crown,eléctrico,2500,4000,Neuquén,distribuidor,2024.0,usado,contado,Autoelevadores Norte,2635.8132614969645,28344.19
+VENT00567,2023-07-27,Still,diésel,1800,3000,Córdoba,distribuidor,,nuevo,crédito,Grupo Industrial SA,,34697.57
+VENT00737,2023-07-27,Hyster,diésel,3500,6000,Neuquén,,2015.0,usado,crédito,Potencia SRL,6281.778321192618,30420.39
+VENT00228,2023-07-28,Toyota,eléctrico,3500,4700,Neuquén,empresa logística,2021.0,usado,contado,Potencia SRL,4760.042140820074,37086.28
+VENT00573,2023-08-02,Crown,gas,1800,4700,Neuquén,particular,2022.0,usado,leasing,Forklift Solutions,4315.783359847788,14283.83
+VENT01107,2023-08-02,Yale,eléctrico,1800,3000,Buenos Aires,particular,2024.0,reacondicionado,crédito,Potencia SRL,2640.3067474492595,25286.56
+VENT00894,2023-08-03,Linde,diésel,2500,3000,Chubut,particular,2020.0,usado,,Autoelevadores Norte,3754.699309561911,21171.76
+VENT01227,2023-08-04,Linde,gas,2500,3000,Córdoba,distribuidor,2022.0,usado,crédito,Potencia SRL,3920.451428506224,20269.67
+VENT00678,2023-08-04,Hyster,gas,5000,4700,Mendoza,,2021.0,nuevo,crédito,Forklift Solutions,1844.7335664234727,66831.08
+VENT00774,2023-08-04,Crown,diésel,3500,4700,Neuquén,distribuidor,2018.0,reacondicionado,leasing,Grupo Industrial SA,5806.873094701195,37420.9
+VENT00824,2023-08-05,Still,gas,2500,4000,Neuquén,empresa logística,2021.0,nuevo,crédito,Potencia SRL,1822.3922675293059,39444.25
+VENT00345,2023-08-05,Still,eléctrico,1800,3000,Neuquén,distribuidor,2016.0,reacondicionado,crédito,Forklift Solutions,6765.608418538981,20014.39
+VENT00818,2023-08-06,Hyster,eléctrico,5000,4000,Neuquén,distribuidor,2019.0,reacondicionado,leasing,Grupo Industrial SA,3880.936275024585,50550.24
+VENT00865,2023-08-09,Toyota,diésel,2500,4000,Buenos Aires,particular,2024.0,reacondicionado,leasing,Autoelevadores Norte,3377.3190640351004,31216.53
+VENT00788,2023-08-09,Linde,eléctrico,2500,3000,Santa Fe,particular,2021.0,reacondicionado,crédito,Potencia SRL,2938.939694828441,29985.05
+VENT01058,2023-08-10,Toyota,eléctrico,2500,6000,,empresa logística,2016.0,reacondicionado,leasing,Forklift Solutions,4799.424505365855,34128.02
+VENT00556,2023-08-13,Linde,gas,5000,3000,Chubut,empresa logística,,usado,crédito,Potencia SRL,7031.892881309595,38146.2
+VENT01128,2023-08-20,Still,diésel,2500,4700,Córdoba,distribuidor,2018.0,usado,contado,Autoelevadores Norte,4173.155449765104,22924.84
+VENT00874,2023-08-20,Toyota,gas,2500,6000,Mendoza,,2023.0,usado,contado,Potencia SRL,6414.403794491071,22392.67
+VENT00317,2023-08-21,Still,eléctrico,2500,4700,Buenos Aires,distribuidor,2024.0,usado,leasing,Grupo Industrial SA,4514.462958857694,29175.45
+VENT00914,2023-08-21,Linde,diésel,2500,4000,Santa Fe,particular,2019.0,reacondicionado,crédito,Autoelevadores Norte,5010.558736018076,32905.95
+VENT01230,2023-08-21,Crown,eléctrico,3500,3000,Córdoba,particular,2020.0,reacondicionado,leasing,Grupo Industrial SA,4637.806466020496,39487.5
+VENT00675,2023-08-23,Still,gas,1800,3000,Mendoza,,,nuevo,contado,Potencia SRL,1116.9172224837514,35445.56
+VENT00107,2023-08-23,Crown,eléctrico,3500,4700,Chubut,distribuidor,2017.0,reacondicionado,leasing,Autoelevadores Norte,6407.267188436435,37870.25
+VENT00714,2023-08-25,Toyota,diésel,3500,3000,Buenos Aires,particular,2025.0,nuevo,leasing,Autoelevadores Norte,411.060703822704,45868.58
+VENT00392,2023-08-26,Crown,eléctrico,1800,4000,Chubut,distribuidor,2024.0,nuevo,crédito,Grupo Industrial SA,743.170583055218,34505.28
+VENT00846,2023-08-29,Still,gas,3500,3000,Mendoza,empresa logística,2018.0,usado,contado,Grupo Industrial SA,5463.654329394778,29459.05
+VENT00527,2023-08-29,Linde,eléctrico,2500,4000,Córdoba,particular,2022.0,nuevo,leasing,Potencia SRL,,42343.73
+VENT00131,2023-09-02,Yale,gas,3500,4000,Córdoba,particular,2015.0,usado,leasing,Forklift Solutions,,33232.54
+VENT01083,2023-09-02,Toyota,eléctrico,5000,4700,Chubut,,2016.0,usado,crédito,Potencia SRL,4707.36637608829,47792.49
+VENT01064,2023-09-02,Yale,eléctrico,3500,4000,Buenos Aires,particular,2017.0,usado,crédito,Grupo Industrial SA,,34174.96
+VENT00512,2023-09-03,Crown,diésel,1800,4000,,particular,2016.0,reacondicionado,crédito,Potencia SRL,3653.367413526502,21397.54
+VENT00836,2023-09-04,Yale,gas,2500,3000,Córdoba,particular,2019.0,usado,contado,Forklift Solutions,5804.859233896303,16963.11
+VENT00955,2023-09-04,Crown,eléctrico,3500,3000,Santa Fe,empresa logística,2024.0,reacondicionado,contado,Forklift Solutions,1839.9728617132207,42280.8
+VENT00329,2023-09-05,Toyota,eléctrico,3500,4000,Santa Fe,distribuidor,2016.0,usado,crédito,Forklift Solutions,6894.599072177577,27323.2
+VENT01225,2023-09-05,Toyota,gas,2500,4700,Chubut,distribuidor,2020.0,nuevo,leasing,Forklift Solutions,1505.791023367874,49794.74
+VENT00905,2023-09-08,Still,gas,3500,3000,Buenos Aires,empresa logística,2023.0,usado,crédito,Potencia SRL,2842.7392034561267,34523.26
+VENT01065,2023-09-08,Yale,diésel,3500,3000,Buenos Aires,empresa logística,2021.0,reacondicionado,contado,Autoelevadores Norte,5874.2010922878235,33491.98
+VENT00805,2023-09-12,Toyota,eléctrico,3500,3000,Mendoza,particular,2017.0,usado,contado,Grupo Industrial SA,6388.4450957440295,33945.68
+VENT00453,2023-09-12,Toyota,diésel,2500,4700,Chubut,empresa logística,2016.0,usado,leasing,Grupo Industrial SA,5147.074468488284,17104.65
+VENT00925,2023-09-13,Still,gas,2500,4700,Córdoba,particular,,reacondicionado,crédito,Forklift Solutions,5455.930846056763,29509.17
+VENT00692,2023-09-14,Crown,diésel,2500,4000,Chubut,empresa logística,2017.0,nuevo,crédito,Autoelevadores Norte,1785.7707439182516,42164.14
+VENT01211,2023-09-15,Still,eléctrico,2500,6000,Buenos Aires,particular,2016.0,usado,,Autoelevadores Norte,6403.375702161213,25217.46
+VENT00126,2023-09-16,Toyota,gas,3500,4000,Córdoba,particular,2022.0,usado,,Autoelevadores Norte,5099.056427224568,31717.3
+VENT00098,2023-09-17,Toyota,eléctrico,2500,3000,Córdoba,distribuidor,2020.0,usado,leasing,Forklift Solutions,,22052.85
+VENT01076,2023-09-17,Still,gas,3500,4700,Neuquén,distribuidor,2020.0,reacondicionado,contado,Potencia SRL,3514.2589755410813,41223.44
+VENT00247,2023-09-18,Hyster,eléctrico,1800,6000,,particular,2025.0,reacondicionado,contado,Autoelevadores Norte,2679.324736314343,30256.97
+VENT00398,2023-09-19,Still,diésel,5000,4000,Mendoza,particular,2025.0,nuevo,leasing,Forklift Solutions,270.90384362091015,64250.07
+VENT00019,2023-09-23,Yale,eléctrico,2500,3000,Mendoza,empresa logística,2016.0,usado,crédito,Grupo Industrial SA,5432.686531931706,19597.24
+VENT00655,2023-09-23,Yale,diésel,2500,4000,Buenos Aires,particular,2017.0,usado,crédito,Autoelevadores Norte,1038.0613654975007,29404.08
+VENT01223,2023-09-24,Linde,diésel,5000,4000,Mendoza,distribuidor,2022.0,usado,crédito,Forklift Solutions,3567.6279339211324,44779.11
+VENT00344,2023-09-26,Yale,gas,3500,3000,Chubut,distribuidor,2017.0,usado,crédito,Autoelevadores Norte,5052.62214328728,25895.58
+VENT00988,2023-09-27,Still,diésel,2500,4700,Buenos Aires,distribuidor,,usado,contado,Forklift Solutions,4018.1588218690067,24786.55
+VENT00916,2023-09-29,Toyota,gas,3500,4000,Neuquén,particular,2017.0,nuevo,crédito,Forklift Solutions,2763.306824399753,52000.39
+VENT00568,2023-10-01,Hyster,diésel,3500,4700,Santa Fe,particular,2017.0,usado,contado,Grupo Industrial SA,4832.702683446919,28312.6
+VENT00311,2023-10-03,Toyota,eléctrico,1800,4000,Córdoba,particular,,usado,,Forklift Solutions,5004.7047871847735,14584.29
+VENT00739,2023-10-04,Hyster,gas,3500,6000,Córdoba,particular,2021.0,reacondicionado,leasing,Autoelevadores Norte,4736.871381201358,47776.55
+VENT00040,2023-10-05,Hyster,gas,3500,3000,Chubut,distribuidor,2015.0,reacondicionado,contado,Grupo Industrial SA,4828.846944708274,31593.29
+VENT00864,2023-10-06,Toyota,diésel,2500,4700,Neuquén,particular,2024.0,usado,leasing,Grupo Industrial SA,1869.382135040376,27516.01
+VENT00427,2023-10-07,Hyster,diésel,2500,4000,Chubut,distribuidor,2016.0,reacondicionado,crédito,Forklift Solutions,4865.938113497199,26039.11
+VENT01208,2023-10-14,Linde,eléctrico,2500,3000,,distribuidor,2019.0,usado,contado,Grupo Industrial SA,6957.685143882583,20146.23
+VENT01000,2023-10-14,Still,eléctrico,3500,4000,Córdoba,particular,2024.0,usado,crédito,Autoelevadores Norte,4465.633861002776,35446.77
+VENT00636,2023-10-16,Hyster,diésel,1800,4000,,particular,2025.0,usado,leasing,Potencia SRL,3558.277417091686,12055.22
+VENT00416,2023-10-17,Still,diésel,2500,4000,,,2022.0,usado,leasing,Grupo Industrial SA,,21874.32
+VENT00539,2023-10-20,Toyota,eléctrico,5000,4000,Buenos Aires,particular,2020.0,nuevo,contado,Potencia SRL,3139.927965706383,65729.27
+VENT00809,2023-10-21,Toyota,eléctrico,1800,3000,Mendoza,,2021.0,usado,,Autoelevadores Norte,1590.4604943778643,19131.48
+VENT01212,2023-10-22,Toyota,diésel,1800,3000,Córdoba,particular,2021.0,usado,leasing,Potencia SRL,,12910.36
+VENT00832,2023-10-23,Toyota,eléctrico,3500,4000,Santa Fe,distribuidor,2019.0,usado,leasing,Autoelevadores Norte,4211.408101814356,29318.04
+VENT00830,2023-10-23,Crown,eléctrico,1800,4700,,particular,2018.0,usado,leasing,Forklift Solutions,5110.732255788236,17764.02
+VENT00862,2023-10-24,Hyster,diésel,3500,4000,,particular,,usado,leasing,Grupo Industrial SA,6237.314651110111,24964.31
+VENT00483,2023-10-26,Linde,diésel,1800,4700,Córdoba,empresa logística,2024.0,usado,contado,Grupo Industrial SA,2735.5042739131623,18074.12
+VENT00025,2023-10-28,Linde,eléctrico,2500,4000,Córdoba,particular,2018.0,reacondicionado,leasing,Grupo Industrial SA,5794.44027808309,31512.93
+VENT00491,2023-10-28,Yale,eléctrico,3500,6000,Mendoza,distribuidor,2018.0,reacondicionado,crédito,Grupo Industrial SA,4598.9836929241865,40166.29
+VENT00363,2023-11-01,Hyster,diésel,2500,3000,Chubut,distribuidor,2021.0,usado,leasing,Autoelevadores Norte,2741.2004191592814,23442.75
+VENT00581,2023-11-02,Hyster,diésel,2500,4700,Córdoba,distribuidor,2022.0,usado,crédito,Forklift Solutions,3866.0006597874153,19974.18
+VENT00606,2023-11-04,Hyster,eléctrico,1800,4700,Córdoba,distribuidor,2017.0,usado,leasing,Potencia SRL,7609.027991027506,12000.0
+VENT00789,2023-11-06,Still,diésel,3500,3000,Córdoba,distribuidor,2015.0,reacondicionado,contado,Autoelevadores Norte,5624.984833615491,30234.54
+VENT00741,2023-11-07,Hyster,gas,1800,4000,Santa Fe,distribuidor,2015.0,usado,,Grupo Industrial SA,4628.514013593023,15338.14
+VENT00627,2023-11-07,Hyster,gas,5000,6000,Buenos Aires,,2017.0,usado,leasing,Potencia SRL,5841.5905573282,49519.74
+VENT00495,2023-11-08,Crown,eléctrico,5000,3000,Chubut,distribuidor,2021.0,usado,contado,Forklift Solutions,2870.081682038393,43809.37
+VENT00287,2023-11-11,Hyster,diésel,3500,6000,Buenos Aires,empresa logística,2019.0,usado,,Forklift Solutions,4651.659557205079,35807.66
+VENT01086,2023-11-14,Linde,diésel,3500,4000,Chubut,particular,2019.0,usado,contado,Autoelevadores Norte,3401.8719040251535,24605.54
+VENT00526,2023-11-16,Still,diésel,1800,6000,Santa Fe,particular,,reacondicionado,contado,Potencia SRL,3187.993415171106,24755.36
+VENT00458,2023-11-16,Crown,eléctrico,1800,3000,Neuquén,distribuidor,2020.0,nuevo,crédito,Potencia SRL,1792.3835994448896,34444.81
+VENT00713,2023-11-20,Linde,diésel,2500,4000,Santa Fe,particular,2018.0,reacondicionado,crédito,Potencia SRL,4570.480435513442,27962.64
+VENT00858,2023-11-21,Still,eléctrico,2500,3000,Mendoza,particular,2020.0,usado,,Autoelevadores Norte,2463.2656143542504,26996.01
+VENT00090,2023-11-21,Yale,gas,2500,6000,Córdoba,distribuidor,2025.0,usado,contado,Potencia SRL,136.60511320969997,30824.23
+VENT01238,2023-11-22,Yale,gas,3500,3000,Chubut,distribuidor,2022.0,usado,crédito,Potencia SRL,4152.748271217792,34187.59
+VENT00596,2023-11-23,Still,eléctrico,1800,4700,Córdoba,particular,2022.0,usado,leasing,Forklift Solutions,4174.725210884507,16336.54
+VENT00342,2023-11-23,Hyster,eléctrico,5000,3000,Buenos Aires,distribuidor,2025.0,nuevo,crédito,Potencia SRL,413.96648329738525,65729.89
+VENT00339,2023-11-24,Crown,gas,2500,4700,Buenos Aires,empresa logística,2018.0,nuevo,crédito,Autoelevadores Norte,1233.7849188066123,46028.61
+VENT01026,2023-11-24,Hyster,gas,2500,3000,Neuquén,empresa logística,2024.0,usado,leasing,Autoelevadores Norte,2538.274025248489,23061.27
+VENT00970,2023-11-27,Linde,eléctrico,1800,4700,Mendoza,empresa logística,2017.0,usado,crédito,Autoelevadores Norte,,18910.12
+VENT01059,2023-12-02,Linde,diésel,5000,3000,Neuquén,distribuidor,2025.0,usado,crédito,Grupo Industrial SA,2966.0383395326676,49040.12
+VENT01139,2023-12-03,Hyster,eléctrico,3500,3000,Buenos Aires,empresa logística,2020.0,nuevo,leasing,Grupo Industrial SA,1532.8092149099195,52182.76
+VENT00700,2023-12-04,Crown,eléctrico,2500,3000,Chubut,empresa logística,2022.0,nuevo,leasing,Forklift Solutions,1638.4742060794983,45451.31
+VENT00624,2023-12-09,Hyster,eléctrico,1800,3000,Córdoba,distribuidor,2015.0,usado,leasing,Potencia SRL,4460.6468266844695,12364.48
+VENT00922,2023-12-13,Still,diésel,3500,4700,,particular,2025.0,usado,contado,Potencia SRL,3144.22061774025,33825.98
+VENT01205,2023-12-15,Crown,diésel,1800,6000,Neuquén,distribuidor,2022.0,nuevo,contado,Potencia SRL,1605.9856869645432,40407.44
+VENT00154,2023-12-16,Toyota,eléctrico,5000,4700,,empresa logística,2022.0,nuevo,,Forklift Solutions,,69584.3
+VENT01010,2023-12-16,Yale,eléctrico,1800,4700,Santa Fe,particular,2017.0,reacondicionado,contado,Forklift Solutions,5184.891175534444,27528.45
+VENT00341,2023-12-19,Still,eléctrico,5000,4000,Santa Fe,distribuidor,2025.0,nuevo,crédito,Grupo Industrial SA,379.60714888008454,66333.5
+VENT00579,2023-12-20,Still,gas,2500,4000,Córdoba,distribuidor,2016.0,nuevo,,Grupo Industrial SA,2537.7941120036926,41178.58
+VENT00583,2023-12-21,Hyster,diésel,5000,4000,Neuquén,particular,2025.0,reacondicionado,leasing,Autoelevadores Norte,1932.452279078833,58312.12
+VENT00234,2023-12-21,Yale,diésel,2500,4700,Córdoba,distribuidor,2023.0,reacondicionado,crédito,Grupo Industrial SA,,30657.4
+VENT00456,2023-12-21,Linde,gas,2500,4700,Santa Fe,particular,2022.0,nuevo,leasing,Forklift Solutions,1369.4402642886769,45751.52
+VENT00096,2023-12-22,Linde,eléctrico,5000,3000,Chubut,distribuidor,,nuevo,leasing,Autoelevadores Norte,1288.4005643036699,62160.24
+VENT00424,2023-12-23,Still,diésel,5000,4700,Mendoza,particular,,usado,contado,Potencia SRL,1607.863005606567,50192.19
+VENT01138,2023-12-24,Still,diésel,1800,4700,Santa Fe,distribuidor,,usado,leasing,Potencia SRL,2706.9977818639964,18129.46
+VENT00042,2023-12-24,Still,diésel,2500,4000,Buenos Aires,empresa logística,2015.0,reacondicionado,crédito,Autoelevadores Norte,6526.745241059089,28982.34
+VENT01132,2023-12-25,Hyster,diésel,5000,3000,Santa Fe,distribuidor,2023.0,reacondicionado,contado,Grupo Industrial SA,1777.3823656837585,51924.31
+VENT00986,2023-12-25,Linde,eléctrico,1800,4000,Córdoba,particular,2019.0,usado,contado,Autoelevadores Norte,2824.5854052372497,20354.36
+VENT00979,2023-12-26,Toyota,diésel,2500,6000,Córdoba,particular,2017.0,usado,leasing,Forklift Solutions,4480.154248039279,26432.86
+VENT00143,2023-12-27,Hyster,diésel,2500,4700,Chubut,particular,2024.0,usado,contado,Forklift Solutions,,31448.05
+VENT00835,2023-12-29,Toyota,eléctrico,5000,3000,Neuquén,distribuidor,2021.0,nuevo,crédito,Forklift Solutions,2161.9185355898026,59766.93
+VENT00650,2023-12-29,Yale,eléctrico,3500,6000,Santa Fe,distribuidor,2017.0,usado,contado,Forklift Solutions,,31913.38
+VENT00276,2024-01-03,Toyota,eléctrico,1800,4700,Mendoza,distribuidor,2020.0,usado,leasing,Autoelevadores Norte,4461.801920972868,16949.73
+VENT00232,2024-01-04,Hyster,eléctrico,1800,3000,Santa Fe,,2016.0,nuevo,,Forklift Solutions,1557.6283749586464,38706.52
+VENT00849,2024-01-04,Hyster,eléctrico,1800,4700,Santa Fe,distribuidor,2022.0,usado,leasing,Forklift Solutions,2743.3558325880795,22616.12
+VENT00148,2024-01-04,Still,eléctrico,1800,4000,Buenos Aires,distribuidor,2023.0,usado,leasing,Grupo Industrial SA,5986.462202256399,13797.0
+VENT00744,2024-01-04,Crown,diésel,5000,4000,Buenos Aires,empresa logística,2025.0,usado,contado,Autoelevadores Norte,4674.139505494648,45969.6
+VENT00609,2024-01-05,Still,gas,2500,3000,Chubut,particular,2019.0,usado,contado,Autoelevadores Norte,5547.547760916964,19872.13
+VENT00351,2024-01-05,Crown,gas,5000,4000,Córdoba,particular,2020.0,usado,crédito,Autoelevadores Norte,,39841.54
+VENT00403,2024-01-08,Yale,diésel,1800,4000,Mendoza,distribuidor,2016.0,nuevo,,Forklift Solutions,2148.0383099149485,28607.36
+VENT00793,2024-01-09,Hyster,gas,1800,6000,Buenos Aires,particular,2020.0,reacondicionado,crédito,Autoelevadores Norte,4533.136683503213,24929.87
+VENT01168,2024-01-11,Still,diésel,2500,4000,Santa Fe,particular,2024.0,nuevo,crédito,Autoelevadores Norte,492.8624136769867,40314.03
+VENT00693,2024-01-12,Hyster,eléctrico,2500,4700,Buenos Aires,empresa logística,2019.0,nuevo,crédito,Autoelevadores Norte,1952.2793081148548,45782.75
+VENT00104,2024-01-13,Still,gas,2500,6000,Mendoza,distribuidor,2016.0,usado,,Potencia SRL,5122.197660206294,25716.45
+VENT00130,2024-01-16,Linde,eléctrico,5000,4000,Mendoza,distribuidor,,usado,,Forklift Solutions,4367.024470965089,48552.28
+VENT00275,2024-01-17,Linde,diésel,2500,4000,Santa Fe,particular,2015.0,usado,leasing,Grupo Industrial SA,6707.970056179727,18782.04
+VENT00173,2024-01-18,Linde,eléctrico,3500,4700,Córdoba,,,reacondicionado,contado,Potencia SRL,4503.500012108489,37406.21
+VENT00633,2024-01-18,Still,eléctrico,5000,4700,Buenos Aires,distribuidor,2016.0,usado,crédito,Forklift Solutions,6401.842457752808,47058.61
+VENT01094,2024-01-19,Still,diésel,1800,4700,Neuquén,empresa logística,2023.0,usado,leasing,Forklift Solutions,5059.090639223374,12000.0
+VENT00571,2024-01-21,Linde,diésel,5000,4000,Santa Fe,distribuidor,,nuevo,leasing,Autoelevadores Norte,2628.91946796794,60689.11
+VENT00028,2024-01-21,Yale,eléctrico,3500,4700,Mendoza,distribuidor,2022.0,usado,crédito,Potencia SRL,1685.961210093525,39305.85
+VENT00307,2024-01-24,Linde,diésel,2500,4000,Chubut,distribuidor,2019.0,nuevo,leasing,Autoelevadores Norte,1410.3736754070567,42286.46
+VENT00264,2024-01-27,Toyota,diésel,5000,6000,Buenos Aires,particular,2023.0,usado,contado,Autoelevadores Norte,4107.836792184709,53807.51
+VENT00957,2024-01-28,Hyster,diésel,3500,4000,Mendoza,empresa logística,2019.0,usado,,Potencia SRL,,29827.27
+VENT00816,2024-01-28,Linde,diésel,1800,6000,Buenos Aires,particular,2017.0,reacondicionado,crédito,Forklift Solutions,4530.390443557231,26995.64
+VENT00137,2024-01-28,Hyster,gas,3500,3000,Córdoba,distribuidor,2016.0,usado,crédito,Forklift Solutions,4182.752479395325,26630.56
+VENT00549,2024-01-30,Crown,eléctrico,5000,3000,Chubut,distribuidor,2024.0,nuevo,leasing,Forklift Solutions,738.8803065718084,66546.9
+VENT00551,2024-01-30,Linde,diésel,1800,3000,Córdoba,distribuidor,2017.0,usado,leasing,Autoelevadores Norte,7299.436174640831,12000.0
+VENT00048,2024-01-30,Linde,gas,1800,6000,Neuquén,distribuidor,2018.0,usado,leasing,Autoelevadores Norte,2998.577175477779,17225.6
+VENT00296,2024-02-02,Crown,eléctrico,1800,3000,Córdoba,empresa logística,2023.0,usado,crédito,Autoelevadores Norte,4196.5247444021115,16332.92
+VENT00480,2024-02-03,Hyster,eléctrico,1800,4000,Neuquén,distribuidor,2019.0,usado,leasing,Potencia SRL,3906.957179458893,19929.01
+VENT00734,2024-02-03,Toyota,diésel,2500,6000,Neuquén,empresa logística,2024.0,usado,leasing,Autoelevadores Norte,3534.385877716091,31383.73
+VENT00097,2024-02-03,Yale,diésel,3500,4000,Chubut,distribuidor,2023.0,usado,crédito,Forklift Solutions,3796.507576319662,27013.11
+VENT00674,2024-02-05,Still,diésel,2500,6000,Córdoba,distribuidor,2021.0,nuevo,leasing,Potencia SRL,,43871.12
+VENT00863,2024-02-05,Toyota,eléctrico,1800,4700,Neuquén,,2019.0,reacondicionado,leasing,Autoelevadores Norte,5301.91614729656,20528.15
+VENT00018,2024-02-06,Linde,eléctrico,3500,4000,Córdoba,distribuidor,2015.0,nuevo,crédito,Forklift Solutions,3569.4213788063407,53513.22
+VENT00934,2024-02-07,Hyster,eléctrico,5000,4000,Neuquén,distribuidor,2021.0,usado,crédito,Potencia SRL,2233.067603153664,51230.02
+VENT00475,2024-02-10,Crown,eléctrico,3500,4700,Mendoza,particular,2015.0,usado,leasing,Potencia SRL,5546.2475837598195,35765.6
+VENT01052,2024-02-12,Hyster,diésel,2500,4700,Córdoba,empresa logística,2021.0,reacondicionado,crédito,Grupo Industrial SA,4772.37769876646,33254.01
+VENT00189,2024-02-13,Toyota,eléctrico,3500,4700,Córdoba,empresa logística,2017.0,nuevo,contado,Grupo Industrial SA,3931.9324137389754,49893.95
+VENT00302,2024-02-15,Linde,gas,3500,4000,Neuquén,distribuidor,2020.0,nuevo,crédito,Autoelevadores Norte,1562.6233656845407,49283.93
+VENT00634,2024-02-16,Hyster,eléctrico,1800,6000,Mendoza,,2016.0,usado,contado,Grupo Industrial SA,4234.876322482942,23090.56
+VENT00701,2024-02-17,Hyster,diésel,1800,3000,Mendoza,particular,,usado,crédito,Autoelevadores Norte,,12000.0
+VENT00637,2024-02-17,Linde,eléctrico,5000,4700,Buenos Aires,distribuidor,2025.0,nuevo,crédito,Potencia SRL,333.36904657077594,71113.63
+VENT00758,2024-02-18,Linde,gas,3500,6000,,particular,2020.0,nuevo,contado,Forklift Solutions,2369.7694959656856,50823.69
+VENT00164,2024-02-22,Linde,diésel,1800,4700,Neuquén,distribuidor,,usado,,Grupo Industrial SA,5622.927225557705,12000.0
+VENT00502,2024-02-22,Linde,eléctrico,2500,3000,Santa Fe,distribuidor,2015.0,usado,leasing,Potencia SRL,6525.068393929887,22771.04
+VENT01114,2024-02-23,Linde,gas,2500,4700,Neuquén,empresa logística,2022.0,usado,leasing,Autoelevadores Norte,1771.3394423268423,31027.52
+VENT00652,2024-02-24,Still,diésel,2500,4000,Chubut,empresa logística,,nuevo,contado,Forklift Solutions,1966.8686146724594,38799.9
+VENT00825,2024-02-24,Toyota,eléctrico,2500,4700,Neuquén,particular,2024.0,nuevo,leasing,Grupo Industrial SA,834.0065599993502,46920.53
+VENT01041,2024-02-27,Yale,eléctrico,2500,6000,Chubut,distribuidor,2025.0,usado,crédito,Potencia SRL,1250.4581697375486,33647.89
+VENT00120,2024-02-27,Linde,eléctrico,2500,4000,Santa Fe,distribuidor,2023.0,nuevo,leasing,Forklift Solutions,590.864921957427,42838.41
+VENT01176,2024-02-28,Still,gas,3500,6000,Chubut,empresa logística,2019.0,usado,leasing,Autoelevadores Norte,3594.9763505538976,35745.26
+VENT00303,2024-02-29,Still,diésel,3500,4000,Neuquén,empresa logística,2019.0,nuevo,crédito,Potencia SRL,2062.3972581520984,48986.16
+VENT00928,2024-03-01,Yale,eléctrico,1800,4000,,empresa logística,2020.0,usado,contado,Grupo Industrial SA,4785.158453520664,19580.42
+VENT01180,2024-03-01,Crown,eléctrico,5000,4700,,particular,2019.0,usado,contado,Forklift Solutions,2825.014405530914,51226.03
+VENT01002,2024-03-02,Crown,eléctrico,2500,3000,Buenos Aires,distribuidor,2016.0,reacondicionado,contado,Potencia SRL,4444.256426565531,32679.0
+VENT00288,2024-03-03,Linde,eléctrico,2500,4700,,particular,2019.0,reacondicionado,crédito,Grupo Industrial SA,4194.083704788241,34515.63
+VENT00782,2024-03-03,Toyota,diésel,2500,3000,Santa Fe,particular,2018.0,reacondicionado,leasing,Grupo Industrial SA,2896.382422074198,32654.87
+VENT00066,2024-03-03,Still,gas,2500,3000,Córdoba,empresa logística,,usado,crédito,Grupo Industrial SA,3623.004128128887,21692.04
+VENT00748,2024-03-04,Yale,eléctrico,5000,4700,Córdoba,particular,2025.0,usado,crédito,Autoelevadores Norte,3352.2908081482346,50098.82
+VENT00364,2024-03-07,Crown,gas,2500,4000,Santa Fe,empresa logística,2023.0,usado,crédito,Autoelevadores Norte,2848.319686584906,28202.53
+VENT00049,2024-03-09,Linde,diésel,3500,3000,Santa Fe,particular,2017.0,nuevo,crédito,Grupo Industrial SA,2558.538840202654,44657.9
+VENT00211,2024-03-12,Crown,diésel,3500,4000,Mendoza,,2018.0,nuevo,leasing,Potencia SRL,3201.565730144624,48563.77
+VENT00321,2024-03-12,Linde,gas,3500,4000,Córdoba,empresa logística,2024.0,reacondicionado,crédito,Forklift Solutions,4000.78349336499,40923.96
+VENT00426,2024-03-13,Crown,diésel,3500,3000,Neuquén,distribuidor,2020.0,usado,crédito,Autoelevadores Norte,4245.648898059606,29432.9
+VENT01126,2024-03-15,Still,gas,3500,6000,Mendoza,particular,,usado,crédito,Forklift Solutions,926.1307932939706,40924.65
+VENT00553,2024-03-16,Still,eléctrico,3500,4000,Chubut,particular,2021.0,usado,,Potencia SRL,3781.0542503415,28577.41
+VENT00915,2024-03-16,Still,eléctrico,5000,4000,Chubut,empresa logística,2017.0,nuevo,crédito,Forklift Solutions,1951.7259099503524,63749.73
+VENT00478,2024-03-19,Yale,diésel,2500,4700,Neuquén,distribuidor,2023.0,usado,leasing,Grupo Industrial SA,2673.82013887847,24081.24
+VENT00942,2024-03-20,Yale,gas,2500,6000,Mendoza,particular,2023.0,usado,,Autoelevadores Norte,3039.0760556505998,29484.15
+VENT00327,2024-03-20,Toyota,diésel,3500,3000,Neuquén,empresa logística,2025.0,usado,contado,Autoelevadores Norte,3781.209530849345,28225.77
+VENT00534,2024-03-21,Yale,gas,5000,6000,Mendoza,empresa logística,2023.0,usado,contado,Forklift Solutions,3023.0207970793654,52838.67
+VENT00188,2024-03-21,Crown,eléctrico,2500,3000,Santa Fe,empresa logística,2015.0,nuevo,contado,Potencia SRL,4467.442804036843,37493.77
+VENT00686,2024-03-23,Linde,gas,2500,3000,Santa Fe,empresa logística,2025.0,reacondicionado,leasing,Forklift Solutions,3038.3237060931615,31756.3
+VENT00256,2024-03-23,Toyota,gas,3500,4700,Neuquén,particular,2024.0,reacondicionado,crédito,Potencia SRL,3675.959001462469,41055.19
+VENT00452,2024-03-26,Still,diésel,5000,4000,Mendoza,empresa logística,2015.0,usado,leasing,Autoelevadores Norte,3892.7938232730494,41567.05
+VENT00866,2024-03-28,Linde,eléctrico,3500,4000,Mendoza,,2018.0,reacondicionado,leasing,Grupo Industrial SA,955.7369822703886,44001.28
+VENT00554,2024-03-29,Hyster,diésel,1800,3000,Córdoba,particular,,usado,,Forklift Solutions,7537.438859677481,12000.0
+VENT00094,2024-03-30,Linde,eléctrico,1800,4700,Córdoba,particular,2017.0,nuevo,leasing,Autoelevadores Norte,1586.628914677901,38273.26
+VENT00859,2024-04-04,Still,diésel,3500,4000,Buenos Aires,particular,2018.0,nuevo,contado,Potencia SRL,,44356.84
+VENT00798,2024-04-05,Hyster,eléctrico,5000,3000,,distribuidor,2020.0,reacondicionado,contado,Forklift Solutions,4409.475580925624,51724.13
+VENT01144,2024-04-05,Yale,diésel,2500,4000,Chubut,empresa logística,2022.0,usado,contado,Forklift Solutions,,16992.64
+VENT00969,2024-04-06,Linde,diésel,1800,4700,Chubut,distribuidor,2022.0,usado,crédito,Forklift Solutions,3637.826774662784,19754.82
+VENT01018,2024-04-09,Still,diésel,2500,4000,Chubut,particular,2022.0,nuevo,leasing,Potencia SRL,898.6641455173667,39317.01
+VENT00222,2024-04-09,Toyota,gas,1800,4700,Córdoba,empresa logística,2020.0,usado,contado,Autoelevadores Norte,3735.2573027788108,17473.79
+VENT00259,2024-04-12,Crown,eléctrico,3500,3000,Chubut,distribuidor,2025.0,usado,crédito,Forklift Solutions,1867.8145010925557,37180.87
+VENT00766,2024-04-12,Linde,eléctrico,5000,6000,Chubut,particular,,nuevo,crédito,Grupo Industrial SA,2528.4346382288686,70085.63
+VENT00660,2024-04-13,Linde,eléctrico,1800,3000,Chubut,particular,2018.0,nuevo,contado,Grupo Industrial SA,2971.7727051216293,33291.85
+VENT00687,2024-04-14,Crown,diésel,2500,3000,,distribuidor,2024.0,nuevo,leasing,Grupo Industrial SA,642.4693970394288,41285.39
+VENT00414,2024-04-17,Crown,eléctrico,2500,4700,,particular,2018.0,reacondicionado,leasing,Autoelevadores Norte,5381.916590877829,35352.65
+VENT00725,2024-04-18,Toyota,gas,1800,3000,,distribuidor,,nuevo,contado,Grupo Industrial SA,628.7917835414936,35191.54
+VENT00360,2024-04-20,Linde,eléctrico,5000,3000,,empresa logística,2022.0,reacondicionado,crédito,Autoelevadores Norte,3812.565097357273,53933.48
+VENT00940,2024-04-21,Crown,gas,3500,4700,Buenos Aires,empresa logística,2023.0,reacondicionado,leasing,Forklift Solutions,2405.742034213319,46410.7
+VENT00803,2024-04-21,Linde,eléctrico,2500,4000,Neuquén,empresa logística,2015.0,usado,leasing,Autoelevadores Norte,7539.069904211729,16399.41
+VENT00233,2024-04-22,Toyota,gas,5000,4000,Buenos Aires,empresa logística,2018.0,usado,contado,Grupo Industrial SA,4498.0991809334955,40628.17
+VENT00285,2024-04-24,Still,gas,2500,4700,Chubut,empresa logística,2016.0,usado,,Forklift Solutions,5993.015028666219,24177.31
+VENT01116,2024-04-26,Hyster,eléctrico,5000,6000,Chubut,particular,2021.0,usado,crédito,Potencia SRL,4218.027591878948,50927.04
+VENT00839,2024-04-27,Yale,eléctrico,3500,3000,Buenos Aires,distribuidor,2025.0,usado,crédito,Forklift Solutions,2021.2256115495493,39589.32
+VENT00698,2024-04-28,Hyster,diésel,3500,4700,Córdoba,,2024.0,nuevo,leasing,Grupo Industrial SA,311.6736004602253,51575.56
+VENT01192,2024-04-29,Toyota,eléctrico,2500,4000,Chubut,particular,2022.0,usado,contado,Autoelevadores Norte,3001.847693567512,22634.2
+VENT00904,2024-05-01,Hyster,diésel,5000,4000,Neuquén,distribuidor,,usado,,Forklift Solutions,1936.2117369966759,51672.7
+VENT00464,2024-05-01,Toyota,gas,1800,3000,Córdoba,distribuidor,2017.0,nuevo,contado,Forklift Solutions,4392.263309594144,28313.98
+VENT00787,2024-05-01,Crown,eléctrico,2500,3000,Mendoza,particular,2015.0,nuevo,leasing,Autoelevadores Norte,4707.113149311963,38647.36
+VENT00497,2024-05-02,Still,eléctrico,1800,3000,Santa Fe,particular,2023.0,usado,leasing,Autoelevadores Norte,3898.0532779184387,13596.96
+VENT00485,2024-05-03,Hyster,gas,1800,3000,Chubut,particular,2024.0,reacondicionado,crédito,Forklift Solutions,4501.211631276639,21928.41
+VENT00792,2024-05-05,Hyster,eléctrico,5000,3000,Buenos Aires,empresa logística,2017.0,usado,crédito,Potencia SRL,5232.57076266836,42926.48
+VENT00358,2024-05-05,Toyota,eléctrico,1800,4700,Neuquén,empresa logística,2016.0,usado,leasing,Autoelevadores Norte,3871.2138809378275,18252.66
+VENT00653,2024-05-06,Toyota,gas,1800,4700,Santa Fe,distribuidor,2022.0,reacondicionado,crédito,Autoelevadores Norte,6270.401219601174,23690.29
+VENT00994,2024-05-11,Linde,diésel,2500,4000,Buenos Aires,particular,2021.0,nuevo,contado,Grupo Industrial SA,1612.244549614321,39476.41
+VENT00911,2024-05-11,Toyota,diésel,5000,3000,,distribuidor,2016.0,usado,leasing,Grupo Industrial SA,3083.8192485031495,42022.48
+VENT00566,2024-05-11,Linde,eléctrico,2500,4000,Neuquén,,2019.0,usado,leasing,Grupo Industrial SA,4378.97876364646,24101.29
+VENT00290,2024-05-12,Hyster,eléctrico,5000,4700,Mendoza,distribuidor,2021.0,usado,,Potencia SRL,3806.5797364359396,49541.33
+VENT00170,2024-05-12,Hyster,diésel,2500,3000,Chubut,empresa logística,2021.0,reacondicionado,contado,Autoelevadores Norte,3481.2200940422,24284.04
+VENT00817,2024-05-13,Linde,diésel,3500,3000,Neuquén,,2018.0,reacondicionado,contado,Autoelevadores Norte,3685.1407623026753,34860.71
+VENT00029,2024-05-14,Crown,diésel,3500,4700,Mendoza,particular,2020.0,usado,contado,Autoelevadores Norte,2853.8467503463744,35014.69
+VENT01140,2024-05-14,Linde,diésel,3500,4000,Chubut,distribuidor,2024.0,usado,crédito,Potencia SRL,2075.0485328367713,31690.33
+VENT01115,2024-05-15,Crown,gas,3500,3000,Chubut,empresa logística,2023.0,usado,contado,Grupo Industrial SA,2187.021761197067,30800.56
+VENT00647,2024-05-16,Still,diésel,1800,4000,Chubut,empresa logística,2015.0,usado,leasing,Forklift Solutions,6519.301371766929,12000.0
+VENT00521,2024-05-17,Hyster,diésel,3500,6000,,distribuidor,2018.0,usado,contado,Autoelevadores Norte,3348.5042260205983,34981.28
+VENT00977,2024-05-18,Yale,diésel,2500,4000,Santa Fe,particular,2025.0,usado,contado,Potencia SRL,753.579768022686,19584.91
+VENT00850,2024-05-19,Yale,eléctrico,1800,4000,Mendoza,distribuidor,2018.0,nuevo,crédito,Grupo Industrial SA,2302.2151528208137,33990.84
+VENT00712,2024-05-19,Linde,eléctrico,1800,4700,Santa Fe,distribuidor,2017.0,usado,crédito,Forklift Solutions,4021.5164061494993,21372.37
+VENT01032,2024-05-20,Hyster,eléctrico,1800,4700,Neuquén,particular,2021.0,usado,contado,Autoelevadores Norte,,16359.73
+VENT00980,2024-05-21,Crown,diésel,1800,4000,Mendoza,distribuidor,2024.0,usado,contado,Autoelevadores Norte,1588.8305735574415,15318.69
+VENT00950,2024-05-22,Crown,eléctrico,2500,3000,Neuquén,distribuidor,2016.0,usado,contado,Potencia SRL,5139.687234808778,20944.59
+VENT00055,2024-05-22,Toyota,diésel,3500,3000,Santa Fe,,2020.0,usado,crédito,Autoelevadores Norte,,28979.05
+VENT00004,2024-05-24,Still,diésel,1800,4700,Chubut,particular,2024.0,nuevo,contado,Grupo Industrial SA,431.59320323012224,39365.77
+VENT00951,2024-05-26,Toyota,eléctrico,1800,4700,Mendoza,distribuidor,2024.0,usado,,Potencia SRL,1956.0510426069316,24159.09
+VENT00009,2024-05-27,Hyster,eléctrico,2500,3000,Córdoba,distribuidor,2015.0,nuevo,contado,Forklift Solutions,4446.819255476042,39206.45
+VENT00962,2024-05-30,Toyota,gas,1800,4000,Santa Fe,particular,2017.0,usado,crédito,Potencia SRL,5740.781101605247,13964.22
+VENT00663,2024-06-03,Linde,diésel,1800,4700,Santa Fe,distribuidor,2025.0,usado,contado,Forklift Solutions,4291.921376357396,17668.45
+VENT00205,2024-06-04,Yale,gas,1800,4000,Buenos Aires,particular,2023.0,usado,leasing,Grupo Industrial SA,2017.4727658501938,17546.2
+VENT00542,2024-06-04,Toyota,eléctrico,2500,3000,Chubut,distribuidor,2017.0,usado,contado,Autoelevadores Norte,4316.514880075315,23506.74
+VENT00804,2024-06-04,Crown,eléctrico,2500,4700,Córdoba,particular,2019.0,nuevo,leasing,Grupo Industrial SA,,40946.61
+VENT00031,2024-06-06,Toyota,diésel,2500,4700,Mendoza,particular,2021.0,nuevo,leasing,Potencia SRL,1407.2327059841223,41445.85
+VENT01093,2024-06-06,Still,eléctrico,2500,4700,Chubut,distribuidor,2019.0,reacondicionado,crédito,Autoelevadores Norte,5929.4192867681395,26624.3
+VENT00147,2024-06-08,Hyster,eléctrico,1800,4000,Córdoba,empresa logística,2024.0,usado,leasing,Grupo Industrial SA,2447.733947484491,19407.8
+VENT00696,2024-06-10,Crown,diésel,3500,3000,Buenos Aires,empresa logística,,usado,crédito,Forklift Solutions,5602.275895144037,21722.11
+VENT00794,2024-06-11,Linde,eléctrico,5000,4700,Córdoba,particular,2024.0,usado,,Grupo Industrial SA,4385.822869593797,48350.94
+VENT00021,2024-06-12,Toyota,diésel,3500,4000,Mendoza,particular,2019.0,reacondicionado,leasing,Forklift Solutions,2031.3858640093972,37127.48
+VENT00328,2024-06-12,Toyota,diésel,2500,4700,Mendoza,distribuidor,2017.0,nuevo,,Grupo Industrial SA,2483.0372995298335,40729.99
+VENT01087,2024-06-14,Linde,eléctrico,1800,4000,Neuquén,distribuidor,2017.0,usado,leasing,Forklift Solutions,4850.212819361324,14976.06
+VENT00511,2024-06-14,Yale,diésel,1800,4700,,distribuidor,2020.0,nuevo,crédito,Autoelevadores Norte,1406.705949931418,35763.58
+VENT00261,2024-06-16,Yale,gas,3500,4700,Córdoba,,2021.0,nuevo,contado,Grupo Industrial SA,1574.506145957049,49187.32
+VENT00346,2024-06-18,Linde,eléctrico,2500,4000,Mendoza,distribuidor,2023.0,nuevo,contado,Grupo Industrial SA,527.4950077410721,47563.05
+VENT01046,2024-06-18,Crown,eléctrico,1800,3000,Buenos Aires,empresa logística,2017.0,usado,contado,Autoelevadores Norte,5720.903635886922,14203.21
+VENT01171,2024-06-19,Hyster,eléctrico,1800,3000,Buenos Aires,distribuidor,2022.0,usado,crédito,Grupo Industrial SA,4336.09439399558,15057.72
+VENT01250,2024-06-19,Hyster,diésel,2500,4000,Neuquén,distribuidor,2016.0,usado,,Grupo Industrial SA,2976.5426311212805,23556.36
+VENT00625,2024-06-21,Still,eléctrico,1800,3000,Santa Fe,empresa logística,2021.0,usado,contado,Forklift Solutions,3009.433893602389,16435.16
+VENT00433,2024-06-21,Linde,diésel,3500,4700,Chubut,empresa logística,2023.0,nuevo,,Autoelevadores Norte,957.2743511048452,57516.25
+VENT00545,2024-06-21,Hyster,diésel,1800,3000,Buenos Aires,distribuidor,2024.0,reacondicionado,contado,Autoelevadores Norte,3568.3005892051606,18606.76
+VENT01155,2024-06-22,Crown,eléctrico,1800,3000,Buenos Aires,empresa logística,2015.0,nuevo,,Forklift Solutions,4150.716479999455,33893.65
+VENT00757,2024-06-24,Still,eléctrico,2500,3000,Buenos Aires,distribuidor,2024.0,nuevo,contado,Autoelevadores Norte,811.5784265622098,42184.93
+VENT00560,2024-06-24,Linde,gas,1800,4000,Mendoza,distribuidor,2018.0,nuevo,crédito,Autoelevadores Norte,2455.9050387872035,33125.24
+VENT00492,2024-06-24,Hyster,gas,5000,4000,,empresa logística,2020.0,usado,contado,Autoelevadores Norte,,43407.3
+VENT01194,2024-06-25,Toyota,eléctrico,2500,3000,Córdoba,distribuidor,2018.0,reacondicionado,crédito,Grupo Industrial SA,3797.0225354036425,31094.42
+VENT00574,2024-06-27,Crown,diésel,5000,3000,Córdoba,empresa logística,2021.0,reacondicionado,contado,Grupo Industrial SA,4048.4081454112984,49223.69
+VENT00299,2024-06-28,Toyota,eléctrico,2500,4700,Córdoba,empresa logística,2016.0,reacondicionado,leasing,Forklift Solutions,4306.518130251434,24114.95
+VENT00082,2024-06-29,Linde,gas,1800,4700,Santa Fe,empresa logística,2023.0,usado,leasing,Grupo Industrial SA,2542.1144981841167,20201.96
+VENT00750,2024-06-30,Hyster,eléctrico,1800,4700,Buenos Aires,empresa logística,2020.0,usado,crédito,Grupo Industrial SA,3944.9725512906202,19487.97
+VENT00913,2024-06-30,Yale,eléctrico,3500,4000,Mendoza,,,usado,contado,Forklift Solutions,3107.0075195441036,32852.05
+VENT00350,2024-07-02,Yale,eléctrico,1800,4000,,distribuidor,2021.0,usado,crédito,Potencia SRL,5734.906153629864,12000.0
+VENT01044,2024-07-02,Yale,eléctrico,1800,4700,Neuquén,,2020.0,usado,crédito,Autoelevadores Norte,5648.817887801127,20790.86
+VENT01246,2024-07-03,Still,eléctrico,2500,4000,Santa Fe,particular,2019.0,usado,leasing,Forklift Solutions,3483.159953458502,25463.89
+VENT00484,2024-07-05,Yale,eléctrico,1800,3000,Chubut,distribuidor,2017.0,nuevo,contado,Forklift Solutions,3079.0202720879984,29332.29
+VENT01060,2024-07-05,Hyster,eléctrico,1800,4000,Neuquén,particular,2024.0,usado,leasing,Autoelevadores Norte,,18867.42
+VENT00613,2024-07-05,Crown,eléctrico,1800,3000,Mendoza,distribuidor,2023.0,usado,contado,Potencia SRL,3069.407740085165,17068.18
+VENT00753,2024-07-05,Crown,eléctrico,1800,4700,Santa Fe,distribuidor,2016.0,usado,crédito,Potencia SRL,6167.6632370736315,14806.03
+VENT00383,2024-07-07,Linde,gas,5000,4000,Mendoza,particular,2021.0,reacondicionado,crédito,Potencia SRL,4302.215690593002,51795.67
+VENT00481,2024-07-07,Linde,eléctrico,3500,6000,Córdoba,,2022.0,usado,crédito,Potencia SRL,2051.7821846596707,38923.41
+VENT00230,2024-07-10,Still,eléctrico,2500,6000,Neuquén,distribuidor,2015.0,usado,contado,Grupo Industrial SA,5121.274190378263,29948.24
+VENT00415,2024-07-11,Crown,diésel,1800,6000,Córdoba,particular,2021.0,usado,leasing,Potencia SRL,4126.877784751718,18932.18
+VENT01173,2024-07-11,Linde,diésel,2500,4700,Neuquén,particular,2018.0,nuevo,leasing,Grupo Industrial SA,1750.9058558872548,44010.12
+VENT00162,2024-07-12,Hyster,gas,2500,3000,Córdoba,empresa logística,2023.0,usado,contado,Forklift Solutions,5350.829006676811,21104.72
+VENT01183,2024-07-12,Yale,eléctrico,2500,3000,Santa Fe,empresa logística,2019.0,nuevo,contado,Potencia SRL,,45468.37
+VENT00840,2024-07-12,Yale,diésel,5000,4700,Mendoza,distribuidor,2023.0,usado,crédito,Forklift Solutions,1000.9971345149933,50898.15
+VENT00115,2024-07-13,Crown,gas,2500,3000,Córdoba,empresa logística,2024.0,nuevo,contado,Autoelevadores Norte,806.3250608857398,41403.19
+VENT00585,2024-07-13,Yale,gas,5000,4700,Mendoza,distribuidor,2016.0,reacondicionado,,Forklift Solutions,5443.13146816777,49514.22
+VENT00194,2024-07-13,Still,diésel,2500,4000,Buenos Aires,distribuidor,2023.0,usado,crédito,Autoelevadores Norte,4356.364064127539,21286.61
+VENT00163,2024-07-13,Still,diésel,3500,3000,Mendoza,distribuidor,2019.0,reacondicionado,leasing,Forklift Solutions,4558.079349684063,33916.61
+VENT00929,2024-07-13,Still,gas,1800,3000,Chubut,particular,2015.0,usado,,Potencia SRL,5776.54960144686,12000.0
+VENT01175,2024-07-14,Hyster,eléctrico,1800,3000,Buenos Aires,distribuidor,2024.0,usado,,Grupo Industrial SA,3359.773658212298,20521.76
+VENT00347,2024-07-16,Linde,eléctrico,2500,4000,Chubut,distribuidor,2015.0,usado,contado,Potencia SRL,,27506.82
+VENT00102,2024-07-18,Yale,eléctrico,5000,3000,Santa Fe,empresa logística,2016.0,usado,contado,Potencia SRL,6453.396703948852,40224.08
+VENT00088,2024-07-19,Still,diésel,5000,4700,Neuquén,,2017.0,usado,leasing,Autoelevadores Norte,3459.023950593621,50595.84
+VENT00304,2024-07-19,Linde,eléctrico,1800,4700,Córdoba,,2019.0,usado,leasing,Potencia SRL,3020.4174867367537,17182.99
+VENT01226,2024-07-21,Linde,eléctrico,2500,4000,Buenos Aires,particular,2022.0,reacondicionado,crédito,Forklift Solutions,2891.0962691524114,34229.25
+VENT00592,2024-07-24,Hyster,gas,1800,3000,Chubut,particular,2024.0,usado,contado,Forklift Solutions,,17671.07
+VENT00780,2024-07-25,Toyota,eléctrico,3500,6000,Chubut,particular,2025.0,usado,,Grupo Industrial SA,4787.424881348416,37309.06
+VENT00356,2024-07-26,Toyota,gas,2500,4700,,particular,,usado,leasing,Autoelevadores Norte,6023.644503791347,22058.12
+VENT00201,2024-07-26,Toyota,diésel,2500,3000,Buenos Aires,particular,2025.0,usado,leasing,Autoelevadores Norte,2465.4943346576747,22783.34
+VENT00362,2024-07-28,Yale,gas,5000,4000,Santa Fe,,2021.0,reacondicionado,crédito,Potencia SRL,765.2483297862093,56357.83
+VENT00873,2024-07-29,Still,eléctrico,2500,3000,Córdoba,empresa logística,2019.0,nuevo,crédito,Autoelevadores Norte,1262.3295015637102,45708.09
+VENT00175,2024-07-30,Toyota,diésel,3500,4000,Neuquén,distribuidor,,usado,contado,Autoelevadores Norte,2078.5353466852303,31405.28
+VENT00239,2024-07-31,Toyota,eléctrico,2500,3000,Santa Fe,distribuidor,2020.0,usado,leasing,Autoelevadores Norte,3876.4472501168034,25959.92
+VENT00659,2024-08-01,Yale,gas,2500,4000,Mendoza,particular,,usado,contado,Potencia SRL,4195.84017764916,22436.27
+VENT00462,2024-08-05,Still,eléctrico,1800,6000,Córdoba,particular,2019.0,usado,crédito,Autoelevadores Norte,5259.743102790615,20165.74
+VENT00278,2024-08-06,Crown,eléctrico,1800,4000,Buenos Aires,empresa logística,2017.0,usado,crédito,Potencia SRL,6431.77662466205,12000.0
+VENT01092,2024-08-06,Still,eléctrico,3500,4700,Buenos Aires,particular,2015.0,reacondicionado,leasing,Forklift Solutions,6144.138574003757,42199.68
+VENT00219,2024-08-06,Linde,diésel,1800,6000,Santa Fe,distribuidor,2016.0,usado,leasing,Grupo Industrial SA,5238.68702905981,14856.14
+VENT00943,2024-08-09,Linde,diésel,2500,4700,Chubut,distribuidor,2024.0,nuevo,crédito,Grupo Industrial SA,,43694.05
+VENT01235,2024-08-09,Yale,eléctrico,3500,4700,Córdoba,distribuidor,2015.0,usado,leasing,Potencia SRL,5763.253651963751,39306.04
+VENT00213,2024-08-09,Linde,diésel,2500,4700,Mendoza,distribuidor,2021.0,reacondicionado,contado,Forklift Solutions,2584.68123829342,29600.1
+VENT00887,2024-08-11,Crown,eléctrico,2500,4000,Chubut,empresa logística,2023.0,usado,,Grupo Industrial SA,2798.359084747865,23891.96
+VENT01219,2024-08-13,Toyota,diésel,1800,3000,,particular,2018.0,usado,leasing,Autoelevadores Norte,4693.660268009138,13108.58
+VENT01125,2024-08-14,Hyster,eléctrico,2500,6000,Chubut,distribuidor,2017.0,usado,leasing,Potencia SRL,4938.927128389415,27943.35
+VENT00221,2024-08-18,Still,eléctrico,2500,4700,Mendoza,empresa logística,2023.0,reacondicionado,crédito,Autoelevadores Norte,4876.06442400671,31910.02
+VENT01148,2024-08-19,Still,eléctrico,2500,3000,Mendoza,distribuidor,2019.0,usado,crédito,Grupo Industrial SA,5542.089759118118,18127.68
+VENT00353,2024-08-19,Toyota,eléctrico,3500,6000,Chubut,distribuidor,2017.0,usado,contado,Autoelevadores Norte,5800.517378222508,36368.04
+VENT01006,2024-08-19,Hyster,gas,2500,3000,Mendoza,distribuidor,2021.0,nuevo,,Forklift Solutions,1596.556137323234,41086.49
+VENT00878,2024-08-20,Still,eléctrico,2500,4700,Córdoba,distribuidor,2025.0,usado,crédito,Potencia SRL,2184.5572982969293,29484.15
+VENT00323,2024-08-21,Hyster,diésel,2500,4000,Buenos Aires,particular,2025.0,nuevo,contado,Autoelevadores Norte,284.46592739317765,44227.9
+VENT00186,2024-08-21,Crown,eléctrico,2500,4000,Córdoba,distribuidor,2023.0,reacondicionado,contado,Forklift Solutions,2642.3861093407886,33610.43
+VENT00046,2024-08-25,Hyster,diésel,3500,4700,Buenos Aires,empresa logística,2017.0,nuevo,crédito,Forklift Solutions,3253.8246749370037,48493.03
+VENT00971,2024-08-26,Yale,diésel,5000,4000,Neuquén,particular,2020.0,nuevo,contado,Grupo Industrial SA,1417.0006046906137,62916.61
+VENT00842,2024-08-26,Crown,eléctrico,2500,4700,Buenos Aires,empresa logística,2023.0,reacondicionado,contado,Grupo Industrial SA,3358.67922504493,34997.47
+VENT00208,2024-08-26,Toyota,diésel,3500,3000,Córdoba,distribuidor,2021.0,reacondicionado,,Forklift Solutions,6055.704203392478,35273.63
+VENT00952,2024-08-28,Yale,gas,5000,3000,,particular,2017.0,nuevo,leasing,Potencia SRL,2216.5422037011203,60430.46
+VENT00733,2024-08-29,Hyster,gas,2500,4000,Neuquén,,2023.0,usado,crédito,Grupo Industrial SA,2564.2689735075046,26123.2
+VENT00597,2024-09-01,Crown,diésel,2500,4700,Mendoza,distribuidor,2021.0,nuevo,leasing,Autoelevadores Norte,1359.6794936539752,47642.27
+VENT00895,2024-09-02,Toyota,eléctrico,2500,4700,Santa Fe,,2025.0,usado,crédito,Potencia SRL,3879.8144071240654,23792.17
+VENT00684,2024-09-03,Crown,diésel,1800,4700,Santa Fe,particular,2017.0,usado,leasing,Grupo Industrial SA,6494.904182355188,12000.0
+VENT00882,2024-09-07,Hyster,gas,2500,3000,Santa Fe,distribuidor,2018.0,usado,crédito,Autoelevadores Norte,4799.463817848444,23127.98
+VENT00544,2024-09-07,Linde,gas,2500,3000,Chubut,particular,2021.0,nuevo,crédito,Potencia SRL,1557.9454791581022,39021.89
+VENT00548,2024-09-07,Yale,eléctrico,1800,3000,Santa Fe,distribuidor,2024.0,usado,,Grupo Industrial SA,2485.703528550143,18532.12
+VENT00157,2024-09-08,Crown,eléctrico,3500,6000,Neuquén,particular,2025.0,usado,contado,Potencia SRL,4403.222371117483,41289.62
+VENT00419,2024-09-08,Still,diésel,3500,4000,Santa Fe,particular,2018.0,usado,crédito,Forklift Solutions,3352.297792248355,31683.12
+VENT00171,2024-09-16,Yale,diésel,2500,4700,Mendoza,empresa logística,,usado,crédito,Forklift Solutions,,22955.99
+VENT01143,2024-09-16,Hyster,gas,3500,4700,Buenos Aires,particular,2020.0,reacondicionado,contado,Forklift Solutions,688.3464055630461,40957.11
+VENT00648,2024-09-18,Still,eléctrico,2500,4700,Buenos Aires,particular,2020.0,usado,contado,Autoelevadores Norte,2745.0033776403025,30595.98
+VENT01078,2024-09-19,Hyster,gas,1800,4700,Buenos Aires,distribuidor,2025.0,reacondicionado,crédito,Forklift Solutions,3522.063975581597,22971.85
+VENT01218,2024-09-20,Linde,eléctrico,2500,3000,Chubut,particular,2019.0,reacondicionado,,Forklift Solutions,4342.108315560365,26019.15
+VENT01154,2024-09-20,Toyota,diésel,2500,3000,Neuquén,empresa logística,2019.0,reacondicionado,,Autoelevadores Norte,3119.0632693805483,32856.43
+VENT00710,2024-09-21,Crown,eléctrico,2500,3000,Chubut,particular,2022.0,usado,crédito,Forklift Solutions,4445.38684204641,26655.4
+VENT00374,2024-09-24,Yale,diésel,3500,3000,Santa Fe,particular,2021.0,usado,crédito,Grupo Industrial SA,4888.664133629078,24688.64
+VENT01207,2024-09-24,Hyster,gas,3500,6000,Buenos Aires,empresa logística,2020.0,nuevo,contado,Forklift Solutions,2729.568923231869,48746.92
+VENT01135,2024-09-24,Toyota,eléctrico,3500,4700,,distribuidor,2019.0,usado,contado,Grupo Industrial SA,3051.640093705092,36969.04
+VENT00039,2024-09-25,Toyota,diésel,3500,4700,Mendoza,distribuidor,2023.0,reacondicionado,leasing,Grupo Industrial SA,,40292.47
+VENT00505,2024-09-26,Crown,diésel,1800,4700,Mendoza,distribuidor,2016.0,usado,leasing,Grupo Industrial SA,3593.815411527462,15053.28
+VENT01187,2024-10-01,Yale,gas,1800,4000,,distribuidor,,usado,crédito,Grupo Industrial SA,6961.527367924085,12000.0
+VENT00987,2024-10-02,Linde,diésel,3500,4000,Chubut,distribuidor,2018.0,usado,,Potencia SRL,5050.1612802369345,29899.44
+VENT00610,2024-10-04,Hyster,gas,2500,4000,Mendoza,distribuidor,2020.0,reacondicionado,leasing,Forklift Solutions,5217.791539062982,26141.55
+VENT00177,2024-10-05,Linde,eléctrico,1800,4700,Chubut,empresa logística,2015.0,usado,,Forklift Solutions,7382.307749164027,18824.12
+VENT01007,2024-10-07,Hyster,eléctrico,2500,3000,Mendoza,empresa logística,2024.0,usado,leasing,Potencia SRL,2714.598377786924,22946.52
+VENT00212,2024-10-07,Yale,diésel,2500,6000,Mendoza,particular,2024.0,reacondicionado,,Grupo Industrial SA,2026.831918992194,37295.04
+VENT01215,2024-10-09,Still,eléctrico,3500,3000,Chubut,particular,2015.0,usado,contado,Potencia SRL,4122.621419181677,32563.29
+VENT00781,2024-10-10,Yale,gas,3500,3000,Neuquén,distribuidor,2015.0,usado,contado,Grupo Industrial SA,6281.708771503079,31103.21
+VENT00992,2024-10-11,Still,diésel,3500,3000,Neuquén,empresa logística,2022.0,usado,contado,Potencia SRL,4776.71726054606,25587.19
+VENT00482,2024-10-12,Toyota,gas,1800,4700,Chubut,particular,2025.0,reacondicionado,crédito,Forklift Solutions,,19421.44
+VENT00258,2024-10-13,Still,gas,1800,4700,Neuquén,distribuidor,2022.0,usado,leasing,Potencia SRL,3739.159141267801,15576.61
+VENT01109,2024-10-13,Crown,eléctrico,3500,3000,Mendoza,,2025.0,usado,leasing,Potencia SRL,4199.600028074514,26992.01
+VENT00316,2024-10-13,Yale,diésel,3500,6000,Mendoza,distribuidor,2017.0,nuevo,crédito,Autoelevadores Norte,3565.9167002631502,49124.88
+VENT01036,2024-10-13,Still,diésel,3500,6000,Chubut,distribuidor,2015.0,usado,contado,Autoelevadores Norte,7268.990630968137,34158.61
+VENT00267,2024-10-14,Hyster,eléctrico,2500,6000,Buenos Aires,distribuidor,2016.0,usado,leasing,Autoelevadores Norte,6259.637077351136,26944.88
+VENT00382,2024-10-14,Crown,eléctrico,2500,4700,Chubut,distribuidor,2022.0,usado,leasing,Grupo Industrial SA,4262.234962304762,23951.35
+VENT00799,2024-10-14,Crown,diésel,3500,3000,Mendoza,empresa logística,2015.0,usado,crédito,Grupo Industrial SA,,29775.73
+VENT01153,2024-10-15,Hyster,diésel,5000,4000,Buenos Aires,distribuidor,2020.0,reacondicionado,crédito,Grupo Industrial SA,,50476.58
+VENT01021,2024-10-15,Hyster,eléctrico,2500,4700,Buenos Aires,distribuidor,2020.0,usado,crédito,Forklift Solutions,5802.056694835001,24285.08
+VENT00501,2024-10-16,Yale,eléctrico,3500,3000,Santa Fe,particular,2022.0,reacondicionado,crédito,Forklift Solutions,6925.597852450524,32812.34
+VENT00436,2024-10-20,Hyster,eléctrico,1800,4700,Córdoba,empresa logística,2025.0,usado,contado,Forklift Solutions,2399.7729859781357,22803.87
+VENT00279,2024-10-21,Toyota,eléctrico,5000,4700,Santa Fe,particular,2016.0,usado,contado,Forklift Solutions,5729.456102388833,49946.2
+VENT00268,2024-10-22,Linde,eléctrico,3500,4700,Buenos Aires,distribuidor,2024.0,usado,contado,Forklift Solutions,2566.507612233324,38804.14
+VENT00138,2024-10-23,Toyota,gas,3500,3000,Santa Fe,distribuidor,2020.0,usado,contado,Forklift Solutions,5313.163972078031,26881.41
+VENT00561,2024-10-24,Hyster,eléctrico,2500,6000,Mendoza,empresa logística,2021.0,reacondicionado,contado,Grupo Industrial SA,,34650.43
+VENT00338,2024-10-24,Linde,eléctrico,3500,6000,Neuquén,distribuidor,2016.0,nuevo,crédito,Forklift Solutions,3805.0377019214698,52521.25
+VENT01015,2024-10-27,Still,diésel,5000,3000,Córdoba,distribuidor,2019.0,reacondicionado,contado,Forklift Solutions,6358.532461230265,40713.81
+VENT00439,2024-10-28,Still,gas,3500,3000,Santa Fe,empresa logística,2020.0,reacondicionado,,Grupo Industrial SA,7590.671913850525,33504.21
+VENT00801,2024-10-29,Linde,gas,3500,4000,Córdoba,distribuidor,2020.0,usado,contado,Forklift Solutions,5387.446083167577,28490.33
+VENT00075,2024-10-29,Yale,gas,3500,4000,Neuquén,distribuidor,2017.0,nuevo,contado,Grupo Industrial SA,2438.500043498741,49314.14
+VENT00010,2024-10-30,Toyota,eléctrico,2500,3000,Buenos Aires,distribuidor,2021.0,usado,contado,Grupo Industrial SA,4294.002623142182,23478.91
+VENT01190,2024-10-30,Crown,gas,2500,3000,Buenos Aires,distribuidor,2018.0,usado,contado,Grupo Industrial SA,5901.997918363037,15481.83
+VENT01151,2024-10-31,Crown,gas,3500,4700,Santa Fe,distribuidor,2024.0,reacondicionado,contado,Potencia SRL,3311.58947110177,37260.64
+VENT00215,2024-11-05,Still,diésel,5000,4000,Buenos Aires,empresa logística,2025.0,usado,leasing,Potencia SRL,2452.0809986555987,50734.88
+VENT00631,2024-11-07,Still,eléctrico,2500,3000,Neuquén,distribuidor,2016.0,nuevo,contado,Forklift Solutions,1920.9705262581522,43031.08
+VENT00092,2024-11-07,Hyster,eléctrico,1800,4000,Buenos Aires,particular,2018.0,nuevo,leasing,Grupo Industrial SA,1912.2071036533775,32129.21
+VENT00322,2024-11-09,Still,eléctrico,3500,3000,Córdoba,distribuidor,2020.0,usado,crédito,Forklift Solutions,5319.806709275195,32082.63
+VENT00877,2024-11-11,Linde,eléctrico,1800,3000,Chubut,distribuidor,2025.0,nuevo,crédito,Forklift Solutions,340.0171036225785,39205.57
+VENT00967,2024-11-15,Hyster,diésel,3500,4000,Neuquén,particular,2024.0,usado,crédito,Potencia SRL,2510.4763508107817,32254.09
+VENT00779,2024-11-17,Hyster,gas,2500,3000,Mendoza,distribuidor,2019.0,usado,contado,Potencia SRL,6647.677280970745,25790.76
+VENT00891,2024-11-20,Yale,diésel,5000,4000,Chubut,particular,2017.0,reacondicionado,leasing,Grupo Industrial SA,5863.9490264629885,49798.32
+VENT00778,2024-11-20,Crown,gas,3500,6000,Mendoza,distribuidor,2022.0,reacondicionado,leasing,Forklift Solutions,4127.697854693244,45989.52
+VENT00236,2024-11-20,Crown,diésel,2500,4000,Chubut,particular,2017.0,usado,,Autoelevadores Norte,8149.229077773334,14234.19
+VENT01131,2024-11-22,Hyster,eléctrico,5000,6000,Buenos Aires,particular,2017.0,reacondicionado,leasing,Forklift Solutions,4769.853642330125,56194.62
+VENT01038,2024-11-24,Yale,eléctrico,2500,4000,Neuquén,empresa logística,2019.0,usado,crédito,Grupo Industrial SA,3043.383301306868,30942.11
+VENT00510,2024-11-25,Linde,gas,2500,3000,Neuquén,particular,2021.0,usado,leasing,Potencia SRL,3178.442754899344,27331.13
+VENT00197,2024-11-25,Linde,diésel,1800,6000,Santa Fe,distribuidor,2021.0,usado,,Grupo Industrial SA,5149.848789337921,18344.37
+VENT00305,2024-11-26,Linde,eléctrico,2500,4700,Buenos Aires,particular,2018.0,usado,leasing,Forklift Solutions,,25024.98
+VENT00160,2024-11-29,Linde,eléctrico,3500,4700,Mendoza,empresa logística,,nuevo,leasing,Grupo Industrial SA,627.3960956345844,55529.37
+VENT00985,2024-11-29,Linde,eléctrico,2500,3000,Neuquén,distribuidor,2022.0,reacondicionado,contado,Autoelevadores Norte,6189.314599876941,21561.49
+VENT00076,2024-11-30,Yale,diésel,5000,6000,Chubut,empresa logística,2025.0,reacondicionado,crédito,Grupo Industrial SA,,54770.5
+VENT00087,2024-12-01,Hyster,diésel,5000,4000,Córdoba,distribuidor,2019.0,reacondicionado,crédito,Potencia SRL,3533.9928817468704,51847.34
+VENT00720,2024-12-03,Toyota,gas,2500,3000,Mendoza,particular,2024.0,reacondicionado,,Potencia SRL,3564.7397694364504,30322.94
+VENT00003,2024-12-04,Still,diésel,3500,4700,Chubut,distribuidor,2023.0,nuevo,crédito,Potencia SRL,995.5179470642058,51653.25
+VENT00973,2024-12-05,Linde,diésel,5000,3000,Santa Fe,,,usado,contado,Potencia SRL,,39039.71
+VENT01004,2024-12-05,Hyster,diésel,1800,4700,Santa Fe,particular,,usado,leasing,Forklift Solutions,5144.970416525453,13387.43
+VENT00385,2024-12-09,Still,diésel,2500,3000,Buenos Aires,distribuidor,2024.0,usado,contado,Grupo Industrial SA,3497.3327314430985,22092.61
+VENT00806,2024-12-11,Toyota,diésel,1800,4700,Mendoza,distribuidor,,reacondicionado,leasing,Autoelevadores Norte,6470.4392432492,20685.31
+VENT00829,2024-12-12,Yale,eléctrico,2500,4000,,distribuidor,2025.0,usado,contado,Forklift Solutions,3992.0075128941703,27238.01
+VENT01066,2024-12-12,Toyota,eléctrico,5000,3000,Buenos Aires,particular,2022.0,reacondicionado,leasing,Forklift Solutions,3456.8832872157063,52207.53
+VENT00960,2024-12-13,Linde,eléctrico,1800,3000,Chubut,particular,2023.0,usado,,Grupo Industrial SA,,14229.72
+VENT00326,2024-12-13,Still,eléctrico,2500,4000,Córdoba,distribuidor,2023.0,usado,contado,Autoelevadores Norte,3664.12697384116,31686.24
+VENT00266,2024-12-17,Still,gas,3500,3000,Chubut,particular,,usado,crédito,Autoelevadores Norte,6620.005947286736,27408.17
+VENT00724,2024-12-18,Crown,eléctrico,3500,4000,Buenos Aires,empresa logística,2016.0,usado,leasing,Autoelevadores Norte,1157.4394930061771,38709.21
+VENT01164,2024-12-21,Hyster,gas,1800,3000,Mendoza,distribuidor,2020.0,reacondicionado,leasing,Autoelevadores Norte,4923.937626902689,23481.23
+VENT00764,2024-12-22,Crown,diésel,3500,4700,Neuquén,distribuidor,2023.0,usado,leasing,Grupo Industrial SA,2767.4633290317556,35596.04
+VENT00654,2024-12-24,Crown,diésel,1800,3000,Neuquén,particular,2017.0,usado,leasing,Forklift Solutions,4356.271746475946,13204.03
+VENT00218,2024-12-25,Crown,diésel,3500,4700,,distribuidor,2024.0,usado,contado,Potencia SRL,2518.0809358302404,33785.85
+VENT00463,2024-12-25,Hyster,eléctrico,2500,4000,Mendoza,distribuidor,2019.0,nuevo,,Grupo Industrial SA,2228.167723965434,39618.94
+VENT00743,2024-12-27,Linde,gas,1800,3000,Neuquén,particular,2021.0,nuevo,contado,Forklift Solutions,1216.188842536548,36260.59
+VENT00628,2024-12-27,Linde,diésel,2500,3000,Santa Fe,distribuidor,2015.0,reacondicionado,leasing,Potencia SRL,5839.113890746201,23864.0
+VENT00620,2024-12-28,Toyota,eléctrico,3500,3000,Santa Fe,particular,,usado,leasing,Grupo Industrial SA,4375.254646038149,35411.75
+VENT01199,2024-12-30,Linde,diésel,3500,4700,Córdoba,distribuidor,2022.0,usado,leasing,Forklift Solutions,,26460.24
+VENT00852,2024-12-30,Hyster,eléctrico,2500,4700,Neuquén,empresa logística,2020.0,usado,contado,Forklift Solutions,5477.670759317631,26166.43
+VENT00389,2024-12-31,Linde,diésel,2500,3000,Mendoza,empresa logística,2016.0,nuevo,crédito,Grupo Industrial SA,3050.048812247078,38253.61
+VENT00399,2025-01-01,Still,eléctrico,5000,4700,Neuquén,particular,2020.0,usado,contado,Grupo Industrial SA,3470.5926621305252,48840.19
+VENT01156,2025-01-03,Hyster,eléctrico,3500,3000,Mendoza,particular,2019.0,usado,leasing,Forklift Solutions,,29755.17
+VENT00420,2025-01-03,Crown,gas,2500,4000,Neuquén,particular,2024.0,usado,contado,Grupo Industrial SA,2395.424863896134,25996.08
+VENT00448,2025-01-04,Hyster,diésel,1800,3000,Santa Fe,empresa logística,2018.0,usado,contado,Autoelevadores Norte,4903.240199723632,15457.44
+VENT00400,2025-01-06,Linde,diésel,2500,4700,Neuquén,empresa logística,2025.0,nuevo,contado,Autoelevadores Norte,327.54128149668463,37491.92
+VENT00559,2025-01-07,Still,eléctrico,3500,4700,Córdoba,distribuidor,2025.0,usado,leasing,Grupo Industrial SA,3473.492706094929,39488.6
+VENT00108,2025-01-08,Toyota,diésel,3500,6000,Neuquén,empresa logística,,usado,contado,Potencia SRL,5180.639702421993,37245.12
+VENT00332,2025-01-11,Toyota,gas,3500,4000,Neuquén,particular,2025.0,usado,contado,Grupo Industrial SA,2619.940933120442,34586.07
+VENT01108,2025-01-12,Crown,gas,2500,4000,Córdoba,particular,2025.0,usado,contado,Grupo Industrial SA,,21458.72
+VENT01201,2025-01-12,Still,gas,3500,3000,Santa Fe,,2021.0,nuevo,crédito,Autoelevadores Norte,1656.632449251425,48082.95
+VENT00711,2025-01-14,Yale,diésel,1800,4000,,distribuidor,2022.0,usado,crédito,Grupo Industrial SA,4633.780069185573,12000.0
+VENT00093,2025-01-15,Still,diésel,2500,4000,,empresa logística,2024.0,nuevo,contado,Forklift Solutions,465.8888032231876,42371.28
+VENT00158,2025-01-16,Linde,gas,3500,4700,Buenos Aires,particular,2016.0,usado,leasing,Autoelevadores Norte,6849.079499526509,26968.96
+VENT00432,2025-01-16,Linde,eléctrico,5000,4000,Córdoba,particular,2017.0,nuevo,leasing,Autoelevadores Norte,1336.3093925597568,64583.18
+VENT01245,2025-01-16,Hyster,eléctrico,1800,4000,Buenos Aires,distribuidor,2022.0,nuevo,contado,Potencia SRL,1537.4880981661456,34337.82
+VENT01179,2025-01-16,Linde,gas,2500,6000,Buenos Aires,distribuidor,2021.0,usado,crédito,Autoelevadores Norte,6228.916397820838,24452.03
+VENT00767,2025-01-18,Crown,eléctrico,1800,4700,Buenos Aires,distribuidor,2025.0,nuevo,leasing,Forklift Solutions,269.18393657782224,41763.67
+VENT00919,2025-01-19,Linde,eléctrico,2500,3000,Santa Fe,distribuidor,2018.0,reacondicionado,crédito,Forklift Solutions,5025.864818389726,34223.99
+VENT01057,2025-01-25,Toyota,diésel,2500,4700,Buenos Aires,particular,2015.0,nuevo,leasing,Potencia SRL,3453.3778395110403,41998.23
+VENT01063,2025-01-26,Hyster,gas,5000,3000,Buenos Aires,,2024.0,reacondicionado,leasing,Forklift Solutions,2891.6604224582547,56306.19
+VENT00535,2025-01-27,Toyota,diésel,1800,6000,Neuquén,empresa logística,2020.0,usado,crédito,Grupo Industrial SA,7649.99315820989,13889.99
+VENT00689,2025-01-28,Hyster,eléctrico,1800,4700,Chubut,particular,2022.0,usado,leasing,Autoelevadores Norte,2350.8923002695683,20691.95
+VENT00297,2025-01-29,Still,eléctrico,2500,4000,Mendoza,particular,2018.0,usado,,Forklift Solutions,4373.542772311594,22056.37
+VENT01206,2025-01-29,Linde,diésel,1800,6000,Córdoba,distribuidor,2018.0,usado,,Autoelevadores Norte,4580.384593995062,16028.59
+VENT00982,2025-01-30,Hyster,diésel,3500,4000,Buenos Aires,particular,2025.0,usado,contado,Potencia SRL,3486.6115037024165,28673.38
+VENT01243,2025-01-30,Hyster,diésel,5000,4700,Buenos Aires,distribuidor,,usado,leasing,Potencia SRL,2483.225898097388,48957.05
+VENT00095,2025-01-30,Still,eléctrico,1800,6000,Buenos Aires,,2020.0,usado,crédito,Autoelevadores Norte,5456.97468334477,17970.75
+VENT00077,2025-01-31,Still,eléctrico,3500,6000,Neuquén,distribuidor,2024.0,usado,,Forklift Solutions,1902.3155099641365,40568.22
+VENT00071,2025-02-01,Hyster,diésel,3500,3000,Neuquén,distribuidor,2019.0,nuevo,,Autoelevadores Norte,2780.1119814422327,45343.21
+VENT00550,2025-02-01,Still,gas,1800,4000,Santa Fe,particular,2016.0,usado,leasing,Potencia SRL,4359.297020983155,12995.77
+VENT00052,2025-02-05,Linde,eléctrico,5000,3000,Córdoba,,2022.0,reacondicionado,leasing,Grupo Industrial SA,2423.456165458859,53914.64
+VENT00861,2025-02-06,Still,eléctrico,3500,3000,Chubut,distribuidor,,usado,leasing,Potencia SRL,2580.903351909783,37866.87
+VENT01242,2025-02-07,Linde,eléctrico,1800,4700,Santa Fe,empresa logística,2021.0,usado,leasing,Forklift Solutions,4682.524480356127,16962.06
+VENT00394,2025-02-07,Crown,diésel,3500,4700,Mendoza,distribuidor,2020.0,usado,crédito,Autoelevadores Norte,3316.5686312554217,33873.85
+VENT00451,2025-02-08,Still,diésel,1800,3000,Buenos Aires,particular,2017.0,usado,contado,Grupo Industrial SA,3795.317878950599,17273.84
+VENT01177,2025-02-12,Toyota,diésel,1800,3000,Córdoba,particular,2017.0,usado,leasing,Forklift Solutions,1833.7411185631793,13889.72
+VENT01099,2025-02-12,Crown,diésel,5000,4000,Mendoza,distribuidor,2016.0,usado,contado,Grupo Industrial SA,4496.795944826876,42788.31
+VENT00200,2025-02-12,Yale,eléctrico,2500,6000,Córdoba,distribuidor,,nuevo,leasing,Autoelevadores Norte,2586.652508755872,45273.18
+VENT00572,2025-02-18,Hyster,eléctrico,3500,3000,Mendoza,particular,2018.0,nuevo,contado,Autoelevadores Norte,2470.1438567630667,51162.13
+VENT00026,2025-02-20,Still,gas,5000,6000,Córdoba,distribuidor,2019.0,nuevo,crédito,Autoelevadores Norte,2484.560225753635,66770.35
+VENT01081,2025-02-22,Linde,eléctrico,3500,4000,Córdoba,particular,2022.0,nuevo,crédito,Potencia SRL,1732.8024013713396,50481.03
+VENT00760,2025-02-25,Yale,gas,2500,4700,Santa Fe,particular,2024.0,usado,leasing,Potencia SRL,1890.718021093639,28849.58
+VENT00422,2025-02-26,Crown,diésel,1800,3000,Buenos Aires,distribuidor,2024.0,usado,leasing,Forklift Solutions,4364.013929894802,12000.0
+VENT00649,2025-02-26,Still,eléctrico,2500,3000,Córdoba,,2023.0,usado,crédito,Forklift Solutions,3228.2283949447974,29101.11
+VENT01042,2025-02-28,Toyota,gas,3500,4000,Santa Fe,distribuidor,2025.0,reacondicionado,crédito,Forklift Solutions,3418.3260189210782,45138.05
+VENT00421,2025-03-01,Hyster,eléctrico,5000,3000,Córdoba,particular,2017.0,usado,crédito,Forklift Solutions,4558.252751425331,42477.78
+VENT00756,2025-03-05,Crown,gas,5000,3000,Buenos Aires,particular,2025.0,nuevo,crédito,Potencia SRL,383.8858441947044,66139.86
+VENT00231,2025-03-06,Hyster,gas,1800,3000,,particular,2023.0,usado,crédito,Autoelevadores Norte,3610.9661993677637,13614.64
+VENT00309,2025-03-06,Hyster,eléctrico,1800,4000,Buenos Aires,,2018.0,usado,crédito,Grupo Industrial SA,3808.898760509696,14515.61
+VENT01214,2025-03-06,Linde,eléctrico,1800,4700,Córdoba,distribuidor,2025.0,nuevo,crédito,Grupo Industrial SA,405.29001277482354,41704.22
+VENT00728,2025-03-07,Still,diésel,1800,4700,Neuquén,distribuidor,2017.0,usado,contado,Grupo Industrial SA,3096.108432748334,15945.49
+VENT00280,2025-03-07,Yale,diésel,2500,4700,Santa Fe,distribuidor,2021.0,usado,contado,Grupo Industrial SA,3302.2813257380367,26365.1
+VENT01147,2025-03-10,Linde,diésel,2500,4000,Mendoza,distribuidor,2021.0,usado,contado,Grupo Industrial SA,1368.9540834847717,30525.81
+VENT00775,2025-03-10,Crown,eléctrico,2500,4700,Mendoza,distribuidor,2018.0,usado,contado,Forklift Solutions,410.7892534942305,35109.43
+VENT00277,2025-03-11,Linde,eléctrico,5000,4000,Buenos Aires,empresa logística,2018.0,usado,contado,Forklift Solutions,4229.679520039492,48889.0
+VENT01054,2025-03-12,Crown,eléctrico,2500,4000,Mendoza,empresa logística,2015.0,usado,leasing,Potencia SRL,5532.351137378102,22670.38
+VENT00924,2025-03-13,Still,eléctrico,2500,4000,Mendoza,particular,2019.0,usado,leasing,Potencia SRL,2482.7088104423083,22312.63
+VENT00991,2025-03-13,Still,diésel,2500,6000,Neuquén,empresa logística,2016.0,usado,contado,Potencia SRL,6968.70600754356,23647.99
+VENT00885,2025-03-13,Linde,eléctrico,3500,4000,Chubut,empresa logística,,usado,crédito,Forklift Solutions,5141.288620836245,33585.1
+VENT00612,2025-03-13,Linde,gas,3500,4700,Santa Fe,empresa logística,2023.0,usado,contado,Forklift Solutions,1311.89208913129,38105.65
+VENT00068,2025-03-17,Linde,diésel,2500,4700,Neuquén,distribuidor,2024.0,nuevo,leasing,Forklift Solutions,556.5352618325526,48786.63
+VENT00821,2025-03-18,Yale,diésel,2500,4000,Córdoba,particular,2019.0,reacondicionado,leasing,Potencia SRL,4837.923193702607,27028.12
+VENT00386,2025-03-19,Hyster,diésel,3500,3000,Neuquén,particular,2024.0,usado,leasing,Autoelevadores Norte,4822.64951308703,28476.46
+VENT00117,2025-03-19,Crown,gas,3500,4000,Santa Fe,distribuidor,2015.0,nuevo,crédito,Forklift Solutions,2750.438675167883,48356.24
+VENT00390,2025-03-23,Toyota,diésel,3500,4000,,particular,2019.0,nuevo,crédito,Grupo Industrial SA,1526.7010342150315,49080.47
+VENT01005,2025-03-23,Crown,eléctrico,1800,4000,Mendoza,empresa logística,2018.0,reacondicionado,crédito,Grupo Industrial SA,,23982.98
+VENT00619,2025-03-23,Toyota,gas,2500,6000,Santa Fe,distribuidor,2019.0,nuevo,,Forklift Solutions,1654.6330227511091,46221.06
+VENT00121,2025-03-24,Still,eléctrico,5000,3000,Córdoba,particular,,usado,crédito,Forklift Solutions,2461.171301727834,53176.47
+VENT00114,2025-03-25,Hyster,eléctrico,2500,3000,Chubut,particular,2016.0,reacondicionado,leasing,Autoelevadores Norte,3834.808354055649,32399.59
+VENT00036,2025-03-26,Still,diésel,2500,4700,Córdoba,distribuidor,2024.0,usado,contado,Forklift Solutions,3562.3181155864104,23249.63
+VENT01124,2025-03-27,Toyota,gas,3500,3000,Córdoba,empresa logística,2016.0,usado,crédito,Potencia SRL,8271.83684068908,17894.31
+VENT00271,2025-03-27,Linde,diésel,2500,3000,Buenos Aires,empresa logística,2024.0,reacondicionado,contado,Grupo Industrial SA,2360.1659143493207,33441.92
+VENT00708,2025-03-28,Yale,gas,1800,3000,Córdoba,particular,2022.0,reacondicionado,leasing,Autoelevadores Norte,2016.9584313294201,23225.98
+VENT00272,2025-03-28,Yale,diésel,5000,4700,Santa Fe,particular,2020.0,nuevo,crédito,Grupo Industrial SA,1788.6951282998843,60804.94
+VENT00518,2025-03-29,Toyota,diésel,2500,4000,Neuquén,particular,2024.0,usado,crédito,Forklift Solutions,6044.2063667363,22034.04
+VENT00445,2025-04-01,Linde,gas,2500,6000,Chubut,empresa logística,2019.0,usado,crédito,Forklift Solutions,4845.973988167372,29273.9
+VENT00531,2025-04-01,Crown,diésel,3500,6000,Santa Fe,empresa logística,2023.0,reacondicionado,crédito,Grupo Industrial SA,2480.5811464446706,48316.82
+VENT00504,2025-04-03,Still,eléctrico,2500,4000,,particular,2015.0,usado,crédito,Grupo Industrial SA,8018.54464824145,23821.76
+VENT00379,2025-04-04,Still,eléctrico,3500,4000,Buenos Aires,particular,2024.0,usado,,Autoelevadores Norte,3141.6364258729523,37700.85
+VENT00732,2025-04-04,Hyster,eléctrico,2500,3000,Buenos Aires,distribuidor,2022.0,nuevo,contado,Autoelevadores Norte,,46695.13
+VENT00074,2025-04-05,Crown,gas,3500,4700,Córdoba,distribuidor,2019.0,reacondicionado,,Autoelevadores Norte,3765.878572385704,41852.83
+VENT01111,2025-04-06,Hyster,eléctrico,3500,6000,Chubut,distribuidor,2024.0,usado,contado,Forklift Solutions,2553.4393589652354,38181.73
+VENT00738,2025-04-07,Crown,diésel,3500,3000,Neuquén,,2022.0,nuevo,crédito,Autoelevadores Norte,1285.5909421489666,48869.73
+VENT00681,2025-04-07,Toyota,diésel,2500,4000,Mendoza,particular,2015.0,reacondicionado,leasing,Forklift Solutions,,30167.53
+VENT00187,2025-04-08,Still,eléctrico,2500,4000,Chubut,distribuidor,2023.0,usado,crédito,Forklift Solutions,5184.441049995769,26284.62
+VENT00907,2025-04-08,Crown,diésel,2500,4700,Santa Fe,distribuidor,2015.0,usado,leasing,Grupo Industrial SA,7218.260436089527,22019.71
+VENT00127,2025-04-09,Yale,diésel,2500,4000,Neuquén,empresa logística,2025.0,nuevo,leasing,Potencia SRL,413.207277982425,40528.28
+VENT01166,2025-04-09,Toyota,diésel,2500,4000,Mendoza,,2020.0,reacondicionado,leasing,Potencia SRL,4583.179943988465,23866.72
+VENT00990,2025-04-10,Toyota,diésel,2500,4700,,empresa logística,2015.0,nuevo,leasing,Grupo Industrial SA,3797.333079410118,35392.17
+VENT00770,2025-04-14,Crown,eléctrico,1800,6000,Neuquén,distribuidor,2022.0,usado,contado,Potencia SRL,3366.508010579809,23426.71
+VENT00438,2025-04-14,Toyota,eléctrico,1800,3000,Mendoza,distribuidor,2025.0,reacondicionado,contado,Potencia SRL,3419.1161917812283,21195.93
+VENT00293,2025-04-15,Toyota,eléctrico,2500,4700,Neuquén,particular,2023.0,usado,leasing,Grupo Industrial SA,2026.4737304475111,34178.07
+VENT00508,2025-04-15,Still,gas,3500,4700,Córdoba,empresa logística,2021.0,usado,crédito,Autoelevadores Norte,4138.404830068945,32678.38
+VENT01141,2025-04-19,Still,eléctrico,5000,4000,Santa Fe,distribuidor,2017.0,usado,crédito,Forklift Solutions,4632.993502667432,45767.84
+VENT01161,2025-04-20,Yale,eléctrico,3500,3000,Córdoba,particular,2021.0,nuevo,contado,Potencia SRL,1812.4387940999793,50083.35
+VENT00404,2025-04-21,Crown,eléctrico,3500,3000,Chubut,particular,2019.0,nuevo,,Grupo Industrial SA,1844.1780565185118,49229.01
+VENT00063,2025-04-24,Linde,gas,3500,3000,Neuquén,distribuidor,2018.0,usado,contado,Grupo Industrial SA,6974.167312419484,28582.6
+VENT01030,2025-04-25,Crown,gas,1800,3000,Neuquén,particular,2016.0,nuevo,contado,Potencia SRL,1482.480219660086,32312.41
+VENT00944,2025-04-26,Yale,eléctrico,2500,4000,Buenos Aires,particular,2018.0,nuevo,leasing,Grupo Industrial SA,2640.286051360157,42363.29
+VENT00717,2025-04-27,Yale,diésel,5000,4700,Chubut,particular,2019.0,usado,contado,Potencia SRL,,47870.93
+VENT00893,2025-04-27,Toyota,eléctrico,2500,4700,Mendoza,,2019.0,reacondicionado,contado,Potencia SRL,4701.156088398315,27758.9
+VENT01167,2025-04-29,Yale,gas,3500,3000,Mendoza,distribuidor,2019.0,usado,crédito,Autoelevadores Norte,6175.929952868732,31704.92
+VENT00013,2025-04-30,Hyster,diésel,3500,3000,Chubut,particular,2021.0,reacondicionado,leasing,Grupo Industrial SA,5305.3496274840945,31925.77
+VENT00932,2025-05-03,Toyota,diésel,1800,4700,Chubut,,2019.0,nuevo,crédito,Autoelevadores Norte,2193.5274370429643,32955.28
+VENT00166,2025-05-04,Yale,eléctrico,5000,3000,Córdoba,particular,2022.0,usado,leasing,Forklift Solutions,4398.708448408199,44994.83
+VENT00315,2025-05-05,Toyota,diésel,5000,4000,Córdoba,empresa logística,2024.0,usado,contado,Autoelevadores Norte,1103.6823050349833,47148.5
+VENT01152,2025-05-07,Still,eléctrico,2500,4700,Buenos Aires,particular,2025.0,usado,crédito,Autoelevadores Norte,2528.372701735935,28237.12
+VENT00525,2025-05-08,Linde,gas,1800,4700,Buenos Aires,particular,2024.0,reacondicionado,,Autoelevadores Norte,4058.6531572990934,18824.89
+VENT00812,2025-05-09,Hyster,diésel,3500,4700,Neuquén,particular,,usado,contado,Autoelevadores Norte,4182.363364628407,28484.85
+VENT00726,2025-05-14,Hyster,diésel,2500,4000,Mendoza,particular,2022.0,usado,crédito,Autoelevadores Norte,1862.4395145544656,26097.65
+VENT00524,2025-05-14,Hyster,gas,3500,4000,Buenos Aires,distribuidor,2019.0,nuevo,leasing,Autoelevadores Norte,1766.4868131489075,49614.89
+VENT00377,2025-05-18,Linde,gas,1800,3000,Neuquén,empresa logística,2017.0,nuevo,crédito,Potencia SRL,2623.4340757925766,33733.47
+VENT01244,2025-05-18,Still,eléctrico,1800,3000,Córdoba,empresa logística,2019.0,usado,leasing,Potencia SRL,6849.883272213344,12000.0
+VENT01028,2025-05-18,Still,gas,1800,4700,Neuquén,empresa logística,2018.0,usado,crédito,Forklift Solutions,3854.7408103816238,16830.34
+VENT00772,2025-05-20,Linde,gas,3500,3000,Mendoza,empresa logística,2023.0,usado,leasing,Potencia SRL,2931.4907282563536,35371.87
+VENT00220,2025-05-24,Hyster,gas,5000,4000,,particular,,reacondicionado,contado,Forklift Solutions,,58169.34
+VENT01008,2025-05-24,Linde,diésel,3500,3000,Buenos Aires,,2024.0,nuevo,leasing,Grupo Industrial SA,339.06744166328554,52090.7
+VENT00537,2025-05-25,Yale,eléctrico,2500,4000,Córdoba,,2015.0,reacondicionado,crédito,Autoelevadores Norte,,25470.28
+VENT01149,2025-05-26,Linde,eléctrico,2500,4000,Mendoza,distribuidor,2023.0,nuevo,leasing,Forklift Solutions,1113.054511926656,43844.37
+VENT00253,2025-05-27,Hyster,gas,2500,3000,Mendoza,distribuidor,2018.0,reacondicionado,contado,Forklift Solutions,6544.790909483312,28717.05
+VENT01137,2025-05-27,Crown,eléctrico,2500,4000,Neuquén,distribuidor,2015.0,usado,crédito,Grupo Industrial SA,6949.186301147806,16174.14
+VENT00552,2025-05-29,Yale,eléctrico,2500,3000,Neuquén,particular,,nuevo,contado,Forklift Solutions,,44239.2
+VENT00250,2025-05-30,Linde,diésel,5000,4000,,distribuidor,,nuevo,leasing,Grupo Industrial SA,,62330.44
+VENT00337,2025-06-02,Hyster,gas,1800,3000,Buenos Aires,distribuidor,2024.0,reacondicionado,contado,Forklift Solutions,3460.0514489157786,29924.72
+VENT00892,2025-06-03,Linde,diésel,2500,3000,Córdoba,particular,2016.0,usado,crédito,Potencia SRL,6094.534442127921,16380.82
+VENT00352,2025-06-04,Yale,eléctrico,3500,3000,Chubut,empresa logística,2021.0,reacondicionado,crédito,Potencia SRL,1031.7225814350775,43686.65
+VENT00397,2025-06-07,Yale,diésel,2500,6000,Buenos Aires,,2022.0,usado,leasing,Grupo Industrial SA,2964.8639394809393,30541.53
+VENT00128,2025-06-10,Yale,eléctrico,5000,6000,Santa Fe,distribuidor,2016.0,usado,crédito,Grupo Industrial SA,6229.571950164929,47276.77
+VENT01123,2025-06-12,Toyota,eléctrico,1800,3000,Buenos Aires,distribuidor,2021.0,nuevo,leasing,Potencia SRL,1663.6839007284632,36737.11
+VENT00869,2025-06-12,Toyota,eléctrico,1800,3000,Mendoza,distribuidor,2023.0,nuevo,contado,Potencia SRL,987.910994745336,36695.68
+VENT01027,2025-06-12,Crown,eléctrico,1800,4000,,distribuidor,2024.0,nuevo,,Forklift Solutions,627.8670044466963,36295.37
+VENT00575,2025-06-13,Crown,eléctrico,1800,4000,Mendoza,particular,2020.0,usado,leasing,Grupo Industrial SA,5723.686066404562,14101.81
+VENT00081,2025-06-14,Toyota,eléctrico,3500,4700,Buenos Aires,particular,2023.0,reacondicionado,crédito,Grupo Industrial SA,,38612.72
+VENT01237,2025-06-15,Yale,eléctrico,1800,3000,Córdoba,particular,2017.0,usado,contado,Forklift Solutions,4610.402336090181,13531.08
+VENT00530,2025-06-16,Hyster,eléctrico,3500,4700,Chubut,distribuidor,2016.0,usado,crédito,Grupo Industrial SA,6481.0362856135835,28690.62
+VENT00680,2025-06-17,Yale,eléctrico,3500,6000,Chubut,particular,2025.0,usado,contado,Forklift Solutions,3039.517504486569,41327.08
+VENT00514,2025-06-18,Yale,diésel,1800,4000,Buenos Aires,empresa logística,2025.0,usado,leasing,Grupo Industrial SA,3151.176620792987,17337.0
+VENT00008,2025-06-18,Hyster,eléctrico,3500,6000,Santa Fe,empresa logística,2020.0,usado,contado,Forklift Solutions,2368.1994237515937,38107.95
+VENT00273,2025-06-19,Yale,gas,5000,4000,Neuquén,distribuidor,2025.0,nuevo,crédito,Forklift Solutions,123.02569617739314,66721.32
+VENT01150,2025-06-20,Toyota,diésel,3500,4000,Neuquén,particular,2018.0,usado,crédito,Forklift Solutions,4103.2986234232,35585.24
+VENT00921,2025-06-21,Crown,gas,2500,4000,Buenos Aires,particular,2025.0,usado,crédito,Potencia SRL,1094.0363847770013,28455.05
+VENT01241,2025-06-22,Hyster,gas,1800,4700,Neuquén,distribuidor,2016.0,usado,contado,Autoelevadores Norte,5465.968112022982,16115.35
+VENT00468,2025-06-22,Linde,diésel,3500,4000,Chubut,particular,2016.0,usado,contado,Forklift Solutions,7753.768208585398,21186.29
+VENT01049,2025-06-24,Linde,eléctrico,5000,4700,Santa Fe,distribuidor,2020.0,nuevo,contado,Autoelevadores Norte,,68163.65
+VENT00815,2025-06-24,Linde,eléctrico,1800,4700,Santa Fe,empresa logística,2016.0,usado,crédito,Forklift Solutions,,15312.75
+VENT01159,2025-06-26,Linde,eléctrico,1800,3000,Buenos Aires,particular,,usado,crédito,Potencia SRL,3519.900962814494,13449.15
+VENT00116,2025-06-26,Crown,diésel,3500,3000,Mendoza,distribuidor,,usado,leasing,Forklift Solutions,1929.6443263568804,29044.57
+VENT01196,2025-06-26,Linde,gas,1800,3000,Chubut,distribuidor,2015.0,usado,leasing,Autoelevadores Norte,6769.878761302958,12000.0
+VENT00796,2025-06-27,Toyota,gas,3500,6000,Neuquén,distribuidor,2025.0,reacondicionado,leasing,Autoelevadores Norte,1521.647011214293,44478.23
+VENT01003,2025-06-28,Linde,eléctrico,5000,4700,Mendoza,particular,2023.0,usado,,Autoelevadores Norte,3850.7249552941644,46883.02
+VENT00615,2025-06-29,Toyota,eléctrico,2500,4700,Córdoba,empresa logística,2023.0,usado,crédito,Grupo Industrial SA,5362.733701217158,20453.64
+VENT01061,2025-06-29,Toyota,diésel,2500,6000,Mendoza,empresa logística,2020.0,usado,,Grupo Industrial SA,6579.09043763781,20714.33
+VENT00949,2025-06-29,Crown,eléctrico,2500,4700,Córdoba,empresa logística,2015.0,nuevo,leasing,Grupo Industrial SA,2652.384714264072,42384.01
+VENT01051,2025-07-01,Crown,diésel,5000,4700,Santa Fe,distribuidor,2019.0,reacondicionado,leasing,Autoelevadores Norte,,50528.47
+VENT00555,2025-07-03,Crown,gas,2500,4000,Santa Fe,empresa logística,2021.0,usado,crédito,Potencia SRL,6537.010226974093,17041.61
+VENT00265,2025-07-04,Yale,diésel,5000,3000,Córdoba,particular,2024.0,reacondicionado,leasing,Potencia SRL,4533.839677467416,51935.73
+VENT00736,2025-07-04,Hyster,eléctrico,3500,4000,Córdoba,distribuidor,,nuevo,leasing,Grupo Industrial SA,711.506199311347,50466.13
+VENT00184,2025-07-04,Linde,gas,3500,3000,Santa Fe,particular,2023.0,reacondicionado,contado,Forklift Solutions,2464.652318422145,38134.22
+VENT00768,2025-07-04,Toyota,eléctrico,2500,4000,Chubut,particular,2019.0,nuevo,crédito,Potencia SRL,2003.1449186115997,45054.29
+VENT00384,2025-07-05,Linde,eléctrico,2500,4700,Santa Fe,distribuidor,2015.0,usado,,Grupo Industrial SA,5630.597229217365,24150.2
+VENT01118,2025-07-05,Linde,diésel,2500,4000,Neuquén,distribuidor,2023.0,usado,leasing,Potencia SRL,2958.4504434198116,26032.08
+VENT01146,2025-07-06,Still,eléctrico,1800,4000,Chubut,distribuidor,2020.0,usado,,Grupo Industrial SA,3004.0706519344167,19089.72
+VENT01084,2025-07-07,Hyster,diésel,1800,3000,,particular,2016.0,nuevo,crédito,Forklift Solutions,3588.4746934525183,26112.46
+VENT01158,2025-07-10,Hyster,eléctrico,2500,4000,Buenos Aires,distribuidor,2023.0,usado,leasing,Autoelevadores Norte,3794.990211429197,26951.61
+VENT01103,2025-07-14,Linde,diésel,1800,4700,Neuquén,distribuidor,2015.0,nuevo,contado,Grupo Industrial SA,4625.693320365885,30473.4
+VENT01045,2025-07-17,Still,eléctrico,3500,4000,Córdoba,particular,2016.0,usado,contado,Forklift Solutions,5064.355396488705,31771.89
+VENT00089,2025-07-19,Yale,gas,3500,6000,Buenos Aires,distribuidor,2025.0,nuevo,contado,Autoelevadores Norte,399.75425699647053,56576.2
+VENT00199,2025-07-19,Toyota,eléctrico,1800,3000,Córdoba,empresa logística,2018.0,reacondicionado,leasing,Autoelevadores Norte,5486.67994800524,21175.4
+VENT00428,2025-07-20,Yale,gas,2500,4000,Santa Fe,empresa logística,2021.0,usado,contado,Autoelevadores Norte,5939.929355815337,21264.31
+VENT01121,2025-07-21,Linde,eléctrico,3500,6000,Buenos Aires,empresa logística,2019.0,usado,crédito,Grupo Industrial SA,3332.7121095176444,39304.03
+VENT00281,2025-07-23,Linde,diésel,2500,4700,Mendoza,,2023.0,usado,contado,Potencia SRL,,27646.77
+VENT00490,2025-07-23,Toyota,diésel,1800,4700,Santa Fe,empresa logística,2021.0,usado,,Grupo Industrial SA,2502.7295329409753,15995.6
+VENT00646,2025-07-24,Linde,gas,1800,3000,,distribuidor,2021.0,nuevo,crédito,Potencia SRL,1307.329944974481,33169.57
+VENT00474,2025-07-25,Yale,eléctrico,3500,3000,Santa Fe,particular,2022.0,usado,leasing,Autoelevadores Norte,,36367.47
+VENT00229,2025-07-26,Toyota,eléctrico,2500,3000,Santa Fe,empresa logística,,reacondicionado,contado,Potencia SRL,4476.08660321723,26102.6
+VENT00906,2025-07-27,Hyster,eléctrico,3500,6000,Córdoba,distribuidor,2018.0,usado,crédito,Autoelevadores Norte,6483.527851731011,36658.45
+VENT00119,2025-07-27,Hyster,eléctrico,2500,3000,Chubut,particular,2022.0,usado,crédito,Potencia SRL,3493.0034930032607,19017.77
+VENT00759,2025-07-29,Still,eléctrico,3500,4000,Buenos Aires,distribuidor,2015.0,reacondicionado,crédito,Forklift Solutions,8061.572217170618,32705.42
+VENT01231,2025-07-29,Still,diésel,3500,3000,Mendoza,particular,2024.0,nuevo,contado,Autoelevadores Norte,963.525626948617,44774.06
+VENT00054,2025-07-30,Toyota,gas,3500,3000,Chubut,particular,2017.0,usado,crédito,Autoelevadores Norte,3289.047592351749,34375.73
+VENT00923,2025-07-30,Crown,diésel,2500,3000,Chubut,particular,2025.0,usado,leasing,Autoelevadores Norte,4031.5072739996453,22082.64
+VENT00632,2025-07-31,Yale,eléctrico,1800,4700,Córdoba,empresa logística,2017.0,nuevo,contado,Forklift Solutions,2722.467904046225,34872.51
+VENT00406,2025-07-31,Yale,diésel,2500,4000,Buenos Aires,,2019.0,nuevo,crédito,Forklift Solutions,1292.2889560648987,46389.77
+VENT00898,2025-08-01,Still,eléctrico,5000,4700,Mendoza,particular,2019.0,usado,contado,Autoelevadores Norte,,48091.65
+VENT00122,2025-08-01,Linde,eléctrico,2500,3000,Buenos Aires,empresa logística,,usado,crédito,Grupo Industrial SA,3219.783037217524,26022.05
+VENT00672,2025-08-02,Still,eléctrico,2500,4700,Buenos Aires,,2018.0,usado,leasing,Forklift Solutions,9038.274030457433,19670.03
+VENT00595,2025-08-02,Toyota,gas,2500,6000,Neuquén,particular,2020.0,usado,,Potencia SRL,3651.484150384597,28355.87
+VENT00192,2025-08-02,Hyster,diésel,2500,6000,Córdoba,distribuidor,2018.0,usado,contado,Grupo Industrial SA,6009.133598910752,25808.75
+VENT00198,2025-08-02,Still,gas,5000,3000,Chubut,empresa logística,2018.0,usado,contado,Autoelevadores Norte,6416.24975906574,38069.73
+VENT00204,2025-08-04,Linde,eléctrico,1800,3000,Buenos Aires,distribuidor,2022.0,usado,contado,Forklift Solutions,2215.2280055143483,15097.11
+VENT00854,2025-08-04,Yale,diésel,2500,3000,,distribuidor,2025.0,nuevo,leasing,Forklift Solutions,408.81273178437925,43787.09
+VENT00746,2025-08-06,Still,diésel,1800,6000,Buenos Aires,particular,2019.0,usado,contado,Forklift Solutions,4773.682648989088,13729.53
+VENT00193,2025-08-07,Crown,diésel,3500,3000,Chubut,particular,2019.0,nuevo,,Potencia SRL,2322.617916666724,47725.86
+VENT00948,2025-08-07,Yale,diésel,1800,3000,Mendoza,distribuidor,2019.0,nuevo,contado,Autoelevadores Norte,2767.400355322939,31186.73
+VENT00486,2025-08-08,Linde,eléctrico,2500,6000,Córdoba,particular,2021.0,reacondicionado,crédito,Potencia SRL,998.1272168870948,42255.37
+VENT00402,2025-08-10,Yale,diésel,1800,4000,Santa Fe,particular,2015.0,usado,crédito,Grupo Industrial SA,6105.583120811658,12000.0
+VENT00569,2025-08-13,Still,gas,2500,4700,Chubut,,2019.0,nuevo,crédito,Forklift Solutions,1879.949727137589,41606.59
+VENT00368,2025-08-14,Toyota,eléctrico,2500,4700,Buenos Aires,distribuidor,2015.0,usado,crédito,Forklift Solutions,5519.811461328842,25396.1
+VENT00409,2025-08-14,Toyota,gas,1800,3000,Neuquén,particular,2015.0,reacondicionado,contado,Grupo Industrial SA,6838.673464485813,15029.18
+VENT00749,2025-08-16,Yale,gas,3500,4000,Buenos Aires,distribuidor,2017.0,usado,crédito,Autoelevadores Norte,5204.327735693152,30553.19
+VENT00454,2025-08-16,Hyster,gas,3500,3000,Santa Fe,distribuidor,2016.0,usado,contado,Grupo Industrial SA,5259.852824726118,31744.88
+VENT00105,2025-08-18,Hyster,eléctrico,2500,3000,Córdoba,empresa logística,2016.0,nuevo,contado,Forklift Solutions,3363.0691985510875,38751.26
+VENT00786,2025-08-19,Hyster,diésel,1800,3000,Santa Fe,distribuidor,2019.0,usado,leasing,Grupo Industrial SA,4215.420162783406,12000.0
+VENT00151,2025-08-19,Linde,eléctrico,3500,4000,,particular,2016.0,usado,leasing,Forklift Solutions,6513.737605468441,29838.78
+VENT00044,2025-08-20,Still,gas,2500,6000,Santa Fe,particular,2024.0,usado,contado,Grupo Industrial SA,4163.364303490351,28673.35
+VENT00507,2025-08-22,Toyota,diésel,2500,4000,Mendoza,particular,2023.0,usado,,Forklift Solutions,,24481.94
+VENT00274,2025-08-26,Still,diésel,3500,4700,Neuquén,empresa logística,2024.0,usado,crédito,Autoelevadores Norte,5297.024931325458,27854.75
+VENT00938,2025-08-27,Linde,eléctrico,1800,3000,Mendoza,distribuidor,2020.0,usado,leasing,Grupo Industrial SA,5311.898068520859,13768.81
+VENT00837,2025-08-28,Toyota,eléctrico,3500,3000,Chubut,particular,2017.0,usado,crédito,Forklift Solutions,6532.661381167145,30180.42
+VENT00243,2025-08-28,Still,eléctrico,5000,4700,Buenos Aires,distribuidor,2020.0,usado,contado,Potencia SRL,2361.5213864490083,52191.19
+VENT00954,2025-08-28,Yale,diésel,1800,4000,Chubut,particular,2020.0,usado,contado,Autoelevadores Norte,5273.334779274815,12000.0
+VENT01019,2025-08-29,Still,diésel,1800,6000,Neuquén,particular,2024.0,usado,,Autoelevadores Norte,4077.091576326446,19813.06
+VENT00997,2025-09-01,Hyster,diésel,1800,3000,Neuquén,distribuidor,,usado,crédito,Forklift Solutions,4485.789421802558,15169.14
+VENT00826,2025-09-04,Toyota,diésel,5000,3000,Mendoza,empresa logística,2024.0,usado,leasing,Potencia SRL,199.19684115334587,47082.29
+VENT00814,2025-09-06,Toyota,gas,3500,4700,Chubut,distribuidor,2019.0,reacondicionado,crédito,Potencia SRL,4505.652203832393,40127.03
+VENT01249,2025-09-06,Hyster,diésel,1800,6000,Mendoza,particular,2018.0,usado,crédito,Forklift Solutions,4782.530314973926,13582.57
+VENT00616,2025-09-06,Crown,gas,3500,3000,Mendoza,particular,2018.0,reacondicionado,leasing,Forklift Solutions,6431.5860598428735,32978.57
+VENT00056,2025-09-07,Crown,eléctrico,1800,4000,,distribuidor,2016.0,nuevo,crédito,Grupo Industrial SA,4154.101873958475,33062.95
+VENT00800,2025-09-08,Still,gas,2500,4000,Buenos Aires,distribuidor,2019.0,nuevo,contado,Forklift Solutions,3091.1497188917187,40996.19
+VENT01023,2025-09-11,Crown,diésel,1800,4700,Córdoba,particular,2021.0,reacondicionado,crédito,Grupo Industrial SA,5542.688329202701,21503.79
+VENT01016,2025-09-12,Crown,gas,3500,4000,Santa Fe,distribuidor,2018.0,usado,,Potencia SRL,6065.424699391666,28252.49
+VENT00183,2025-09-12,Still,eléctrico,5000,4000,Buenos Aires,particular,2020.0,nuevo,leasing,Autoelevadores Norte,1908.4890038539509,61726.27
+VENT00808,2025-09-13,Toyota,diésel,2500,3000,Buenos Aires,distribuidor,2022.0,usado,contado,Grupo Industrial SA,1580.7828778795936,18816.32
+VENT00578,2025-09-14,Still,eléctrico,2500,4700,Chubut,empresa logística,2024.0,reacondicionado,leasing,Forklift Solutions,2996.0666099187347,37274.15
+VENT01104,2025-09-16,Yale,gas,3500,4700,Neuquén,distribuidor,2018.0,nuevo,leasing,Potencia SRL,2218.219761248511,50159.09
+VENT00246,2025-09-17,Crown,diésel,1800,4000,Santa Fe,particular,2024.0,reacondicionado,contado,Potencia SRL,1303.9218332824812,21515.8
+VENT00685,2025-09-18,Crown,diésel,3500,6000,Buenos Aires,particular,2021.0,usado,crédito,Grupo Industrial SA,2229.0525634519813,35865.78
+VENT00113,2025-09-19,Still,gas,5000,6000,Chubut,particular,2023.0,usado,leasing,Forklift Solutions,2958.0576234778528,47813.9
+VENT00716,2025-09-19,Still,gas,3500,4700,Chubut,distribuidor,2025.0,usado,crédito,Potencia SRL,482.62603335295717,37067.42
+VENT00396,2025-09-20,Hyster,eléctrico,5000,3000,Córdoba,empresa logística,2022.0,usado,leasing,Grupo Industrial SA,299.3366419647641,54974.26
+VENT00797,2025-09-22,Crown,gas,3500,3000,Mendoza,particular,2025.0,usado,contado,Grupo Industrial SA,4142.071298679801,25983.41
+VENT01184,2025-09-22,Linde,diésel,1800,3000,,particular,2017.0,nuevo,contado,Autoelevadores Norte,2151.800817582619,30875.84
+VENT00513,2025-09-23,Linde,diésel,3500,6000,Chubut,empresa logística,2017.0,usado,crédito,Autoelevadores Norte,3905.3671994952338,34839.5
+VENT00807,2025-09-26,Toyota,eléctrico,5000,3000,Santa Fe,empresa logística,2025.0,reacondicionado,leasing,Autoelevadores Norte,3761.478038204822,51581.62
+VENT00257,2025-09-28,Yale,eléctrico,3500,4000,Mendoza,empresa logística,2023.0,reacondicionado,crédito,Potencia SRL,2322.341405436945,42102.45
+VENT00972,2025-09-29,Toyota,eléctrico,2500,4700,Santa Fe,distribuidor,2024.0,nuevo,contado,Grupo Industrial SA,420.1427074863805,49649.02
+VENT00179,2025-09-29,Still,eléctrico,1800,6000,Córdoba,distribuidor,2017.0,usado,crédito,Potencia SRL,4853.250929991249,17971.54
+VENT01186,2025-09-30,Toyota,diésel,2500,3000,Chubut,distribuidor,2019.0,usado,crédito,Autoelevadores Norte,4184.965880371612,22331.9
+VENT00721,2025-10-01,Yale,eléctrico,3500,3000,Córdoba,particular,2015.0,usado,crédito,Grupo Industrial SA,4100.420921409495,31268.48
+VENT00053,2025-10-03,Toyota,gas,3500,4700,Santa Fe,distribuidor,2020.0,usado,contado,Grupo Industrial SA,3996.3834959514197,31259.33
+VENT01053,2025-10-03,Yale,eléctrico,1800,4000,Santa Fe,distribuidor,2016.0,usado,leasing,Forklift Solutions,5643.122621061741,12891.04
+VENT00359,2025-10-04,Hyster,diésel,2500,4700,Chubut,empresa logística,2024.0,usado,contado,Autoelevadores Norte,2162.8651493990196,28160.49
+VENT00752,2025-10-04,Still,gas,2500,4000,Santa Fe,particular,2015.0,usado,contado,Autoelevadores Norte,6253.65060669786,14524.29
+VENT00241,2025-10-05,Hyster,gas,2500,4000,Mendoza,,2018.0,usado,leasing,Grupo Industrial SA,5169.020030986337,21360.7
+VENT00365,2025-10-06,Toyota,diésel,3500,4000,Neuquén,distribuidor,2020.0,nuevo,crédito,Potencia SRL,2092.39249402414,45755.69
+VENT01091,2025-10-08,Toyota,eléctrico,2500,3000,Neuquén,distribuidor,2021.0,reacondicionado,contado,Autoelevadores Norte,4256.282086828773,32016.64
+VENT00135,2025-10-08,Still,gas,1800,4700,Santa Fe,distribuidor,2021.0,usado,contado,Grupo Industrial SA,6349.145571688241,15066.64
+VENT01224,2025-10-09,Still,diésel,2500,3000,Córdoba,distribuidor,2020.0,usado,crédito,Autoelevadores Norte,6108.6168331081235,17983.13
+VENT01013,2025-10-10,Still,eléctrico,2500,4700,Buenos Aires,particular,2017.0,reacondicionado,leasing,Autoelevadores Norte,5546.54239886816,31941.71
+VENT01025,2025-10-10,Toyota,eléctrico,2500,4000,Santa Fe,distribuidor,2017.0,usado,,Grupo Industrial SA,5077.408543914544,25076.7
+VENT01085,2025-10-11,Crown,diésel,2500,4000,Buenos Aires,distribuidor,2024.0,usado,contado,Autoelevadores Norte,2571.876044161624,32035.55
+VENT00536,2025-10-11,Toyota,diésel,2500,4000,Córdoba,empresa logística,2019.0,usado,contado,Forklift Solutions,5112.187042120244,16890.47
+VENT00870,2025-10-13,Hyster,diésel,3500,3000,Mendoza,particular,2019.0,nuevo,leasing,Grupo Industrial SA,1164.8514716454954,46593.22
+VENT00446,2025-10-14,Crown,diésel,2500,4700,Neuquén,particular,2025.0,usado,leasing,Forklift Solutions,573.6665638690735,28050.86
+VENT00790,2025-10-15,Hyster,diésel,1800,3000,Chubut,particular,,reacondicionado,crédito,Potencia SRL,2285.6951060592532,19079.37
+VENT00918,2025-10-16,Toyota,gas,3500,4000,Córdoba,distribuidor,2020.0,usado,crédito,Forklift Solutions,384.2623449383848,38874.52
+VENT00034,2025-10-17,Toyota,eléctrico,2500,4700,Santa Fe,distribuidor,2022.0,usado,leasing,Autoelevadores Norte,,24799.3
+VENT00509,2025-10-18,Toyota,diésel,3500,3000,Neuquén,,2017.0,usado,crédito,Autoelevadores Norte,5556.550635986792,22888.36
+VENT01080,2025-10-18,Toyota,diésel,3500,4700,Santa Fe,distribuidor,2025.0,usado,leasing,Grupo Industrial SA,,38397.96
+VENT00576,2025-10-18,Toyota,diésel,1800,4700,Santa Fe,particular,2019.0,usado,leasing,Potencia SRL,3005.181465673703,16268.79
+VENT00999,2025-10-19,Yale,eléctrico,1800,6000,Buenos Aires,empresa logística,2017.0,reacondicionado,contado,Autoelevadores Norte,4526.1748894347675,23508.11
+VENT00489,2025-10-19,Crown,diésel,2500,4700,Santa Fe,empresa logística,2023.0,usado,leasing,Forklift Solutions,471.286124137637,30026.81
+VENT00412,2025-10-19,Yale,diésel,5000,6000,Córdoba,distribuidor,2021.0,reacondicionado,leasing,Potencia SRL,4222.673311099548,55612.5
+VENT00413,2025-10-19,Hyster,diésel,3500,4000,Buenos Aires,particular,2024.0,nuevo,leasing,Forklift Solutions,728.1602541975761,48872.07
+VENT01221,2025-10-20,Crown,diésel,3500,4700,Neuquén,distribuidor,2017.0,nuevo,,Grupo Industrial SA,3533.9857757734244,45986.03
+VENT00002,2025-10-20,Toyota,gas,3500,6000,Neuquén,empresa logística,2015.0,nuevo,leasing,Autoelevadores Norte,4687.976275968513,51366.68
+VENT00541,2025-10-24,Crown,gas,3500,4700,Mendoza,empresa logística,2017.0,reacondicionado,leasing,Autoelevadores Norte,2798.15158540606,38692.9
+VENT00242,2025-10-24,Hyster,eléctrico,2500,3000,Santa Fe,distribuidor,2020.0,usado,,Autoelevadores Norte,3817.113129721608,26566.51
+VENT00325,2025-10-26,Linde,eléctrico,5000,4700,Mendoza,,2025.0,usado,,Autoelevadores Norte,2827.2962343980553,50398.72
+VENT01122,2025-10-27,Yale,eléctrico,1800,6000,Santa Fe,particular,2017.0,reacondicionado,crédito,Autoelevadores Norte,3537.152917751271,30448.05
+VENT00844,2025-11-04,Crown,diésel,1800,6000,Buenos Aires,distribuidor,2018.0,reacondicionado,crédito,Forklift Solutions,5835.924146213996,21997.69
+VENT00367,2025-11-04,Toyota,eléctrico,1800,4700,,particular,2022.0,reacondicionado,crédito,Autoelevadores Norte,6170.308226975548,24800.34
+VENT00465,2025-11-05,Linde,gas,2500,3000,Mendoza,distribuidor,2017.0,usado,leasing,Potencia SRL,3040.4553532687323,20220.49
+VENT00314,2025-11-06,Toyota,eléctrico,3500,3000,Santa Fe,empresa logística,2024.0,usado,crédito,Forklift Solutions,2208.957399720387,33633.49
+VENT01181,2025-11-06,Linde,gas,1800,4000,Neuquén,empresa logística,2024.0,reacondicionado,crédito,Autoelevadores Norte,1605.8676964111164,28840.45
+VENT00141,2025-11-06,Linde,diésel,1800,4700,Córdoba,particular,2019.0,usado,contado,Grupo Industrial SA,4873.957859877395,13486.99
+VENT00249,2025-11-07,Still,eléctrico,3500,4700,Neuquén,distribuidor,2017.0,usado,crédito,Potencia SRL,2203.9157540749643,37084.61
+VENT00470,2025-11-07,Crown,eléctrico,3500,3000,Chubut,distribuidor,,usado,contado,Grupo Industrial SA,3052.7437758435694,31634.18
+VENT00718,2025-11-09,Linde,eléctrico,3500,3000,Neuquén,distribuidor,2023.0,usado,crédito,Potencia SRL,3195.2434295992407,33198.31
+VENT00035,2025-11-10,Yale,diésel,5000,3000,Chubut,,2021.0,nuevo,leasing,Potencia SRL,1086.2041743835562,62858.28
+VENT00248,2025-11-12,Linde,diésel,2500,6000,Córdoba,empresa logística,2022.0,nuevo,,Grupo Industrial SA,1571.4230139453125,47132.15
+VENT01239,2025-11-14,Toyota,eléctrico,2500,3000,Chubut,distribuidor,2025.0,reacondicionado,leasing,Autoelevadores Norte,3379.736254871802,32369.57
+VENT01102,2025-11-15,Yale,diésel,1800,3000,Mendoza,particular,2023.0,reacondicionado,crédito,Potencia SRL,1328.89534295358,21347.94
+VENT01198,2025-11-15,Hyster,diésel,2500,4000,Mendoza,distribuidor,2017.0,reacondicionado,leasing,Grupo Industrial SA,5133.8288735576025,27367.25
+VENT00479,2025-11-16,Hyster,diésel,3500,4000,Santa Fe,,2022.0,nuevo,crédito,Autoelevadores Norte,817.7380528694235,49061.28
+VENT00679,2025-11-16,Yale,gas,2500,6000,Buenos Aires,particular,2020.0,usado,leasing,Autoelevadores Norte,5384.326158039101,24681.27
+VENT00051,2025-11-16,Toyota,diésel,2500,4000,Santa Fe,empresa logística,,nuevo,leasing,Forklift Solutions,669.2050496391322,40094.12
+VENT00523,2025-11-17,Yale,eléctrico,5000,3000,Santa Fe,,2019.0,nuevo,crédito,Grupo Industrial SA,,60987.45
+VENT00472,2025-11-17,Toyota,eléctrico,1800,4000,Córdoba,,2015.0,usado,crédito,Grupo Industrial SA,6988.925454136709,13166.79
+VENT00012,2025-11-17,Toyota,eléctrico,2500,3000,Neuquén,empresa logística,,nuevo,crédito,Potencia SRL,2563.3793167320423,42617.46
+VENT01024,2025-11-18,Hyster,diésel,5000,4700,Mendoza,distribuidor,2016.0,usado,crédito,Potencia SRL,4354.62427504452,45991.84
+VENT00140,2025-11-19,Crown,diésel,1800,4700,Santa Fe,particular,2024.0,usado,crédito,Forklift Solutions,3684.307309875314,18025.09
+VENT00227,2025-11-21,Hyster,eléctrico,2500,3000,Buenos Aires,particular,2023.0,reacondicionado,,Autoelevadores Norte,4601.82523909072,30285.97
+VENT01197,2025-11-22,Crown,diésel,2500,4000,Santa Fe,,2024.0,usado,contado,Autoelevadores Norte,2263.9907551566625,26515.37
+VENT00499,2025-11-23,Yale,gas,2500,4700,Neuquén,,2024.0,usado,crédito,Grupo Industrial SA,1718.0659209271219,30305.69
+VENT00306,2025-11-25,Toyota,diésel,1800,3000,Chubut,particular,2020.0,usado,leasing,Potencia SRL,4061.7263373093215,12000.0
+VENT00582,2025-12-01,Toyota,eléctrico,2500,3000,Chubut,distribuidor,2022.0,usado,contado,Forklift Solutions,4035.561095274166,28144.83
+VENT01172,2025-12-03,Crown,eléctrico,2500,4000,Neuquén,particular,2024.0,usado,contado,Potencia SRL,4451.504582740699,28074.18
+VENT00676,2025-12-05,Still,eléctrico,1800,4000,Neuquén,particular,2019.0,usado,leasing,Forklift Solutions,4956.5762608474415,12000.0
+VENT01062,2025-12-07,Yale,eléctrico,1800,4000,Chubut,distribuidor,2015.0,usado,contado,Autoelevadores Norte,2496.0546757966604,20865.01
+VENT01229,2025-12-07,Yale,eléctrico,3500,3000,Córdoba,empresa logística,2020.0,reacondicionado,,Autoelevadores Norte,4433.889989900308,38254.43
+VENT00933,2025-12-08,Still,eléctrico,1800,3000,Buenos Aires,,2024.0,usado,leasing,Forklift Solutions,3297.0785606309087,21361.82
+VENT00811,2025-12-08,Linde,gas,1800,4000,Mendoza,distribuidor,2021.0,reacondicionado,contado,Forklift Solutions,6035.793487675266,25271.11
+VENT00155,2025-12-10,Hyster,diésel,5000,4700,Chubut,empresa logística,2021.0,reacondicionado,crédito,Grupo Industrial SA,,43402.81
+VENT00447,2025-12-10,Linde,diésel,1800,4000,Mendoza,particular,2019.0,usado,contado,Grupo Industrial SA,6609.922455727022,13431.59
+VENT00500,2025-12-10,Hyster,diésel,1800,4000,Córdoba,particular,2017.0,usado,crédito,Grupo Industrial SA,6419.942024993449,12000.0
+VENT00442,2025-12-11,Linde,diésel,3500,4700,Córdoba,distribuidor,2019.0,reacondicionado,crédito,Potencia SRL,4948.6853246069495,36680.77
+VENT00070,2025-12-11,Linde,gas,2500,4000,Mendoza,distribuidor,2024.0,nuevo,contado,Autoelevadores Norte,652.5853862078615,46784.11
+VENT00662,2025-12-11,Hyster,diésel,1800,3000,Santa Fe,distribuidor,2022.0,reacondicionado,crédito,Grupo Industrial SA,1730.4823657442619,22446.08
+VENT00519,2025-12-12,Toyota,eléctrico,1800,4700,Neuquén,empresa logística,2018.0,nuevo,contado,Potencia SRL,3188.625261305169,38090.21
+VENT01012,2025-12-12,Crown,diésel,1800,4000,,particular,2020.0,usado,crédito,Grupo Industrial SA,5157.988896355287,15164.85
+VENT01075,2025-12-13,Yale,eléctrico,3500,4700,Neuquén,particular,2015.0,usado,contado,Autoelevadores Norte,8009.829552683691,30986.12
+VENT00262,2025-12-16,Crown,diésel,2500,3000,Buenos Aires,distribuidor,2024.0,nuevo,crédito,Forklift Solutions,681.223450462179,39018.54
+VENT00706,2025-12-16,Linde,diésel,1800,4000,Chubut,empresa logística,2025.0,usado,contado,Potencia SRL,3383.2071388837426,19987.46
+VENT00391,2025-12-17,Hyster,diésel,2500,3000,Buenos Aires,particular,2016.0,usado,crédito,Grupo Industrial SA,6353.946248461131,14669.67
+VENT01089,2025-12-18,Crown,eléctrico,2500,4000,Neuquén,distribuidor,2017.0,usado,contado,Potencia SRL,4265.97147147532,26948.49
+VENT00476,2025-12-20,Hyster,diésel,2500,4700,Córdoba,,2022.0,usado,crédito,Forklift Solutions,2850.6553588182173,23539.15
+VENT01105,2025-12-23,Still,eléctrico,1800,3000,Chubut,distribuidor,2022.0,usado,leasing,Potencia SRL,4445.309133158111,18936.5
+VENT00533,2025-12-26,Hyster,diésel,3500,4000,Mendoza,distribuidor,2024.0,usado,crédito,Potencia SRL,2129.58316998247,38520.52
+VENT00848,2025-12-26,Yale,eléctrico,2500,4000,,empresa logística,2015.0,nuevo,contado,Forklift Solutions,3643.2812713434923,38670.77
+VENT01210,2025-12-26,Toyota,eléctrico,2500,4000,Neuquén,empresa logística,2022.0,reacondicionado,leasing,Forklift Solutions,3040.0460271175198,36815.84
+VENT01055,2025-12-27,Hyster,gas,1800,4700,Córdoba,particular,2024.0,reacondicionado,leasing,Potencia SRL,,23699.58
+VENT00532,2025-12-30,Toyota,diésel,1800,3000,,particular,2021.0,nuevo,crédito,Grupo Industrial SA,697.2418503514364,33029.47
